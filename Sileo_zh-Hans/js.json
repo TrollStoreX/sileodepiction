@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://invalidunit.github.io/sileodepiction/com.nan.coolcc/top.png",
+    "headerImage": "",
     "tintColor": "#FF4455",
     "minVersion": "0.3",
     "tabs": [
@@ -78,7 +78,7 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "",
+            "tabname": "说点什么",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
