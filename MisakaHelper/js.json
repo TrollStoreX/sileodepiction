@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "很酷的线条轮廓控制中心",
+                    "title": "Twitter NoAd 去广告插件",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -82,7 +82,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "null",
+                    "title": " ",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
