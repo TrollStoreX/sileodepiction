@@ -78,7 +78,7 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "说点什么",
+            "tabname": "说点什么？",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
