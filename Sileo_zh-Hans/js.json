@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Sileo 汉化补全、本地化",
+                    "title": "Sileo 汉化补全、本地化。",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
