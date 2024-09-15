@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
-    "tintColor": "#FF4455",
+    "tintColor": "#59AEBC",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -75,7 +75,7 @@
                     "spacing": 16
                 },
                 {
-                    "title":"加入 Telegram 巨魔商店Pro 群组",
+                    "title":"Telegram 巨魔商店Pro",
                     "action":"https://t.me/TrollStorePro",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
