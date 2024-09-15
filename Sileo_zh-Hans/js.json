@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     
-    "tintColor": "#FF4455",
+    "tintColor": "#59AEBC",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -84,7 +84,7 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "说点什么？",
+            "tabname": "更新",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "再进一步，就能找到世界的真实了吗？",
+                    "markdown": "倡导富强、民主、文明、和谐，倡导自由、平等、公正、法治，倡导爱国、敬业、诚信、友善，积极培育和践行社会主义核心价值观。富强、民主、文明、和谐是国家层面的价值目标，自由、平等、公正、法治是社会层面的价值取向，爱国敬业、诚信、友善是公民个人层面的价值准则。 ​",
                     "useRawFormat": true
                 }
             ]
