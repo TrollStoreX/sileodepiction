@@ -10,7 +10,8 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "清理垃圾缓存、禁用插件启动项（Bootstrap环境下支持垃圾清理）",
+                    "title": "清理垃圾缓存、禁用插件启动项
+                    （Bootstrap环境下支持垃圾清理）",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
