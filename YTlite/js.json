@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "YouTube 增强插件 </br> </br>支持去广告、下载视频、各种自定义",
+                    "markdown": "YouTube 增强插件 </br> </br>支持去广告、视频下载、各种自定功能",
                     "useRawFormat": true,
                 },
                 {
@@ -85,3 +85,11 @@
                     "useBottomMargin": false
                 },
                 {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "暂无",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}
