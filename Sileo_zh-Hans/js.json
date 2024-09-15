@@ -9,10 +9,10 @@
             "tabname": "描述",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Sileo 汉化补全、本地化 </br> </br>Tips:卸载该中文包后需重新安装 Sileo，否则Sileo 将是英文界面",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Sileo 汉化补全、本地化 </br> </br>Tips:卸载该中文包后需重新安装 Sileo，否则Sileo 将是英文界面",
                     "useBoldText": true,
-                    "useBottomMargin": false
+                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionScreenshotsView",
