@@ -9,11 +9,9 @@
             "tabname": "描述",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "清理垃圾缓存、禁用插件启动项
-                    （Bootstrap环境下支持垃圾清理）",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "清理垃圾缓存、禁用插件启动项（Bootstrap环境下支持垃圾清理）",
+                    "useRawFormat": true,
                 },
                 {
                     "class": "DepictionScreenshotsView",
