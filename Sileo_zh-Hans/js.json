@@ -9,6 +9,12 @@
             "tabname": "描述",
             "views": [
                 {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "Sileo 汉化补全、本地化 </br> </br>Tips:卸载该中文包后需重新安装 Sileo，否则Sileo 将是英文界面",
                     "useBoldText": true,
