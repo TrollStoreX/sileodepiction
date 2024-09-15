@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
     "tintColor": "#59AEBC",
     "minVersion": "0.3",
     "tabs": [
@@ -58,23 +58,13 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "巨魔商店Telegram",
-                    "title": "作者"
-                },
-                {
-                    "class": "DepictionTableTextView",
                     "text": "2.6",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS15-iOS16",
+                    "text": "iOS 15-iOS 17.0",
                     "title": "支持系统范围"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "2024 年 09 月 13 日",
-                    "title": "最后更新日期"
                 },
                 {
                     "class": "DepictionSpacerView",
