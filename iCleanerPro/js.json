@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "清理垃圾缓存、禁用插件启动项（Bootstrap环境下支持垃圾清理）",
+                    "markdown": "清理缓存，日志，禁用插件或系统启动项 </br> </br>Tips: Bootstrap 环境下仅支持清理缓存，日志",
                     "useRawFormat": true,
                 },
                 {
