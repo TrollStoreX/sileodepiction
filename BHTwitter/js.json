@@ -73,6 +73,12 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
+                },
+                {
+                    "title":"加入 Telegram 巨魔商店Pro 群组",
+                    "action":"https://t.me/TrollStorePro",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
             ]
         },
