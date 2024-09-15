@@ -75,6 +75,9 @@
                     "spacing": 16
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "title":"Telegram 巨魔商店Pro",
                     "action":"https://t.me/TrollStorePro",
                     "openExternal": 1,
