@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "清理垃圾缓存、禁用插件启动项",
+                    "title": "清理垃圾缓存、禁用插件启动项（Bootstrap环境下支持垃圾清理）",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -77,7 +77,7 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "说点什么？",
+            "tabname": "更新",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
@@ -87,7 +87,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "再进一步，就能找到世界的真实了吗？",
+                    "markdown": "暂无",
                     "useRawFormat": true
                 }
             ]
