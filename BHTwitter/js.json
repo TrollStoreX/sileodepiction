@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS15-iOS16",
+                    "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统范围"
                 },
                 {
@@ -103,7 +103,8 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "暂无",
+                    "markdown": " • 上传自定义语音</br> • 复制后选择推文的URL主机，如fxtwitter或vxtwitter。</br>
+ • 删除不必要的选项。",
                     "useRawFormat": true
                 }
             ]
