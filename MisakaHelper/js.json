@@ -21,21 +21,6 @@
                     "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": ""
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": ""
-                        }
-                    ]
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
