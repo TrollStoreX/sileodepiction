@@ -43,12 +43,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4nni3",
-                    "title": "作者"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "1:4.0~beta2",
+                    "text": "1.2.4",
                     "title": "最新版本"
                 },
                 {
