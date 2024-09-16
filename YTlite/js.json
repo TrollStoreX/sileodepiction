@@ -9,6 +9,12 @@
             "tabname": "描述",
             "views": [
                 {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "YouTube 增强插件 </br> </br>支持去广告、视频下载、各种自定功能",
                     "useRawFormat": true,
@@ -80,13 +86,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "",
+                    "title": "5.0.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "暂无",
+                    "markdown": "未知",
                     "useRawFormat": true
                 }
             ]
