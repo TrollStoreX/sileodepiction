@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Dopamine support! \n- Fix a bug that broke compatibility with some apps where 1.7.1 worked",
+                    "markdown": "- Dopamine support! \n- Fix a bug that broke compatibility with some apps where 1.7.1 worked",
                     "useRawFormat": true
                 }
             ]
