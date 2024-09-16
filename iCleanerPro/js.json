@@ -9,6 +9,12 @@
             "tabname": "描述",
             "views": [
                 {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "清理缓存，日志，禁用插件或系统启动项 </br> </br>Tips: Bootstrap 环境下仅支持清理缓存，日志",
                     "useRawFormat": true,
@@ -80,13 +86,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "",
+                    "title": "7.10.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "暂无",
+                    "markdown": "未知",
                     "useRawFormat": true
                 }
             ]
