@@ -9,6 +9,12 @@
             "tabname": "描述",
             "views": [
                 {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
                     "class": "DepictionSubheaderView",
                     "title": "Twitter/X，增强插件，去广告、视频下载、修改图标等",
                     "useBoldText": true,
@@ -87,17 +93,19 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "说点什么？",
+            "tabname": "更新",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "",
+                    "title": "4.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "再进一步，就能找到世界的真实了吗？",
+                    "markdown": "上传自定义语音
+复制后选择推文的URL主机，如fxtwitter或vxtwitter。
+删除不必要的选项。",
                     "useRawFormat": true
                 }
             ]
