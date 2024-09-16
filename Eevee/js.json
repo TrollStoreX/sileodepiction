@@ -78,13 +78,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "",
+                    "title": "5.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "5.1  添加更多​语言",
+                    "markdown": "Dopamine support! \n- Fix a bug that broke compatibility with some apps where 1.7.1 worked",
                     "useRawFormat": true
                 }
             ]
