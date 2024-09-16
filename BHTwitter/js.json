@@ -103,9 +103,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "上传自定义语音
-复制后选择推文的URL主机，如fxtwitter或vxtwitter。
-删除不必要的选项。",
+                    "markdown": "暂无",
                     "useRawFormat": true
                 }
             ]
