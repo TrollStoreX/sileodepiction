@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "虚拟定位 Spoof GPS location
+                    "markdown": "虚拟定位 Spoof GPS location",
                     "useBoldText": true,
                     "useRawFormat": true
                 },
