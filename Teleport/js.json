@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "虚拟定位 Spoof GPS location",
+                    "markdown": "免费的虚拟定位 Spoof GPS location</br> </br>缺点是搜索不支持中文输入法，得通过复制粘贴解决",
                     "useBoldText": true,
                     "useRawFormat": true
                 },
