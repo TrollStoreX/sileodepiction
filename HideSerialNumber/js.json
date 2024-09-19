@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修改/隐藏系统设置内的版本号等文本</br> </br>Hide Serial Number in Settings About page.
+                    "markdown": "修改/隐藏系统设置内的版本号等文本</br> </br>Hide Serial Number in Settings About page."
                     "useBoldText": true,
                     "useRawFormat": true
                 },
