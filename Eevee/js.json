@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.1",
+                    "text": "5.2",
                     "title": "最新版本"
                 },
                 {
@@ -78,13 +78,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "5.1",
+                    "title": "5.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "新增语言",
+                    "markdown": " • 新增巴西语言本地化，法语本地化更正",
                     "useRawFormat": true
                 }
             ]
