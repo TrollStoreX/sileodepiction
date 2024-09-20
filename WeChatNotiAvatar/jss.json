@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.2",
+                    "text": "1.2-2",
                     "title": "最新版本"
                 },
                 {
@@ -78,7 +78,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.2.2",
+                    "title": "1.2-2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
