@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "让微信消息通知显示微信好友头像 </br> </br> 傻逼张小龙为什么不支持？",
+                    "markdown": "仅支持越狱环境，注入无效 </br> </br> 让微信消息通知显示微信好友头像 </br> </br> 傻逼张小龙为什么不支持？",
                     "useBoldText": true,
                     "useRawFormat": true
                 },
