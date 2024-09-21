@@ -84,9 +84,8 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": " • 使评论部分透明的选项
- • 停止视频循环的选项
- • 修复了一些按钮图像",
+                    "markdown": "使评论部分透明的选项停止视频循环的选项，修复了一些按钮图像",
+修复了一些按钮图像",
                     "useRawFormat": true
                 }
             ]
