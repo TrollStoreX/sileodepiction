@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "",
+                    "markdown": "未知",
                     "useRawFormat": true
                 }
             ]
