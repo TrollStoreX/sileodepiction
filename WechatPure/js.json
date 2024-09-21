@@ -84,8 +84,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": " • 和过去做个告别，去年的最后一个版本
-                    • 上传留作纪念，永远不再维护，去除时间限制，再见",
+                    "markdown": " • 和过去做个告别，去年的最后一个版本 </br> • 上传留作纪念，永远不再维护</br> • 去除时间限制，再见",
                     "useRawFormat": true
                 }
             ]
