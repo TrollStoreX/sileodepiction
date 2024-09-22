@@ -63,7 +63,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.3-1+debug",
+                    "text": "4.3-2+debug",
                     "title": "最新版本"
                 },
                 {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 02 月 11 日",
+                    "text": "2024 年 09 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,13 +97,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "4.3",
+                    "title": "4.3-2+debug",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "未知",
+                    "markdown": "隐藏个人资料和导航栏中的“通过验证”和“升级”按钮，隐藏底栏 Gork 菜单",
                     "useRawFormat": true
                 }
             ]
