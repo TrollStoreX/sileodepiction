@@ -58,8 +58,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.0",
-                    "title": "最新版本"
+                    "text": "1.2-3+debug",
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -78,13 +78,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.1.0",
+                    "title": "1.2-3+debug",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "未知",
+                    "markdown": " • 新增下载高清视频功能",
                     "useRawFormat": true
                 }
             ]
