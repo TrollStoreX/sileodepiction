@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Sileo 汉化补全、本地化 </br> </br>Tips: 卸载该中文包后需重新安装 Sileo，否则 Sileo 将是英文界面",
+                    "markdown": "Sileo 简体中文本地化</br> </br>修正翻译错误，本地化</br>完善 Sileo 简体中文</br>支持 RootHide Sileo </br> ⚠️注意：卸载汉化包需重新安装Sileo恢复中文",
                     "useBoldText": true,
                     "useRawFormat": true
                 },
@@ -58,13 +58,13 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.6",
-                    "title": "最新版本"
+                    "text": "2.7",
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
+                    "title": "支持系统"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -78,13 +78,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.6",
+                    "title": "2.7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "倡导富强、民主、文明、和谐，倡导自由、平等、公正、法治，倡导爱国、敬业、诚信、友善，积极培育和践行社会主义核心价值观。富强、民主、文明、和谐是国家层面的价值目标，自由、平等、公正、法治是社会层面的价值取向，爱国敬业、诚信、友善是公民个人层面的价值准则。 ​",
+                    "markdown": " • 新增长按插件历史版本汉化</br> • 其他小优化",
                     "useRawFormat": true
                 }
             ]
