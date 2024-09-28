@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  HideNotificationBadge:\n- 隐藏推送通知图标右下角标\n- 可配合 WeChatNotiAvatar 插件使用",
+                    "markdown": "###  HideNotificationBadge\n- 隐藏推送通知图标右下角标\n- 可配合 WeChatNotiAvatar 插件使用",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
