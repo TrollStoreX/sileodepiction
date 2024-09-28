@@ -15,10 +15,9 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 修正 Sileo 翻译错误，简体中文本地化:\n- • 完善 Sileo 简体中文</br> • 支持 RootHide Sileo </br></br> ⚠️注意：卸载汉化包需重新安装Sileo恢复中文",
+                    "markdown": "### Features:\n- A modern in-app purchase cracker!",
                     "useSpacing": true,
-                    "useRawFormat": true
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
