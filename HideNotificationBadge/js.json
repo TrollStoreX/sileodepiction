@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "HideNotificationBadge</br></br> • 隐藏推送通知图标右下角标</br> • 可配合 WeChatNotiAvatar 插件使用",
+                    "markdown": "HideNotificationBadge</br></br> 1. 隐藏推送通知图标右下角标</br>  * 可配合 WeChatNotiAvatar 插件使用",
                     "useBoldText": true,
                     "useRawFormat": true
                 },
