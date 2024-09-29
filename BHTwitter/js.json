@@ -94,16 +94,7 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                                {
-                    "class": "DepictionSubheaderView",
-                    "title": "4.3-3+debug",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "修复 X 10.60 隐藏右上角“升级”按钮失效问题",
-                    "useRawFormat": true
+
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.3-2+debug",
