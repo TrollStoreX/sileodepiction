@@ -16,8 +16,8 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "键盘底部显示[撤销] [选择] [粘贴]按钮。 </br> </br>Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition",
-                    "useBoldText": true,
+                    "markdown": "### 键盘底部显示[撤销] [选择] [粘贴]按钮。 </br> </br>Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition",
+                    "useSpacing": true,
                     "useRawFormat": true
                 },
                 {
