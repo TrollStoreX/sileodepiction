@@ -15,10 +15,9 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Twitter/X，增强插件，去广告、视频下载、修改图标等",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "markdown": "###  Twitter/X 增强插件\n- 视频下载\n- 修改应用图标\n- 去广告、去除 Groy 标签栏等功能/n- Awesome tweak for Twitter",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -63,18 +62,18 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.3-2+debug",
-                    "title": "最新版本"
+                    "text": "4.3-3+debug",
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
+                    "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 09 月 21 日",
-                    "title": "最后更新日期"
+                    "text": "2024 年 09 月 29 日",
+                    "title": "更新日期"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -95,6 +94,16 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.3-3+debug",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复 X 10.60 隐藏右上角“升级”按钮失效问题",
+                    "useRawFormat": true
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.3-2+debug",
