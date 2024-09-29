@@ -1,1 +1,75 @@
-
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/ActionBarReborn/banner.png",
+    "tintColor": "#59AEBC",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "### 微信插件 \n- 发送文字自动转换为表情 \n- 需要同时安装微信助手和微信插件管理",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic2.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.1-1",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 17.0",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+    ],
+}
