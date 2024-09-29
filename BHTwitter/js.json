@@ -101,12 +101,12 @@
                     "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "修复 X 10.60 隐藏右上角“升级”按钮失效问题",
                     "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSubheaderView",
