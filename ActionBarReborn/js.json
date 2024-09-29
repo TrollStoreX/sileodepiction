@@ -58,12 +58,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "1.1-2",
-                    "title": "最新版本"
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
+                    "title": "支持系统"
                 },
                 {
                     "class": "DepictionSpacerView",
