@@ -71,22 +71,5 @@
                 }
             ]
         },
-        {
-            "class": "DepictionStackView",
-            "tabname": "更新",
-            "views": [
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1-2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "未知",
-                    "useRawFormat": true
-                }
-            ]
-        }
     ],
 }
