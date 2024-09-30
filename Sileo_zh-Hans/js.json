@@ -77,9 +77,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.7",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "markdown": "### 2.7",
                 },
                 {
                     "class": "DepictionMarkdownView",
