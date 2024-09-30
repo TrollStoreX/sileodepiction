@@ -77,7 +77,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.7 版本更新\n- 新增长按插件历史版本汉化\n- 其他小优化",
+                    "markdown": "### 2.7 更新\n- 添加长按“更改”按钮显示插件历史版本界面汉化\n- 其他小优化",
                 }
             ]
         }
