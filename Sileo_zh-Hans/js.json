@@ -76,12 +76,8 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "markdown": "### 2.7"
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "\n- 新增长按插件历史版本汉化\n- 其他小优化",
+                    "markdown": "### 2.7 版本更新\n- 新增长按插件历史版本汉化\n- 其他小优化",
                 }
             ]
         }
