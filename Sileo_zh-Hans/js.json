@@ -77,7 +77,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "markdown": "### 2.7",
+                    "markdown": "### 2.7"
                 },
                 {
                     "class": "DepictionMarkdownView",
