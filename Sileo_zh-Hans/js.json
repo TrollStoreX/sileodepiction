@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": " • 新增长按插件历史版本汉化</br> • 其他小优化",
+                    "markdown": "\n- 新增长按插件历史版本汉化\n- 其他小优化",
                     "useRawFormat": true
                 }
             ]
