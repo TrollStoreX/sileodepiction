@@ -88,8 +88,7 @@
                     "useRawFormat": true
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSubheaderView",
