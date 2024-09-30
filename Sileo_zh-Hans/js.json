@@ -68,6 +68,15 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "useMargins": false,
+                    "usePadding": false,
+                    "textColor": "aaa",
+                    "fontSize": 15,
+                    "alignment": 1,
+                    "text": "© 2024"
                 }
             ]
         },
