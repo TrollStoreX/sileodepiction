@@ -57,12 +57,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1",
+                    "text": "1.0",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 16.6.1",
                     "title": "支持系统"
                 },
                 {
@@ -71,5 +71,22 @@
                 }
             ]
         },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "",
+                    "useRawFormat": true
+                }
+            ]
+        }
     ],
 }
