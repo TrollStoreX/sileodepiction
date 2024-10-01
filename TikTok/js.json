@@ -15,16 +15,19 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "TikTok 增强插件 </br> </br> An awesome tweak for TikTok!",
-                    "useBoldText": true,
-                    "useRawFormat": true
+                    "markdown": "###  TikTok 增强插件\n- 去广告、视频下载、自动播放下一条等功能\n- 插件设置位于主页-设置与隐私-BHTikTok\n- An awesome tweak for TikTok!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/TikTok/pic3.png"
+                        },
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/TikTok/pic1.png"
