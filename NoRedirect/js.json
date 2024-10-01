@@ -15,10 +15,16 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "title":"NoRedirect 开源地址",
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"No Redirect Github 开源地址",
                     "action":"https://github.com/Lessica/NoRedirect",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "markdown": "###  阻止指定的应用重定向到 App Store、Safari 或其他应用。\n- Stop specified apps from redirecting to App Store, Safari or other apps.\n- 通过注入 SpringBoard 生效",
