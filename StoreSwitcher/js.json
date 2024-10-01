@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  App Store 账号快速切换\n- 账号界面左上角显示切换图标\n- Switch between App Store accounts with ease.",
+                    "markdown": "###  App Store 账号快速切换\n- 账号界面左上角显示切换图标\n- Switch between App Store accounts with ease.\n- 支持 Bootstrap 环境",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
