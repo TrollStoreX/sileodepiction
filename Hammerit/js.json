@@ -1,1 +1,99 @@
-
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
+    "tintColor": "#59AEBC",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "### 控制您的文本或根据您的意愿进行翻译\n- 支持Twitter Telegram Discord Sileo 等快捷翻译\n- Control your text or translate as you wish.\n- 应用快捷翻译支持 Bootstrap 环境",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Hammerit/pic1.png"
+                        },
+                        
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Hammerit/pic2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Hammerit/pic3.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.7",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 17.0",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "useMargins": false,
+                    "usePadding": false,
+                    "textColor": "aaa",
+                    "fontSize": 15,
+                    "alignment": 1,
+                    "text": "© 2024"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7\n- 支持iOS16的系统编辑菜单\n- iOS16的浮球支撑\n- 搜索长按跳转搜索添加拼多多, 淘宝、京东、苹果地图、百度地图、高德地图、知乎、小红书、AppStore等等。\n- 修复了禁用浮动球时，控制中心中的最后一个剪贴板内容未更新的问题。\n- 修复OCR和翻译报告错误时的错误消息。\n- 修复控制中心按钮在设置中无法排序的问题。\n- 将Snapper3扩展程序的图标更改为本地图片。",
+                }
+            ]
+        }
+    ],
+}
