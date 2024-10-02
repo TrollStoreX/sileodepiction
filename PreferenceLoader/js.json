@@ -15,9 +15,21 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 越狱依赖PreferenceLoader \n- Top 可以置顶插件选项设置到顶部 \n- by 真皮",
+                    "markdown": "### 越狱依赖 PreferenceLoader \n- Top 版本可以置顶插件选项设置",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"By 真皮源",
+                    "action":"https://rootless.zq666.eu.org/",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -30,7 +42,7 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/PreferenceLoader/pic2.png" 
+                            "url": "" 
                         }
                     ]
                 },
