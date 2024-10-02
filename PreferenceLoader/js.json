@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/Kuaidou/banner.png",
     "tintColor": "#59AEBC",
     "minVersion": "0.3",
     "tabs": [
@@ -15,10 +15,9 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "系统设置内插件选项置顶 </br> </br> by 真皮",
-                    "useBoldText": true,
-                    "useRawFormat": true
+                    "markdown": "### 越狱依赖PreferenceLoader \n- Top 可以置顶插件选项设置到顶部 \n- by 真皮",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -31,7 +30,7 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "" 
+                            "url": "https://trollstorex.github.io/sileodepiction/PreferenceLoader/pic2.png" 
                         }
                     ]
                 },
@@ -72,22 +71,5 @@
                 }
             ]
         },
-        {
-            "class": "DepictionStackView",
-            "tabname": "更新",
-            "views": [
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "2.2.6.6",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "未知",
-                    "useRawFormat": true
-                }
-            ]
-        }
     ],
 }
