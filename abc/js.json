@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  取消农业银行越狱检测弹窗\n- 每次打开会弹窗，点击 Cancle 按钮进入应用\n- 原插件名 YourDismissedTY，修改为仅对农业银行生效",
+                    "markdown": "###  取消农业银行越狱检测弹窗\n- 每次打开会弹窗，点击 Cancle 按钮进入应用\n- 原插件名 YourDismissedTY，修改为仅对农业银行生效\n- 使用 lenglengyu源 DismissAlert 取消弹窗效果更佳",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
