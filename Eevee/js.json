@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 5.3\n- ### 5.3/n- 在艺术家页面中增加了“喜欢的歌曲”功能/n- 改进了“重置数据”选项（现在会清除 /Library/Caches/，并加入进度动画）/n- 更新了导出的配置/n- 修复了点击歌曲页面上的三点菜单时应用崩溃的问题/n- 将 swift-protobuf 更新至 1.28.1，Swift 更新至版本 6（Xcode 16.0）/n- 修复了下载操作导致的应用崩溃问题，改进了挂钩逻辑/n- 现在所有用户都可以使用 PetitLyrics /n- @xiangfeidexiaohuo 更新了简体中文翻译/n- @ElliotCHEN37 更新了繁体中文翻译/n- @Richard-NDC 更新了越南语翻译",
+                    "markdown": "### 5.3\n- 在艺术家页面中增加了“喜欢的歌曲”功能\n- 改进了“重置数据”选项（现在会清除 /Library/Caches/，并加入进度动画）\n- 更新了导出的配置\n- 修复了点击歌曲页面上的三点菜单时应用崩溃的问题\n- 将 swift-protobuf 更新至 1.28.1，Swift 更新至版本 6（Xcode 16.0）\n- 修复了下载操作导致的应用崩溃问题，改进了挂钩逻辑\n- 现在所有用户都可以使用 PetitLyrics \n- @xiangfeidexiaohuo 更新了简体中文翻译\n- @ElliotCHEN37 更新了繁体中文翻译\n- @Richard-NDC 更新了越南语翻译",
                 },
                 {
                     "class": "DepictionSeparatorView"
