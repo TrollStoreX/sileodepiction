@@ -79,7 +79,7 @@
         },
                 {
             "class": "DepictionStackView",
-            "tabname": " Dopamine",
+            "tabname": "Dopamine",
             "views": [
                {
                     "class": "DepictionScreenshotsView",
