@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1",
+                    "text": "1.2",
                     "title": "插件版本"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2\n- 修复 RootHide 和 iOS 14 支持\n- 「禁止被其他应用程序启动」选项现已排除系统应用\n- 新增「延迟解除」选项：每次 App 进入前台 10 秒后暂停拦截",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1\n- 添加“自定义放行”功能",
