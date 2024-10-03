@@ -8,12 +8,7 @@
             "class": "DepictionStackView",
             "tabname": "描述",
             "views": [
-                {
-                    "markdown": "### opa334 </br> 也叫 Lars Fröder，是一位著名的 iOS 开发者，特别是在越狱社区中有很高的知名度。他开发了许多受欢迎的工具和插件，其中最知名的项目是 TrollStore 和 Dopamine。",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
+               {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 346.4533333333333}",
@@ -31,6 +26,11 @@
                             "url": "https://trollstorex.github.io/sileodepiction/opa334/pic3.png"
                         }
                     ]
+                },
+                {
+                    "markdown": "### opa334 </br> 也叫 Lars Fröder，是一位著名的 iOS 开发者，特别是在越狱社区中有很高的知名度。他开发了许多受欢迎的工具和插件，其中最知名的项目是 TrollStore 和 Dopamine。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSpacerView",
