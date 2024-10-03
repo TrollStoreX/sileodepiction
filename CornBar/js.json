@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  这个插件用玉米取代了你的HomeBar！包含大量设置选项\n- This tweak replaces your HomeBar with corn! Plenty of options for customization are included",
+                    "markdown": "###  用玉米🌽取代了原生 HomeBar（手势横杠）\n- 包含大量设置选项\n- This tweak replaces your HomeBar with corn! Plenty of options for customization are included",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
