@@ -1,8 +1,8 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
-    "tintColor": "#FF4455",
-    "minVersion": "1.2.4",
+    "tintColor": "#59AEBC",
+    "minVersion": "0.3",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -15,10 +15,24 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Twitter NoAd 去广告插件",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "markdown": "###  Twitter X去除广告\n- No Ads in the Twitter App!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/TwitterNoAds/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/TwitterNoAds/pic2.png"
+                        }
+                    ]
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -44,16 +58,25 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "1.2.4",
-                    "title": "最新版本"
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
+                    "title": "支持系统"
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "useMargins": false,
+                    "usePadding": false,
+                    "textColor": "aaa",
+                    "fontSize": 15,
+                    "alignment": 1,
+                    "text": "©2024 Super TrollStore"
                 }
             ]
         },
@@ -62,15 +85,8 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.2.4",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复去广告失效",
-                    "useRawFormat": true
+                    "markdown": "### 1.2.4\n- 隐藏谷歌广告",
                 }
             ]
         }
