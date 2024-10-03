@@ -9,13 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入巨魔商店Pro群组",
-          "action": "https://t.me/TrollStorePro",
-          "openExternal": 1,
-          "class": "DepictionButtonView"
-                },
-                {
-                    "markdown": "### opa334\n- 也叫 Lars Fröder，是一位著名的 iOS 开发者，特别是在越狱社区中有很高的知名度。他开发了许多受欢迎的工具和插件，其中最知名的项目是 TrollStore 和 Dopamine。",
+                    "markdown": "### opa334 </br> 也叫 Lars Fröder，是一位著名的 iOS 开发者，特别是在越狱社区中有很高的知名度。他开发了许多受欢迎的工具和插件，其中最知名的项目是 TrollStore 和 Dopamine。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
