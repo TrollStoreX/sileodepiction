@@ -34,7 +34,7 @@
                 },
                 {
                     "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "spacing": 8
                 },
                 {
                     "markdown": "也叫 Lars Fröder，是一位著名的 iOS 开发者，特别是在越狱社区中有很高的知名度。他开发了许多受欢迎的工具和插件，其中最知名的项目是 TrollStore 和 Dopamine。",
@@ -47,6 +47,24 @@
                 },
                 {
                     "class": "DepictionSeparatorView"
+                },
+                {
+          "text": "opa334's Twitter",
+          "action": "https://x.com/opa334dev?s=21",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+          "text": "opa334's Github",
+          "action": "https://github.com/opa334/",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+          "text": "Donate 捐赠 ",
+          "action": "https://www.paypal.com/donate/?cmd=_donations&business=opa334@protonmail.com&item_name=TrollStore",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
                 }
             ]
         },
