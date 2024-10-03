@@ -76,7 +76,7 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "### 1.1-9\n-huami 修复节日皮肤导致抖音无法全屏显示问题",
+                    "markdown": "### 1.1-9\n- huami 修复节日皮肤导致抖音无法全屏显示问题",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
