@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
-    "tintColor": "#59AEBC",
+    "tintColor": "#FB1FFD",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -15,10 +15,9 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "抖音全屏显示，仅在29.8.0版本上测试 </br> </br>后续版本更新导致的问题将不会被维护",
-                    "useBoldText": true,
-                    "useRawFormat": true
+                    "markdown": "###  抖音视频全屏显示\n- 放大视频达到全屏效果\n- huami 修复节日皮肤导致抖音无法全屏显示问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -58,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-8",
+                    "text": "1.1-9",
                     "title": "最新版本"
                 },
                 {
@@ -77,15 +76,9 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1-8",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "未知",
-                    "useRawFormat": true
+                    "markdown": "### 1.1-9\n-huami 修复节日皮肤导致抖音无法全屏显示问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         }
