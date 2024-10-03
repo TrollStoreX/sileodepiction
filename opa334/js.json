@@ -64,10 +64,17 @@
             "class": "DepictionStackView",
             "tabname": "TrollStore",
             "views": [
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1.0\n- 添加了自定义图像选项\n- 添加了色调选项\n- 删除剩余的图像文件",
-                }
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/opa334/pic4.png"
+                        }
+                    ]
+                },
             ]
         }
     ],
