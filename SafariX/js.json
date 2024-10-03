@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  Safari 浏览器增强插件\n ###Safari Essential Features\n- 窗口标签栏\n- 自定义快捷键按钮\n- 更轻松的分组\n- 完整 URL 显示\n- 下载管理器\n- 全屏滚动\n- 支持 Bootstrap 环境\n- ⚠️注意：1.3以上版本会随机闪退",
+                    "markdown": "###  Safari 浏览器增强插件\n ### Safari Essential Features\n- 窗口标签栏\n- 自定义快捷键按钮\n- 更轻松的分组\n- 完整 URL 显示\n- 下载管理器\n- 全屏滚动\n- 支持 Bootstrap 环境\n- ⚠️注意：1.3以上版本会随机闪退",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
