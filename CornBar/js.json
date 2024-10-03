@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  App Store 账号快速切换\n- 账号界面左上角显示切换图标\n- Switch between App Store accounts with ease.\n- 支持 Bootstrap 环境",
+                    "markdown": "###  这个插件用玉米取代了你的HomeBar！包含大量设置选项\n- This tweak replaces your HomeBar with corn! Plenty of options for customization are included",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
