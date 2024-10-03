@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/TwitterNoAds/banner.png",
-    "tintColor": "#59AEBC",
+    "tintColor": "#000000",
     "minVersion": "0.3",
     "tabs": [
         {
