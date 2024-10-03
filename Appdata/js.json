@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
-    "tintColor": "#59AEBC",
+    "tintColor": "#018AFF",
     "minVersion": "0.3",
     "tabs": [
         {
