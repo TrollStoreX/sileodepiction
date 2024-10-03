@@ -76,6 +76,23 @@
                     ]
                 },
             ]
+        },
+                {
+            "class": "DepictionStackView",
+            "tabname": " Dopamine",
+            "views": [
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/opa334/pic5.png"
+                        }
+                    ]
+                },
+            ]
         }
     ],
 }
