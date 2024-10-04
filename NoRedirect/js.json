@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "# ✋禁字诀\n- 阻止指定的应用重定向到 App Store、Safari 或其他应用。\n- Stop specified apps from redirecting to App Store, Safari or other apps.\n- 通过注入 SpringBoard 生效\n- 后续版本在 Havoc 源上架并收费0.99刀，不再更新 \n 你好[Markdown 官方网站](https://daringfireball.net/projects/markdown/)",
+                    "markdown": "# ✋禁字诀\n- 阻止指定的应用重定向到 App Store、Safari 或其他应用。\n- Stop specified apps from redirecting to App Store, Safari or other apps.\n- 通过注入 SpringBoard 生效\n- 后续版本在 Havoc 源上架并收费0.99刀，不再更新\n [Havoc No Redirect](sileo://package/com.82flex.noredirect)",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
