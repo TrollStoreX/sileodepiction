@@ -15,10 +15,9 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "微信净化，还原聊天本质，干净的微信给你 </br> </br> 仅支持8.0.29及以上版本，设置位于微信-设置",
-                    "useBoldText": true,
-                    "useRawFormat": true
+                    "markdown": "# 微信净化\n- 还原聊天本质，干净的微信给你\n- 仅支持8.0.29及以上版本，设置位于微信-设置 \n- END 为最终版不再更新",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
