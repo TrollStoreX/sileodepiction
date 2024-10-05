@@ -51,6 +51,9 @@
                     "useBottomMargin": false
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
