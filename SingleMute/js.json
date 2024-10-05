@@ -43,7 +43,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "详情",
+                    "title": "测试详情",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
