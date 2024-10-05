@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 连接 VPN 时，Wi-Fi 和 移动数据图标着色：橙色 🟠\n- Combine VPN state and wireless state into one icon.",
+                    "markdown": "### 连接 VPN 时\n ### Wi-Fi 和 移动数据图标着色：橙色 🟠\n- Combine VPN state and wireless state into one icon.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
