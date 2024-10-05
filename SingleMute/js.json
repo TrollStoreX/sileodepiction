@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/Eevee/banner.png",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
     "tintColor": "#FF3A2F",
     "minVersion": "0.3",
     "tabs": [
@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 状态栏左上角显示静音图标",
+                    "markdown": "### 1.2\n- 状态栏左上角显示静音图标",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
