@@ -63,20 +63,8 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 16.6.1",
                     "title": "支持系统"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionLabelView",
-                    "useMargins": false,
-                    "usePadding": false,
-                    "textColor": "aaa",
-                    "fontSize": 15,
-                    "alignment": 1,
-                    "text": "© 2024"
                 }
+
             ]
         },
         {
