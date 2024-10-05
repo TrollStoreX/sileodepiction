@@ -38,12 +38,8 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
-                    "title": "测试详情",
+                    "title": "详情",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -54,7 +50,7 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-                                {
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
