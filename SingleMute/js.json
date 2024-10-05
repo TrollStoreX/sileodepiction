@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/Eevee/banner.png",
-    "tintColor": "#1DD660",
+    "tintColor": "#FF3A2F",
     "minVersion": "0.3",
     "tabs": [
         {
