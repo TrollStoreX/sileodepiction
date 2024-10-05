@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 状态栏左上角显示静音图标/n Display the mute icon in the top-left corner of the status bar.",
+                    "markdown": "### 状态栏左上角显示静音图标\n Display the mute icon in the top-left corner of the status bar.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
