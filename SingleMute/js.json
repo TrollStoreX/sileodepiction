@@ -85,7 +85,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.2\n-初始发布",
+                    "markdown": "### 1.2\n- 初始发布",
                 }
             ]
         }
