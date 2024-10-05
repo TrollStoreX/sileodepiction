@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 1.2\n- 状态栏左上角显示静音图标",
+                    "markdown": "状态栏左上角显示静音图标",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -30,10 +30,6 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/SingleMute/pic1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": ""
                         }
                     ]
                 },
@@ -89,7 +85,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.2 初始发布",
+                    "markdown": "### 1.2\n-初始发布",
                 }
             ]
         }
