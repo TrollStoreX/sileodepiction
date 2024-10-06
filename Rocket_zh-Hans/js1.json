@@ -18,9 +18,6 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## Instagram 增强插件\n- Save posts and view stories anonymously and do much more\n- 破解版，点击下方横幅“恢复购买”解锁专业版",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
