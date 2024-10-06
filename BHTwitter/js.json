@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/TwitterNoAds/banner.png",
-    "tintColor": "#000000",
+    "tintColor": "#1C9AFO",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -95,29 +95,15 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "4.3-3+debug",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复 X 10.60 隐藏右上角“升级”按钮失效问题",
-                    "useRawFormat": true
+                    "markdown": "### 4.3-3\n- 修复 X 10.60 隐藏右上角“升级”按钮失效问题",
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "4.3-2+debug",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "隐藏个人资料和导航栏中的“通过验证”和“升级”按钮，隐藏底栏 Gork 菜单",
-                    "useRawFormat": true
+                    "markdown": "### 4.3-2\n- 隐藏个人资料和导航栏中的“通过验证”和“升级”按钮\n- 隐藏底栏 Gork 菜单",
                 }
             ]
         }
