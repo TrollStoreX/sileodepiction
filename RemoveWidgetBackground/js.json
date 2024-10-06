@@ -18,8 +18,8 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"Havoc 1.7 正版购买链接",
-                    "action":"https://havoc.app/package/removewidgetbg",
+                    "title":"Remove Widget Background Github 开源地址",
+                    "action":"https://github.com/OwnGoalStudio/RemoveWidgetBackground",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.6",
+                    "text": "1.7",
                     "title": "插件版本"
                 },
                 {
@@ -98,7 +98,14 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.6\n- 修复了AltList没有正确链接的错误。\n- 1.7 收费版本已在 Havoc 上架",
+                    "markdown": "### 1.7\n- “强制黑暗模式”选项现在支持iOS 15。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6\n- 修复了AltList没有正确链接的错误。",
                 }
             ]
         }
