@@ -37,7 +37,7 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Rocket_zh-Hans/pic2.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Rocket_zh-Hans/pic3.png"
                         }
                     ]
                 },
@@ -84,7 +84,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 3.8.29\n- 初始发布",
+                    "markdown": "### 3.8.29\n- 修复了下载和重新发布按钮布局不能使用问题。",
                 }
             ]
         }
