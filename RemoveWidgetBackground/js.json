@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
-    "tintColor": "#42C75C",
+    "tintColor": "#97AECC",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -18,8 +18,8 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"No Redirect Github 开源地址",
-                    "action":"https://github.com/Lessica/NoRedirect",
+                    "title":"Havoc 1.7 正版购买链接",
+                    "action":"https://havoc.app/package/removewidgetbg",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.6\n- 修复了AltList没有正确链接的错误。",
+                    "markdown": "### 1.6\n- 修复了AltList没有正确链接的错误。\n- 1.7 收费版本已在 Havoc 上架",
                 }
             ]
         }
