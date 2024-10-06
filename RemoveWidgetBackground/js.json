@@ -17,6 +17,15 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
+                                {
+                    "title":"乌龙工作室出品，必属精品",
+                    "action":"https://havoc.app/search/82Flex",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "title":"Remove Widget Background Github 开源地址",
                     "action":"https://github.com/OwnGoalStudio/RemoveWidgetBackground",
