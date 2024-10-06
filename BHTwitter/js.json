@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.3-3+debug",
+                    "text": "4.3-3",
                     "title": "插件版本"
                 },
                 {
@@ -78,15 +78,6 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"Telegram 巨魔商店Pro",
-                    "action":"https://t.me/TrollStorePro",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
                 }
             ]
         },
