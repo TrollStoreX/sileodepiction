@@ -18,15 +18,6 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"Spotify Eevee Github 开源地址",
-                    "action":"https://github.com/whoeevee/EeveeSpotify",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## Rocket for Instagram 简体中文\n- Rocket for Instagram zh-Hans",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
