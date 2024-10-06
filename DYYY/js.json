@@ -18,8 +18,8 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"乌龙工作室出品，必属精品",
-                    "action":"https://havoc.app/search/82Flex",
+                    "title":"huami 的小窝｜Telegram",
+                    "action":"https://t.me/huamidev",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 状态栏左上角显示静音图标\n Display the mute icon in the top-left corner of the status bar.",
+                    "markdown": "### 抖音增强插件\n- 设置顶栏透明\n- 设置全局透明度\n- 隐藏全屏观看\n- 隐藏底栏加号\n- 开启弹幕改色",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -38,7 +38,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/SingleMute/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic1.png"
                         }
                     ]
                 },
@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4",
+                    "text": "1.2",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.6.1",
+                    "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
                 }
 
@@ -82,21 +82,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4\n- 新增设置面板，可调整定位优先级",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.3\n- 降低定位优先级",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.2\n- 初始发布",
+                    "markdown": "### 1.2\n- 修复隐藏全屏观看开关失效\n- 新增全局透明（不包含顶栏）",
                 }
             ]
         }
