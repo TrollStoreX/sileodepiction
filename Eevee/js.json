@@ -50,7 +50,6 @@
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
-                },
                 {
                     "class": "DepictionHeaderView",
                     "title": "详情",
