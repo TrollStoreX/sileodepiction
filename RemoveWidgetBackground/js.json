@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 删除小部件背景\n- 删除一些系统小部件的背景。\n- 删除指定应用程序小部件的背景。\n- 强制小部件使用深色模式。\n 请注意，并非所有应用程序小部件都受支持：一些应用程序可能会完全绘制其小部件。",
+                    "markdown": "### Remove Widget Background\n- 删除一些系统小部件的背景。\n- 删除指定应用程序小部件的背景。\n- 强制小部件使用深色模式。\n- 请注意，并非所有应用程序小部件都受支持：一些应用程序可能会完全绘制其小部件。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
