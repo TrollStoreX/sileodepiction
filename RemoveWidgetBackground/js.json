@@ -1,1 +1,106 @@
-
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
+    "tintColor": "#42C75C",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"No Redirect Github 开源地址",
+                    "action":"https://github.com/Lessica/NoRedirect",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "### 删除小部件背景\n- 删除一些系统小部件的背景。\n- 删除指定应用程序小部件的背景。\n- 强制小部件使用深色模式。\n 请注意，并非所有应用程序小部件都受支持：一些应用程序可能会完全绘制其小部件。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/RemoveWidgetBackground/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/RemoveWidgetBackground/pic2.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.6",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "useMargins": false,
+                    "usePadding": false,
+                    "textColor": "aaa",
+                    "fontSize": 15,
+                    "alignment": 1,
+                    "text": "© 2024"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6\n- 修复了AltList没有正确链接的错误。",
+                }
+            ]
+        }
+    ],
+}
