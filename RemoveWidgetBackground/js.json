@@ -74,7 +74,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.6.1",
+                    "text": "iOS 15 - iOS 16.5
+            ",
                     "title": "支持系统"
                 },
                 {
