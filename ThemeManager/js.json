@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv1.png",
-    "tintColor": "#E92F11",
+    "tintColor": "#FFDDDD",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -83,7 +83,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.6.2\n- 适配16系列机型显示\n- 修复部分插件修改微信号导致的bug\n-修复iPad模式无顶栏和白条问题\n- 更改了目前插件的UI显示\n-修改了一些使用bug等",
+                    "markdown": "### 1.6.2\n- 适配16系列机型显示\n- 修复部分插件修改微信号导致的bug\n- 修复iPad模式无顶栏和白条问题\n- 更改了目前插件的UI显示\n- 修改了一些使用bug等",
                 }
             ]
         }
