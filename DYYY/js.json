@@ -34,11 +34,15 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
-                    "itemSize": "{160, 200}",
+                    "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic1.png"
+                        }
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic2.png"
                         }
                     ]
                 },
