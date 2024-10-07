@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## Instagram 增强插件\n- Save posts and view stories anonymously and do much more\n- 破解版，点击下方横幅「解锁专业版」「现在升级」「恢复购买」",
+                    "markdown": "## Instagram 增强插件\n- Save posts and view stories anonymously and do much more\n- 点击下方横幅「解锁专业版」「现在升级」「恢复购买」",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -82,12 +82,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 07 日",
+                    "text": "2024 年 08 月 21 日",
                     "title": "最后更新"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
