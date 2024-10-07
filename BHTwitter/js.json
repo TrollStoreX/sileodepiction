@@ -9,13 +9,25 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入巨魔商店Pro群组",
+          "text": "加入巨魔越狱交流群 Chat",
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  Twitter/X 增强插件\n- 视频下载\n- 修改应用图标\n- 去广告、去除 Groy 标签栏等功能\n- Awesome tweak for Twitter",
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"BHTwitter Github 开源地址",
+                    "action":"https://github.com/BandarHL/BHTwitter",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "##  Twitter/X 增强插件\n- 视频下载\n- 修改应用图标\n- 去广告、去除 Groy 标签栏等功能\n- Awesome tweak for Twitter",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -52,10 +64,6 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
                     "class": "DepictionTableTextView",
                     "text": "Bandar Alruwaili",
                     "title": "作者"
@@ -74,10 +82,6 @@
                     "class": "DepictionTableTextView",
                     "text": "2024 年 09 月 29 日",
                     "title": "更新日期"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
