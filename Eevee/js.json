@@ -76,10 +76,6 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
