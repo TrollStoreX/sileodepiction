@@ -72,6 +72,11 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 16.6.1",
                     "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 07 日",
+                    "title": "最后更新"
                 }
 
             ]
