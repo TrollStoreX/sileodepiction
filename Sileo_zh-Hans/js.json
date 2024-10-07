@@ -39,13 +39,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -54,6 +47,9 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -66,17 +62,9 @@
                     "title": "支持系统"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionLabelView",
-                    "useMargins": false,
-                    "usePadding": false,
-                    "textColor": "aaa",
-                    "fontSize": 15,
-                    "alignment": 1,
-                    "text": "© 2024"
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 01 日",
+                    "title": "最后更新"
                 }
             ]
         },
