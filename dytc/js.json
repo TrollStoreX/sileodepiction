@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.6+1",
+                    "text": "2.0.6+2",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 16.6.1",
                     "title": "支持系统"
                 }
 
@@ -80,6 +80,10 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6+2\n- 修复一些老设备闪退的问题",
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6+1\n- 新增强制保存评论区实况\n- 修复一些问题\n- 优化一些功能",
