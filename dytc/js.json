@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.6",
+                    "text": "2.0.6+1",
                     "title": "插件版本"
                 },
                 {
@@ -84,6 +84,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6+1\n- 新增强制保存评论区实况\n- 修复一些问题\n- 优化一些功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6\n- 新增续火功能(增强选项开启) \n- 新增主页视频批量下下载(增强选项开启) \n- 消息防撤回\n- 仅看一次视/图下载\n- 修复一些问题\n- 优化一些细节",
