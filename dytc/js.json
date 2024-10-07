@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 抖音增强插件\n ###仅支持越狱、Bootstrap 环境\n- 无水印下载视频\n- 隐藏各种元素按钮文字等\n- 双指双击屏幕打开插件设置界面",
+                    "markdown": "## 抖音增强插件\n ## 仅支持越狱、Bootstrap 环境\n- 无水印下载视频\n- 隐藏各种元素按钮文字等\n- 双指双击屏幕打开插件设置界面",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
