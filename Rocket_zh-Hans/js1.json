@@ -81,6 +81,11 @@
                     "title": "支持系统"
                 },
                 {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 07 日",
+                    "title": "最后更新"
+                },
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 }
