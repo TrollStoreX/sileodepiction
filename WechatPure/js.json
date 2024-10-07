@@ -39,13 +39,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -56,18 +49,17 @@
                     "spacing": 8
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionTableTextView",
                     "text": "4.2-7 END",
-                    "title": "最新版本"
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "title": "支持系统"
                 }
             ]
         },
