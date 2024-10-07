@@ -13,8 +13,6 @@
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
-          "width": 200,
-          "height": 50
                 },
                 {
                     "class": "DepictionSeparatorView"
