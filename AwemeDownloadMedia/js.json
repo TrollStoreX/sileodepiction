@@ -83,7 +83,7 @@
         {
             "class": "DepictionStackView",
             "tabname": "更新",
-            "views": 
+            "views": [
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-1\n- 初始发布",
