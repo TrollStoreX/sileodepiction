@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.6+2",
+                    "text": "2.0.6+3",
                     "title": "插件版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 07 日",
+                    "text": "2024 年 10 月 08 日",
                     "title": "最后更新"
                 }
 
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6+3\n- 新增作品实况保存，原解析按钮打开即可，一些单个的实况作品仅能保存为视频(这个傻逼一个几秒的实况放几十秒的音乐)\n- 适配最新版抖音，修复最新版抖音导致评论区保存图片方案三失效\n- 优化评论区保存实况逻辑。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6+2\n- 修复一些老设备闪退的问题",
