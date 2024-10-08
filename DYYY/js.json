@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3",
+                    "text": "1.4",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +84,15 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                               {
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4\n- 新增移除(点赞、评论、收藏、分享)按钮\n- 修复iPad适配问题?自测\n-不会写UI，所以很丑，将就着吧\n- 部分设备移除收藏与 Netskao 插件 AwemeDownloadMedia 冲突
+导致闪退暂时无法解决",
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.3\n - 新增隐藏底栏红点\n- 新增隐藏侧栏红点\n- 修复 iPad 显示不完整\n- 优化插件体积",
                 },
