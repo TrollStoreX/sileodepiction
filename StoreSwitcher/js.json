@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
-    "tintColor": "#59AEBC",
+    "tintColor": "#00AAF6",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  App Store 账号快速切换\n- 账号界面左上角显示切换图标\n- Switch between App Store accounts with ease.\n- 支持 Bootstrap 环境",
+                    "markdown": "##  App Store 账号快速切换\n- 账号界面左上角显示切换图标\n- Switch between App Store accounts with ease.\n- 支持 Bootstrap 环境",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,13 +39,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -54,6 +47,9 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -64,19 +60,6 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionLabelView",
-                    "useMargins": false,
-                    "usePadding": false,
-                    "textColor": "aaa",
-                    "fontSize": 15,
-                    "alignment": 1,
-                    "text": "© 2024"
                 }
             ]
         },
@@ -86,7 +69,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.5 更新\n- 添加支持 Bootstrap 环境",
+                    "markdown": "### 1.0.5 更新\n- 转换支持 Bootstrap 环境",
                 }
             ]
         }
