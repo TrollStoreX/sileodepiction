@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 小红书增强插件\n ## 仅支持越狱、Bootstrap 环境\n- 去广告、无水印下载视频\n- 隐藏各种图层按钮文字等\n- 双指双击屏幕打开插件设置界面",
+                    "markdown": "## 小红书增强插件\n ##仅支持越狱、Bootstrap 环境\n- 默认移除一些广告\n- 无水印保存图片、视频、live图、评论区图片，长按复制文案\n- 放大图片双指长按可保存高分辨率图片\n- APP设置界面右上角打开插件界面或双指长按设置界面",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
