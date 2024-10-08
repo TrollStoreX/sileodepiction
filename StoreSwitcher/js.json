@@ -69,7 +69,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.5 更新\n- 转换支持 Bootstrap 环境",
+                    "markdown": "### 1.0.5\n- 转换支持 Bootstrap 环境",
                 }
             ]
         }
