@@ -86,8 +86,7 @@
             "views": [
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4\n- 新增移除(点赞、评论、收藏、分享)按钮\n- 修复iPad适配问题?自测\n-不会写UI，所以很丑，将就着吧\n- 部分设备移除收藏与 Netskao 插件 AwemeDownloadMedia 冲突
-导致闪退暂时无法解决",
+                    "markdown": "### 1.4\n- 新增移除(点赞、评论、收藏、分享)按钮\n- 修复iPad适配问题?自测\n-不会写UI，所以很丑，将就着吧\n- 部分设备移除收藏与 Netskao 插件 AwemeDownloadMedia 冲突导致闪退暂时无法解决",
                 },
                                 {
                     "class": "DepictionSeparatorView"
