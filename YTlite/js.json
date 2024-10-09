@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/YTlite/banner.png",
-    "tintColor": "#59AEBC",
+    "tintColor": "#FD0000",
     "minVersion": "0.3",
     "tabs": [
         {
