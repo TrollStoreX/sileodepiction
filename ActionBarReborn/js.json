@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/ActionBarReborn/banner.png",
-    "tintColor": "#59AEBC",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/ActionBarReborn/banner1.png",
+    "tintColor": "#3485FF",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 键盘底部显示 [撤销] [选择] [粘贴] 按钮 \n- Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. \n- ActionBar Free Reborn Edition",
+                    "markdown": "## 键盘底部显示 [撤销] [选择] [粘贴] 按钮 \n- Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. \n- ActionBar Free Reborn Edition",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -30,16 +30,9 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "" 
+                            "url": "https://trollstorex.github.io/sileodepiction/ActionBarReborn/pic.png" 
                         }
                     ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -55,6 +48,9 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionTableTextView",
                     "text": "1.1-2",
@@ -64,10 +60,6 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
