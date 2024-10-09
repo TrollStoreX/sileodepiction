@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.6+5",
+                    "text": "2.0.6+8",
                     "title": "插件版本"
                 },
                 {
@@ -85,7 +85,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                  {
+                                   {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6+8\n- 最终版\n- 如果后续有其它收费的免越狱插件，此插件可能会继续对免越狱免费开放",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },    
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6+5\n- 新增右侧图标大小更改(狗楠说他想要，就给他一次)\n- 优化评论区实况保存\n- 调整保存清晰度",
                 },
