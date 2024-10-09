@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 键盘底部显示 [撤销] [选择] [粘贴] 按钮 \n- Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. \n- ActionBar Free Reborn Edition",
+                    "markdown": "## 键盘底部显示\n ### [撤销] [选择] [粘贴] 按钮 \n- Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. \n- ActionBar Free Reborn Edition",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
