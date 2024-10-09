@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  抖音视频全屏显示\n- 放大视频达到全屏效果\n- huami 修复节日皮肤导致抖音无法全屏显示问题",
+                    "markdown": "## 抖音视频全屏显示\n- 放大视频达到全屏效果\n- huami 修复节日皮肤导致抖音无法全屏显示问题",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,13 +39,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -55,19 +48,23 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionTableTextView",
                     "text": "1.1-9",
-                    "title": "最新版本"
+                    "title": "当前版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
+                    "title": "支持系统"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 03 日",
+                    "title": "最后更新"
                 }
             ]
         },
