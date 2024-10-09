@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/Kuaidou/banner.png",
-    "tintColor": "#59AEBC",
+    "tintColor": "#4158A6",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 微信插件 \n- 发送文字自动转换为表情 \n- 需要同时安装微信助手和微信插件管理",
+                    "markdown": "## 微信插件\n- 发送文字自动转换为表情\n- 需要同时安装微信助手和微信插件管理",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,13 +39,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -54,6 +47,9 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -64,10 +60,6 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
