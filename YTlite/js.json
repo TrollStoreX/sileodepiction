@@ -15,9 +15,21 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "YouTube 增强插件 </br> </br>支持去广告、视频下载、各种自定功能",
-                    "useRawFormat": true,
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"YouTube Lite Telegram",
+                    "action":"https://t.me/dvntms",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## YouTube 增强插件\n- 支持去广告\n- 视频下载\n- 隐藏各种按钮元素\n- 包括各种自定功能等",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -39,13 +51,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -55,28 +60,18 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionTableTextView",
                     "text": "5.0.2",
-                    "title": "最新版本"
+                    "title": "当前版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"Telegram 巨魔商店Pro",
-                    "action":"https://t.me/TrollStorePro",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
+                    "title": "支持系统"
                 }
             ]
         },
