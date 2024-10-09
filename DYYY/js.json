@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-1",
+                    "text": "1.4-2",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +84,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                              {
+                                              {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4-2\n- 修复移除收藏问题",
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.4-1\n- 修复与 AwemeDownloadMedia 冲突导致移除收藏闪退问题",
                 },
