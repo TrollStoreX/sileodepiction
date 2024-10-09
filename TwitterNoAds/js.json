@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  Twitter X去除广告\n- No Ads in the Twitter App!",
+                    "markdown": "##  Twitter X 去除广告\n- No Ads in the Twitter App!",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,13 +39,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -54,6 +47,9 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -64,19 +60,6 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionLabelView",
-                    "useMargins": false,
-                    "usePadding": false,
-                    "textColor": "aaa",
-                    "fontSize": 15,
-                    "alignment": 1,
-                    "text": "©2024 Super TrollStore"
                 }
             ]
         },
