@@ -68,10 +68,6 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
                     "class": "DepictionTableTextView",
                     "text": "1.0-1",
                     "title": "插件版本"
