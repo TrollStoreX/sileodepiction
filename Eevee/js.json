@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.4",
+                    "text": "5.5",
                     "title": "插件版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 06 日",
+                    "text": "2024 年 10 月 10 日",
                     "title": "最后更新"
                 }
             ]
@@ -84,6 +84,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.5\n- 贡献者列表\n- 可能修复了本地文件传输的问题（#437）\n- 默认字符串（取消、确定等）现在已通过UIKit本地化",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.4 \n- 新增乌克兰语本地化@LIKVIDATOR1337\n- 新增土耳其语本土化@gototheskinny\n- 新增丹麦语本地化@UnexcitingDean",
