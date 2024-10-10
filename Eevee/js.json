@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## Spotify Premium 破解\n- 该插件让 Spotify 认为您有高级订阅，提供免费播放，就像 Spotilife 一样，并提供一些附加功能，如自定义歌词等\n- A tweak to get Spotify Premium for free, just like Spotilife",
+                    "markdown": "### Spotify Premium \n- 该插件让 Spotify 认为您有高级订阅，提供免费播放，就像 Spotilife 一样，并提供一些附加功能，如自定义歌词等\n- A tweak to get Spotify Premium for free, just like Spotilife",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -42,7 +42,7 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 20,
+                    "itemCornerRadius": 0,
                     "itemSize": "{240, 520}",
                     "screenshots": [
                         {
