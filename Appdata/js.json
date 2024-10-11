@@ -19,7 +19,10 @@
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
-                               {
+                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "### 功能\n- 降级应用\n- 修改应用名称\n- 清除/重置应用数据\n- 重置应用权限\n- 快速跳转 Filza 应用路径",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
