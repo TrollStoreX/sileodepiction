@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## Spotify Premium \n- 该插件让 Spotify 认为您有高级订阅，提供免费播放，就像 Spotilife 一样，并提供一些附加功能，如自定义歌词等\n- A tweak to get Spotify Premium for free, just like Spotilife",
+                    "markdown": "## 控制中心模块五列显示\n- Control Center module five-column layout",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -44,11 +44,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Eevee/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Insets/pic1.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Eevee/pic2.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Insets/pic2.png"
                         }
                     ]
                 },
@@ -71,25 +71,25 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.5",
+                    "text": "0.1",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 16.6.1",
                     "title": "支持系统"
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 10 日",
+                    "text": "2024 年 10 月 12 日",
                     "title": "最后更新"
                 },
                                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"Spotify Eevee Github 开源地址",
-                    "action":"https://github.com/whoeevee/EeveeSpotify",
+                    "title":"乌龙工作室出品，必属精品",
+                    "action":"https://havoc.app/search/82Flex",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
@@ -99,30 +99,9 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                               {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 5.5\n- 贡献者列表\n- 可能修复了本地文件传输的问题（#437）\n- 默认字符串（取消、确定等）现在已通过UIKit本地化",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 5.4 \n- 新增乌克兰语本地化@LIKVIDATOR1337\n- 新增土耳其语本土化@gototheskinny\n- 新增丹麦语本地化@UnexcitingDean",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 5.3\n- 在艺术家页面中增加了“喜欢的歌曲”功能\n- 改进了“重置数据”选项（现在会清除 /Library/Caches/，并加入进度动画）\n- 更新了导出的配置\n- 修复了点击歌曲页面上的三点菜单时应用崩溃的问题\n- 将 swift-protobuf 更新至 1.28.1，Swift 更新至版本 6（Xcode 16.0）\n- 修复了下载操作导致的应用崩溃问题，改进了挂钩逻辑\n- 现在所有用户都可以使用 PetitLyrics \n- @xiangfeidexiaohuo 更新了简体中文翻译\n- @ElliotCHEN37 更新了繁体中文翻译\n- @Richard-NDC 更新了越南语翻译",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 5.2\n- 新增巴西语言本地化，法语本地化更正",
+                    "markdown": "### 0.1\n- 初始发布",
                 }
             ]
         }
