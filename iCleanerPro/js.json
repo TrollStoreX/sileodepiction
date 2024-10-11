@@ -9,20 +9,37 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入巨魔商店Pro群组",
+          "text": "加入巨魔越狱交流群 Chat",
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "清理缓存，日志，禁用插件或系统启动项 </br> </br>Tips: Bootstrap 环境下仅支持清理缓存，日志",
-                    "useRawFormat": true,
+                    "markdown": "##iCleaner Pro 系统工具\n- 清理缓存、日志\n- 禁用插件或系统启动项（谨慎使用）\n- Tips：Bootstrap 环境下仅支持清理缓存、日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -39,13 +56,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -55,29 +65,19 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionTableTextView",
                     "text": "7.10.0",
-                    "title": "最新版本"
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
-                    "title": "支持系统范围"
+                    "title": "支持系统"
                 },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"Telegram 巨魔商店Pro",
-                    "action":"https://t.me/TrollStorePro",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                }
             ]
         },
         {
