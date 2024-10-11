@@ -29,6 +29,10 @@
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 25,
