@@ -83,6 +83,20 @@
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
                 }
+                                            {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 01 日",
+                    "title": "最后更新"
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"BHTikTok++ Github 开源地址",
+                    "action":"https://github.com/raulsaeed/TikTokPlusPlus",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                }
             ]
         },
         {
