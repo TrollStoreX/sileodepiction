@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 桌面图标增强工具\n- 桌面图标上滑或下滑或3D长按菜单选择即可唤出菜单\n- 此版本由 Netskao 完整汉化并修改优化。",
+                    "markdown": "## 桌面图标增强工具\n- 图标上滑或下滑或3D长按即可唤出菜单\n- 此版本由 Netskao 完整汉化并修改优化。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -23,7 +23,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 功能\n- 降级应用\n- 修改应用名称\n- 清除/重置应用数据\n- 重置应用权限\n- 快速跳转 Filza 应用路径",
+                    "markdown": "## 功能\n- 降级应用\n- 修改应用名称\n- 清除/重置应用数据\n- 重置应用权限\n- 快速跳转 Filza 应用路径",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
