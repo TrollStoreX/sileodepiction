@@ -100,9 +100,6 @@
                     "action":"https://t.me/DouYinHook",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 }
             ]
         },
