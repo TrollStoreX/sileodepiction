@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "##iCleaner Pro 系统工具\n- 清理缓存、日志\n- 禁用插件或系统启动项（谨慎使用）\n- Tips：Bootstrap 环境下仅支持清理缓存、日志",
+                    "markdown": "## iCleaner Pro 系统工具\n- 清理缓存、日志\n- 禁用插件或系统启动项（谨慎使用）\n- Tips：Bootstrap 环境下仅支持清理缓存、日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -85,16 +85,10 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "7.10.0",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "markdown": "### 7.10.0\n- 转换更新支持 Bootstrap 环境",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "未知",
-                    "useRawFormat": true
-                }
             ]
         }
     ],
