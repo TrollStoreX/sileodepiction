@@ -27,6 +27,12 @@
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
+                                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 25,
