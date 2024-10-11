@@ -27,7 +27,10 @@
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
-                                {
+                                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionHeaderView",
                     "title": "预览",
                     "useBoldText": true,
@@ -36,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 25,
-                    "itemSize": "{240, 250}",
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
