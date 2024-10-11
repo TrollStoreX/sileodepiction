@@ -19,22 +19,28 @@
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
-                {
+                                {
                     "class": "DepictionSeparatorView"
                 },
-                {
-                    "title":"By 真皮源",
-                    "action":"https://rootless.zq666.eu.org/",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
-                    "class": "DepictionSeparatorView"
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -51,17 +57,13 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
                     "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -78,8 +80,16 @@
                     "title": "支持系统"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"By 真皮源",
+                    "action":"https://rootless.zq666.eu.org/",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 }
             ]
         },
