@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "###  TikTok 增强插件\n- 去广告、视频下载、自动播放下一条等功能\n- 插件设置位于主页-设置与隐私-BHTikTok\n- An awesome tweak for TikTok!",
+                    "markdown": "## TikTok 增强插件\n- 去广告、视频下载、自动播放下一条等功能\n- 插件设置位于主页-设置与隐私-BHTikTok\n- An awesome tweak for TikTok!",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
