@@ -15,26 +15,31 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"抖音图层｜Telegram",
-                    "action":"https://t.me/DouYinHook",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## 小红书增强插件\n ## 仅支持越狱、Bootstrap 环境\n- 默认移除一些广告\n- 无水印保存图片、视频、live图、评论区图片，长按复制文案\n- 放大图片双指长按可保存高分辨率图片\n- APP设置界面右上角打开插件界面或双指长按设置界面",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -85,8 +90,20 @@
                     "class": "DepictionTableTextView",
                     "text": "2024 年 10 月 08 日",
                     "title": "最后更新"
+                },
+                
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"抖音图层｜Telegram",
+                    "action":"https://t.me/DouYinHook",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 }
-
             ]
         },
         {
