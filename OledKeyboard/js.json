@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 控制中心模块五列显示\n- Control Center module five-column layout",
+                    "markdown": "## 深色模式下键盘背景显示为纯黑\n- OLED Dark Mode for iOS System Keyboard",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -44,11 +44,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Insets/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/OledKeyboard/pic1.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Insets/pic2.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/OledKeyboard/pic2.png"
                         }
                     ]
                 },
@@ -71,12 +71,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1",
+                    "text": "0.0.1",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.6.1",
+                    "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
                 },
                                 {
@@ -88,8 +88,8 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"乌龙工作室出品，必属精品",
-                    "action":"https://havoc.app/search/82Flex",
+                    "title":"OledKeyboard 开源 Github 地址",
+                    "action":"https://github.com/dayanch96/OledKeyboard",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
