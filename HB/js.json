@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/Eevee/banner.png",
-    "tintColor": "#1DD660",
+    "tintColor": "#FFDDA5",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -56,7 +56,7 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Eevee/pic4.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/HB/pic4.png"
                         }
                     ]
                 },
@@ -96,8 +96,8 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"Spotify Eevee Github 开源地址",
-                    "action":"https://github.com/whoeevee/EeveeSpotify",
+                    "title":"黄白助手官方 Telegram 频道",
+                    "action":"https://t.me/HbHelper",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
@@ -109,7 +109,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 5.2\n- 新增巴西语言本地化，法语本地化更正",
+                    "markdown": "### 1.7.6\n- 优化",
                 }
             ]
         }
