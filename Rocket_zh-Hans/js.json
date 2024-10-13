@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## Rocket for Instagram 简体中文\n- Rocket for Instagram zh-Hans\n- 汉化补丁，需要安装主体插件",
+                    "markdown": "## Rocket for Instagram zh-Hans\n- 汉化补丁，需要安装主体插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
+                    "itemCornerRadius": 25,
                     "itemSize": "{240, 520}",
                     "screenshots": [
                         {
@@ -54,7 +54,7 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Rocket_zh-Hans/pic2.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Rocket_zh-Hans/pic3.png"
                         }
                     ]
                 },
