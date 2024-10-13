@@ -14,27 +14,33 @@
           "openExternal": 1,
           "class": "DepictionButtonView"
                 },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"huami 的小窝｜Telegram",
-                    "action":"https://t.me/huamidev",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
+
                 {
                     "markdown": "## 抖音增强插件\n ## 三指单击屏幕打开插件设置\n- 设置顶栏透明\n- 设置全局透明度\n- 隐藏全屏观看\n- 隐藏底栏加号\n- 开启弹幕改色",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -76,9 +82,17 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"huami 的小窝｜Telegram",
+                    "action":"https://t.me/huamidev",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
-
-            ]
+             ]
         },
         {
             "class": "DepictionStackView",
