@@ -9,20 +9,37 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入巨魔商店Pro群组",
+          "text": "加入巨魔越狱交流群 Chat",
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 控制您的文本或根据您的意愿进行翻译\n- 支持Twitter Telegram Discord Sileo 等快捷翻译\n- Control your text or translate as you wish.\n- 应用快捷翻译支持 Bootstrap 环境",
+                    "markdown": "## 控制您的文本或根据您的意愿进行翻译\n- 支持Twitter Telegram Discord Sileo 等快捷翻译\n- Control your text or translate as you wish.\n- 应用快捷翻译支持 Bootstrap 环境",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -44,13 +61,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -59,6 +69,9 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -69,19 +82,6 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionLabelView",
-                    "useMargins": false,
-                    "usePadding": false,
-                    "textColor": "aaa",
-                    "fontSize": 15,
-                    "alignment": 1,
-                    "text": "© 2024"
                 }
             ]
         },
