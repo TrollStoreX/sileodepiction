@@ -19,18 +19,43 @@
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/Screenshot_01.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/pic1.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/Screenshot_02.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/pic2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/pic3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/pic4.png"
                         }
                     ]
                 },
