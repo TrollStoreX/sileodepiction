@@ -15,15 +15,31 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "控制中心 VPN 开启关闭模块 </br> </br> CCVPN 控制中心图标修改为 Surge",
+                    "markdown": "## 控制中心 VPN 开启关闭模块\n- CCVPN 控制中心图标修改为 Surge\n- Change the CCVPN icon to Surge",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
                     "useBoldText": true,
-                    "useRawFormat": true
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{240,520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -40,13 +56,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
@@ -56,19 +65,17 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
+                                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionTableTextView",
                     "text": "1.0.6",
-                    "title": "最新版本"
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 16.6.1",
-                    "title": "支持系统范围"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "title": "支持系统"
                 }
             ]
         },
