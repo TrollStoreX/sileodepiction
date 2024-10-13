@@ -87,9 +87,6 @@
                     "action":"https://rootless.zq666.eu.org/",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 }
             ]
         },
