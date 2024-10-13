@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 越狱依赖 PreferenceLoader \n- Top 版本可以置顶插件选项设置",
+                    "markdown": "## 越狱依赖 PreferenceLoader \n- 显示 Sileo 已安装插件设置\n- Top 版本可以置顶插件设置",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
