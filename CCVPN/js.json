@@ -65,7 +65,8 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                                    "class": "DepictionSeparatorView"
+                                                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionTableTextView",
