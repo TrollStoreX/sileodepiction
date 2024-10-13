@@ -20,6 +20,23 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 25,
                     "itemSize": "{240, 520}",
