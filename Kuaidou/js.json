@@ -21,16 +21,16 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{240, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic3.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic2.png" 
+                            "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic4.png" 
                         }
                     ]
                 },
