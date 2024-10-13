@@ -15,9 +15,6 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## Rocket for Instagram zh-Hans\n- 汉化补丁，需要安装主体插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
