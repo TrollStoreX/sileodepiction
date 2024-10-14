@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1",
+                    "text": "0.0.3",
                     "title": "插件版本"
                 },
                 {
@@ -101,7 +101,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 0.1\n- 初始发布",
+                    "markdown": "### 0.3\n- 支持自动填充键盘纯黑背景\n- 支持键盘上方的条形纯黑背景",
                 }
             ]
         }
