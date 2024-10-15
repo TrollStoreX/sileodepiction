@@ -86,9 +86,6 @@
                     "class": "DepictionTableTextView",
                     "text": "2024 年 10 月 15 日",
                     "title": "最后更新"
-                },
-                                {
-                    "class": "DepictionSeparatorView"
                 }
             ]
         },
