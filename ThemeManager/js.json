@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "# 微信主题插件",
+                    "markdown": "## 微信主题插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
