@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3.0-43+debug",
+                    "text": "1.5",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 01 日",
+                    "text": "2024 年 10 月 15 日",
                     "title": "最后更新"
                 },
                  {
