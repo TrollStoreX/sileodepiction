@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2",
+                    "text": "2.3",
                     "title": "插件版本"
                 },
                 {
@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.2\n- 初始发布",
+                    "markdown": "### 2.3\n- 初始发布",
                 }
             ]
         }
