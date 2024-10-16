@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## iOS 剪切板越狱插件\n- Clipboard manager for iOS.\n- 由「乌龙工作室」修复支持iOS 16",
+                    "markdown": "## iOS 剪切板越狱插件\n- Clipboard manager for iOS.\n- 由「乌龙工作室」修复支持 iOS 16，免费发布和使用",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -95,7 +95,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.4\n- 优化删除/收藏时的动画效果\n- 优化面板颜色跟随状态栏风格",
+                    "markdown": "### 2.4\n- 优化删除/收藏时的动画效果\n- 优化面板颜色跟随状态栏风格/n- 查看预览时，右上角图标改为“返回”/n- SpringBoard 改成 ”主屏幕“，并配上小图标",
                 },
                 {
                     "class": "DepictionSeparatorView"
