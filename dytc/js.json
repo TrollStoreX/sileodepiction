@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 09 日",
+                    "text": "2024 年 10 月 15 日",
                     "title": "最后更新"
                 }
 
@@ -102,7 +102,11 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                                   {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6+8.1\n-新增自动发送连续消\n- 设置完成后打开抖音自动发送(每天仅发一次)\n- 修复一些问题",
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6+8\n- 最终版\n- 如果后续有其它收费的免越狱插件，此插件可能会继续对免越狱免费开放",
                 },
