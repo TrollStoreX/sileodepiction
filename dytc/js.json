@@ -15,18 +15,6 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"抖音图层｜Telegram",
-                    "action":"https://t.me/DouYinHook",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## 抖音增强插件\n ## 仅支持越狱、Bootstrap 环境\n- 去广告、无水印下载视频\n- 隐藏各种图层按钮文字等\n- 双指双击屏幕打开插件设置界面",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
@@ -94,9 +82,17 @@
                     "class": "DepictionTableTextView",
                     "text": "2024 年 10 月 15 日",
                     "title": "最后更新"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"抖音图层｜Telegram",
+                    "action":"https://t.me/DouYinHook",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
-
-            ]
+             ]
         },
         {
             "class": "DepictionStackView",
