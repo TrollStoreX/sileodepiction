@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.7.6",
+                    "text": "1.7-7",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 13 日",
+                    "text": "2024 年 10 月 17 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7-7\n- 该版本未更新任何功能\n- 仅为打某些🤡的脸\n- 一言不合就喊跑路\n- 内测用户强烈建议更新\n- 该版本无需群验证且7天检测一次授权\n- 避免授权失效问题\n- 昨晚还在维护 谈何跑路\n- 待一切处理完整后开源",
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.7.6\n- 优化",
