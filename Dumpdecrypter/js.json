@@ -109,7 +109,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4-5\n- 未经 AppThinning 的完整软件包将在解密前主动加载所有框架以供解密, 优化PlugIns加载实现(不再需要注入pkd进程)\n- TrollStore版本即将到来",
+                    "markdown": "### 1.4-5\n- 未经 AppThinning 的完整软件包将在解密前主动加载所有框架以供解密\n- 优化PlugIns加载实现(不再需要注入pkd进程)\n- TrollStore 版本即将到来",
                 }
             ]
         }
