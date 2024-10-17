@@ -96,8 +96,8 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"OledKeyboard 开源 Github 地址",
-                    "action":"https://github.com/dayanch96/OledKeyboard",
+                    "title":"Netskao 作者源",
+                    "action":"https://jailrepo.initnil.com/",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
