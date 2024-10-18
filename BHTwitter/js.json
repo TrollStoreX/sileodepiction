@@ -38,12 +38,12 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 25,
-                    "itemSize": "{240, 520}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{240, 2080}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/BHTwitter/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/BHTwitter/pic3.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
