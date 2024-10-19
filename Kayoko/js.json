@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.4",
+                    "text": "2.5",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 15 日",
+                    "text": "2024 年 10 月 19 日",
                     "title": "最后更新"
                 }
             ]
@@ -93,6 +93,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.4\n- 「播放触感反馈」开关现已能控制整个插件的触感反馈效果\n- 为听写键触发新增了一处触感反馈。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.4\n- 优化删除/收藏时的动画效果\n- 优化面板颜色跟随状态栏风格\n- 查看预览时，右上角图标改为“返回”\n- SpringBoard 改成 ”主屏幕“，并配上小图标",
