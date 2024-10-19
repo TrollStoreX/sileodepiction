@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-6",
+                    "text": "1.4-8",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 18 日",
+                    "text": "2024 年 10 月 19 日",
                     "title": "最后更新"
                 },
                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8\n- 新增程序内显示已解密的应用列表\n- 未经AppThinning的完整软件包将不再执行修补白图标流程",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.4-6\n- 修复Apps列表不显示TestFlight应用\n- 目前可称为手机端的bagbak",
