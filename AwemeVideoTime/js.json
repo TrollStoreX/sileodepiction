@@ -50,7 +50,7 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 25,
+                    "itemCornerRadius": 0,
                     "itemSize": "{240, 520}",
                     "screenshots": [
                         {
@@ -86,7 +86,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-1",
+                    "text": "1.1-2",
                     "title": "插件版本"
                 },
                 {
@@ -96,7 +96,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 09 日",
+                    "text": "2024 年 10 月 19 日",
                     "title": "最后更新"
                 }
             ]
@@ -107,7 +107,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1-1\n- 初始发布",
+                    "markdown": "### 1.1-2\n- 修复通过搜索播放的视频不显示时间问题",
                 }
             ]
         }
