@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## iOS 18 圆角控制中心",
+                    "markdown": "## iOS 18 圆角控制中心\n- Round CC modules replication, like in iOS 18",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
