@@ -19,6 +19,14 @@
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
+                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 使用提示\n 评论区「图片/实况」无需点开大图，直接长按图片即可开始下载（不要点开大图）\n 开启功能后只有在视频/图片右侧中的下载按钮中下载才为无水印",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
                                 {
                     "class": "DepictionSeparatorView"
                 },
