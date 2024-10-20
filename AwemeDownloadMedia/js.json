@@ -15,18 +15,6 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"Netskao 作者源",
-                    "action":"https://jailrepo.initnil.com/",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## 抖音下载增强插件\n- 右下角显示下载按钮\n- 无水印保存图片、视频、LivePhoto\n- 仅在30.3.0及更高版本上进行测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
@@ -55,15 +43,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/AwemeDownloadMedia/pic3.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/AwemeDownloadMedia/pic1.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/AwemeDownloadMedia/pic2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/AwemeDownloadMedia/pic3.png"
                         }
                     ]
                 },
@@ -86,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-7",
+                    "text": "1.1-8",
                     "title": "插件版本"
                 },
                 {
@@ -96,9 +84,15 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 09 日",
+                    "text": "2024 年 10 月 20 日",
                     "title": "最后更新"
-                }
+                },
+                {
+                    "title":"Netskao 作者源",
+                    "action":"https://jailrepo.initnil.com/",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
             ]
         },
         {
