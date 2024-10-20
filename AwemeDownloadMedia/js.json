@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音下载增强插件\n- 右下角显示下载按钮\n- 无水印保存图片、视频、LivePhoto\n- 仅在30.3.0及更高版本上进行测试",
+                    "markdown": "## 抖音下载增强插件\n- 右下角显示下载按钮\n- 无水印保存图片、视频、LivePhoto\n- 仅在 31.7.0 及更高版本上进行测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -109,7 +109,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1-3\n- 支持评论区图像和 LivePhoto 保存",
+                    "markdown": "### 1.1-8\n- 支持抖音 31.7.0 版本",
                 },
                 {
                     "class": "DepictionMarkdownView",
