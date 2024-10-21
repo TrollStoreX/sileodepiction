@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.6+8",
+                    "text": "2.0.7",
                     "title": "插件版本"
                 },
                 {
@@ -80,11 +80,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 15 日",
+                    "text": "2024 年 10 月 21 日",
                     "title": "最后更新"
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title":"抖音图层｜Telegram",
@@ -100,8 +97,18 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.0.6+8.1\n- 新增自动发送连续消息\n- 设置完成后打开抖音自动发送(每天仅发一次)\n- 修复一些问题",
+                    "markdown": "#### 2.0.7\n- 修夏自动发送消息为置顶时的错误 现在可以正常发送，首次可能提示错误，但是不影响\n- 对纯净模式进行优化，现在可选择默认开启与按钮开启/ 关闭，理论对所有视频有效\n- 保存图片为视频(调用了dy自带的保存方法 只是更快捷点）\n- 作品是图片但是播放的是视频 增加个保存当前视频的方法\n- 对部分长按菜单设置了个视图微透明度\n- 新增全屏播放\n- 新增评论区视图微透\n- 优化一些代码", 
                 },
+                {
+                    "class": "DepictionSeparatorView"
+                },    
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6+8.1\n- 新增自动发送连续消息\n- 设置完成后打开抖音自动发送(每天仅发一次)\n- 修复一些问题", 
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },    
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6+8\n- 最终版\n- 如果后续有其它收费的免越狱插件，此插件可能会继续对免越狱免费开放",
