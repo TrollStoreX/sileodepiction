@@ -77,6 +77,11 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 16.6.1",
                     "title": "支持系统范围"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 21 日",
+                    "title": "最后更新"
                 }
             ]
         },
@@ -85,15 +90,9 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.4.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "未知",
-                    "useRawFormat": true
+                    "markdown": "### 1.4.3\n- 优化显示数据大小加载速度/n- 降级应用显示ID",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         }
