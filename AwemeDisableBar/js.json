@@ -15,18 +15,6 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"Netskao 作者源",
-                    "action":"https://jailrepo.initnil.com/",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## 抖音禁用插件\n- 禁用“顶部/底部/右侧”选项/按钮\n- 仅在30.3.0及更高版本上进行测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
@@ -106,7 +94,13 @@
                     "class": "DepictionTableTextView",
                     "text": "2024 年 10 月 21 日",
                     "title": "最后更新"
-                }
+                },
+                {
+                    "title":"Netskao 作者源",
+                    "action":"https://jailrepo.initnil.com/",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
 
             ]
         },
