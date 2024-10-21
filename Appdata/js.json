@@ -90,7 +90,7 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "### 1.4.3\n- 优化显示数据大小加载速度/n- 降级应用显示ID",
+                    "markdown": "### 1.4.3\n- 优化显示数据大小加载速度\n- 降级应用显示ID",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
