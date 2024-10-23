@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 砸壳 App Store 应用插件\n- 支持砸壳小组件和分享组件\n- 动态砸壳，支持全量包解密砸壳\n- Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1\n- [Dumpdecrypter 巨魔版本下载](https://t.me/iOS_TrollStore/3683)",
+                    "markdown": "## 砸壳 App Store 应用插件\n- 支持砸壳小组件和分享组件\n- 动态砸壳，支持全量包解密砸壳\n- Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1\n- [Dumpdecrypter 巨魔版本下载](https://t.me/iOS_TrollStore/3725)",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-8",
+                    "text": "1.4-9",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 19 日",
+                    "text": "2024 年 10 月 23 日",
                     "title": "最后更新"
                 },
                 {
@@ -107,7 +107,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-               {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9\n- 修复部分设备无法显示应用列表的问题(感谢xiaozhang反馈）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.4.8\n- 新增程序内显示已解密的应用列表\n- 未经AppThinning的完整软件包将不再执行修补白图标流程",
                 },
