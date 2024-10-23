@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv1.png",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
     "tintColor": "#00AAFF",
     "minVersion": "0.3",
     "tabs": [
@@ -91,9 +91,6 @@
                     "class": "DepictionTableTextView",
                     "text": "2024 年 10 月 23 日",
                     "title": "最后更新"
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title":"Netskao 作者源",
