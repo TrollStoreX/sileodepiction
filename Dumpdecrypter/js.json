@@ -106,7 +106,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.9\n- 修复部分设备无法显示应用列表的问题(感谢xiaozhang反馈）",
+                    "markdown": "### 1.4.9\n- 修复部分设备无法显示应用列表的问题(感谢xiaozhang反馈）/n- 使用 > 2024-10-23",
                 },
                 {
                     "class": "DepictionSeparatorView"
