@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.3-3",
+                    "text": "4.3-4",
                     "title": "插件版本"
                 },
                 {
@@ -85,11 +85,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 09 月 29 日",
+                    "text": "2024 年 10 月 23 日",
                     "title": "更新日期"
-                },
-               {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title":"BHTwitter Github 开源地址",
@@ -103,6 +100,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 4.3-4\n- 新增在搜索中隐藏热门视频选项\n- 「隐藏 Premium 注册优惠」的选项功能现在也会隐藏时间线上显示的广告（消息）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 4.3-3\n- 修复 X 10.60 隐藏右上角“升级”按钮失效问题",
