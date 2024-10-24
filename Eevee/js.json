@@ -106,7 +106,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 5.7\n- EeveeSpotify 现在使用默认本地化来填补缺失的字符串\n- @zrvpuna 提供的日语本地化\n- @longopy 更新的西班牙语本地化\n- @wlxxd 更新的德语本地化\n- @KAGUYA-1137 更新的日语本地化",
+                    "markdown": "### 5.7\n- EeveeSpotify 现在使用默认本地化来填补缺失的字符串\n- @zrvpuna 提供的日语本地化\n- @longopy 更新的西班牙语本地化\n- @wlxxd 更新的德语本地化\n- @KAGUYA-1137 更新的日语本地化\n ***2024-10-25***",
                 },
                 {
                     "class": "DepictionSeparatorView"
