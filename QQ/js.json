@@ -85,6 +85,12 @@
                     "action":"https://jailrepo.initnil.com/",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"QQiPadModeLogin Github 开源地址",
+                    "action":"https://jailrepo.initnil.com/",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
             ]
         },
