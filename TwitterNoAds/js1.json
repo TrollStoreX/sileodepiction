@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## Twitter X\n- 去广告在 Twitter 中删除广告，仅在 10.64.1 版本上测试\n- Twitter removes ads from data stream. Tested on version 10.64.1 only",
+                    "markdown": "## Twitter X\n- 在 Twitter 中删除信息流广告，仅在 10.64.1 版本上测试\n- Twitter removes ads from data stream. Tested on version 10.64.1 only",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
