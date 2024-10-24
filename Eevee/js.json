@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.6",
+                    "text": "5.7",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 23 日",
+                    "text": "2024 年 10 月 24 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,6 +104,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.7\n- EeveeSpotify 现在使用默认本地化来填补缺失的字符串\n- @zrvpuna 提供的日语本地化\n- @longopy 更新的西班牙语本地化\n- @wlxxd 更新的德语本地化\n- @KAGUYA-1137 更新的日语本地化",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.6\n- 新增不替换歌词选项\n- 实际修复了本地文件传输问题 (#437) \n- 修复了部分歌曲使用Musixmatch显示罗马化歌词时的崩溃问题 (#452) \n- 由@LPCC12提供的葡萄牙语本地化\n- 由@dvirzxc提供的加泰罗尼亚语本地化\n- 由@LIKVIDATOR1337更新的乌克兰语本地化\n- 由@xiangfeidexiaohuo更新的简体中文本地化\n- 由@ElliotCHEN37更新的繁体中文本地化\n- 由@UnexcitingDean更新的丹麦语本地化\n- 由@Richard-NDC和@hieuck更新的越南语本地化\n- 由@Incognito-Coder更新的波斯语本地化\n- 由@RikyPy更新的意大利语本地化",
