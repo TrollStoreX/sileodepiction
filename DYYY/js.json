@@ -102,7 +102,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.6\n- 新增默认倍速播放功能\n- 完全重构了UI \n- 修改打开设置方式为双指长按\n- 让#random也支持随机颜色",
+                    "markdown": "### 1.6\n- 新增默认倍速播放功能\n- 完全重构了UI \n- 修改打开设置方式为双指长按\n- 让 #random 也支持随机颜色",
                 },
                 {
                     "class": "DepictionSeparatorView"
