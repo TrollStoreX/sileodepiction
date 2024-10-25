@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
     "tintColor": "#59AEBC",
     "minVersion": "0.3",
     "tabs": [
@@ -38,7 +38,7 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 25,
+                    "itemCornerRadius": 0,
                     "itemSize": "{240, 520}",
                     "screenshots": [
                         {
