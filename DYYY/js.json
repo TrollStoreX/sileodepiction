@@ -84,6 +84,11 @@
                     "title": "支持系统"
                 },
                 {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 25 日",
+                    "title": "最后更新"
+                },
+                {
                     "title":"huami 的小窝｜Telegram",
                     "action":"https://t.me/huamidev",
                     "openExternal": 1,
