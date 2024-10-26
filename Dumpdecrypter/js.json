@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 砸壳 App Store 应用插件\n- ### 如果你不需要砸壳请不要安装，全量包框架加密，TrollFools 无法注入全量包应用！！\n- 支持砸壳小组件和分享组件\n- 动态砸壳，支持全量包解密砸壳\n- Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1\n- [Dumpdecrypter 巨魔版本下载](https://t.me/iOS_TrollStore/3725)",
+                    "markdown": "## 砸壳 App Store 应用插件\n- 支持砸壳小组件和分享组件\n- 动态砸壳，支持全量包解密砸壳\n- Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1\n- [Dumpdecrypter 巨魔版本下载](https://t.me/iOS_TrollStore/3725)",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
