@@ -14,7 +14,14 @@
           "openExternal": 1,
           "class": "DepictionButtonView"
                 },
-
+                {
+                    "markdown": "## 如果你不需要砸壳请不要安装，全量包框架加密，TrollFools 无法注入全量包应用！！",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "## 如果你不需要砸壳请不要安装，全量包框架加密，TrollFools 无法注入全量包应用！！\n ## 允许从 App Store 下载全量包应用\n- 配合 Dumpdecrypter 全权限砸壳使用\n- Disable AppStore/TestFlight app thinning - by level3tjg",
                     "useSpacing": true,
@@ -23,7 +30,7 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-                                                {
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
