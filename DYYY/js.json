@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.6",
+                    "text": "1.6-2",
                     "title": "插件版本"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 25 日",
+                    "text": "2024 年 10 月 27 日",
                     "title": "最后更新"
                 },
                 {
@@ -100,6 +100,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6-2\n- 修复 TF 抖音 31.9.0 屏蔽底栏红点失效问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.6\n- 新增默认倍速播放功能\n- 完全重构了UI \n- 修改打开设置方式为双指长按\n- 让 #random 也支持随机颜色",
