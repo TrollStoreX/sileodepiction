@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "微信多功能插件\n- 1:1 复刻“微信净化”插件，功能一模一样\n- ⚠️注意：不可与“微信净化”共存",
+                    "markdown": "##微信多功能插件\n- 1:1 复刻“微信净化”插件，功能一模一样\n- ⚠️注意：不可与“微信净化”共存",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -73,6 +73,11 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 28 日",
+                    "title": "最后更新"
                 }
 
             ]
