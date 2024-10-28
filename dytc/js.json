@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.7+2",
+                    "text": "2.0.7+3",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 26 日",
+                    "text": "2024 年 10 月 28 日",
                     "title": "最后更新"
                 },
                 {
@@ -95,6 +95,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.7+3\n- 修复一些bug \n- 移除全屏时打开评论区顶部黑块\n- 尝试修复部分设备全屏无效\n- 新增首页自动连播\n- 纯净播放按钮支持相册导入gif \n- 新增移除视频底部热点相关视频等视图",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.7+2\n- 新增视屏批量下载合集\n- 新增倍速按钮自定义调节(重新打开开关) \n- 新增可自由选择是否添加图文保存视频按钮\n- 新增纯净模式按钮图标自行更改(最底部选取) \n- 长按关闭输入我爱嘉嘉可以更改头像旁名字\n- 修复右上角搜索透明度失败\n- 修复首页全屏偶尔失效\n- 修复一些已知问题\n- 优化一些插件代码",
