@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音增强插件\n- 去广告、无水印下载视频\n- 隐藏各种图层按钮文字等\n- 双指双击屏幕打开插件设置界面",
+                    "markdown": "## 抖音增强插件\n ##双指双击屏幕打开插件设置界面\n- 去广告、纯净模式\n- 无水印保存高清视频/LivePhoto/图片\n- 保存评论区图片/表情/LivePhoto\n- 隐藏各种图层按钮文字\n- 推荐界面全屏播放等功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
