@@ -38,8 +38,8 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 25,
-                    "itemSize": "{240, 520}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{300, 520}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -47,7 +47,7 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/dytc/pic2.png"
+                            "url": ""
                         }
                     ]
                 },
