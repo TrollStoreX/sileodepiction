@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/Telegram/banner.png",
-    "tintColor": "#87A2FF",
+    "tintColor": "#269CD8",
     "minVersion": "0.3",
     "tabs": [
         {
