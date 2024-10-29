@@ -82,6 +82,18 @@
                     "class": "DepictionTableTextView",
                     "text": "2024 年 10 月 28 日",
                     "title": "最后更新"
+                },
+                {
+                    "title":"Griddy Github 开源地址",
+                    "action":"https://github.com/miki-fp/griddy",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"Havoc 正版购买",
+                    "action":"https://havoc.app/package/griddy",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
 
             ]
