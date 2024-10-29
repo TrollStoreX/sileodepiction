@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/Griddy/banner.png",
-    "tintColor": "#59A5E2",
+    "tintColor": "#6E74F8",
     "minVersion": "0.3",
     "tabs": [
         {
