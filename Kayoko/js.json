@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv1.png",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
     "tintColor": "#1DD660",
     "minVersion": "0.3",
     "tabs": [
@@ -74,17 +74,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.5",
+                    "text": "2.7",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.5",
+                    "text": "iOS 15 - iOS 16.6.1",
                     "title": "支持系统"
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 19 日",
+                    "text": "2024 年 10 月 29 日",
                     "title": "最后更新"
                 }
             ]
@@ -93,6 +93,20 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.7\n- 支持半越狱",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.6\n- 优化隐藏动画和时机",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.5\n- 「播放触感反馈」开关现已能控制整个插件的触感反馈效果\n- 为听写键触发新增了一处触感反馈。",
