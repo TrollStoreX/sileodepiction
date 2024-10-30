@@ -60,6 +60,11 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 06 月 06 日",
+                    "title": "最后更新"
                 }
             ]
         },
@@ -68,7 +73,7 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "### 4.2-7 END\n- 和过去做个告别，去年的最后一个版本\n- 上传留作纪念，永远不再维护\n- 去除时间限制，再见",
+                    "markdown": "### 4.2-7 END\n- 和过去做个告别，去年的最后一个版本\n- 上传留作纪念，永远不再维护\n- 移除红包相关功能\n- 移除文字转语音\n- 移除时间限制（永久使用）\n- 移除黑名单（曾经被净化拉黑用户） \n- 适配插件管理（收纳功能）\n- 修复自动领取红包闪退 ",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
