@@ -1,1 +1,100 @@
-
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "#018AFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "### 通知组计数 - 让你的通知界面显示分组通知的数量！\n- 这个功能的原始创意来自 Apple 的 iOS 18.1\n- 在通知界面上添加一个角标，显示该组通知的数量。\n- 让你控制角标的阴影效果，以提升可见性。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "### 提供三种不同的颜色方案\n- 自定义颜色：可以选择自己的背景和文字颜色。\n- 壁纸匹配颜色：自动与锁屏壁纸的平均颜色匹配。\n- 图标匹配颜色（默认）：适应徽章下方应用图标的颜色，呈现简洁外观。,
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{240, 520}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/NotificationsGroupCount/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.4.4",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 10 月 31 日",
+                    "title": "最后更新"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "markdown": "### 1.0.0\n- 初始发布",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
