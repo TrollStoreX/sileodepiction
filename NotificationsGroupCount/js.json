@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 通知组计数 - 让你的通知界面显示分组通知的数量！\n- 这个功能的原始创意来自 Apple 的 iOS 18.1\n- 在通知界面上添加一个角标，显示该组通知的数量。\n- 让你控制角标的阴影效果，以提升可见性。",
+                    "markdown": "### 通知分组计数 - 让你的通知界面显示分组通知的数量！\n- 这个功能的原始创意来自 Apple 的 iOS 18.1\n- 在通知界面上添加一个角标，显示该组通知的数量。\n- 让你控制角标的阴影效果，以提升可见性。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
