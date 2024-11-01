@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "##  Twitter X 增强插件\n- 视频下载\n- 修改应用图标\n- 去广告、去除 Groy 标签栏等功能\n- Awesome tweak for Twitter",
+                    "markdown": "##  Twitter X 增强插件\n- 视频下载\n- 修改应用图标\n- 去广告、去除 Groy 标签栏等功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,15 +39,11 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{800, 2080}",
+                    "itemSize": "{1000, 2080}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/BHTwitter/pic1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "" 
                         }
                     ]
                 },
