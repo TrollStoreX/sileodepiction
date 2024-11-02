@@ -47,12 +47,9 @@
                         }
                     ]
                 },
-                {
+                              {
                     "class": "DepictionSpacerView",
                     "spacing": 16
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionHeaderView",
@@ -65,6 +62,9 @@
                     "spacing": 8
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionTableTextView",
                     "text": "5.9.0-2",
                     "title": "插件版本"
@@ -73,7 +73,19 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                }
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 11 月 02 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title":"苏兔公众号",
+                    "action":"https://mp.weixin.qq.com/s/gk_-xeGIu8CqWL9cWrcr1g",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+
             ]
         },
         {
