@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/ThemeManager/banner.png",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
     "tintColor": "#EE66A6",
     "minVersion": "0.3",
     "tabs": [
