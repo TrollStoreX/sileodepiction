@@ -77,11 +77,8 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 20 日",
+                    "text": "2024 年 10 月 21 日",
                     "title": "最后更新"
-                },
-                                {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title":"CC18 开源 Github 地址",
