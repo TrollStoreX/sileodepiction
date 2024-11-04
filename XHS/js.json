@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.1",
+                    "text": "1.1.2",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 28 日",
+                    "text": "2024 年 11 月 04 日",
                     "title": "最后更新"
                 },
                 
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.2\n- 新增评论区动图保存\n- 修复一些问题\n- 优化一些细节",
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.1\n- 支持非越狱环境\n- 优化代码",
