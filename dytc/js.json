@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.7+3",
+                    "text": "2.0.7+5",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 28 日",
+                    "text": "2024 年 11 月 04 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,14 @@
             "tabname": "更新",
             "views": [
                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.7+5\n- 修复31.8.0直播间实际人数问题\n- 修复31.9.0底部消息红点夫效\n- 修复 31.9.0 直播界面异常\n- 开启仅看一次开启下载按钮后 仅看一次视频或图片不会自动消夫
+",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.7+3\n- 修复一些bug \n- 移除全屏时打开评论区顶部黑块\n- 尝试修复部分设备全屏无效\n- 新增首页自动连播\n- 纯净播放按钮支持相册导入gif \n- 新增移除视频底部热点相关视频等视图",
                 },
