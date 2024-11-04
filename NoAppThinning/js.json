@@ -88,9 +88,6 @@
                     "title": "最后更新"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "title":"Netskao 作者源",
                     "action":"https://jailrepo.initnil.com/",
                     "openExternal": 1,
