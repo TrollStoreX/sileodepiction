@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3",
+                    "text": "1.4",
                     "title": "插件版本"
                 },
                 {
@@ -99,6 +99,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4\n- 修复 TestFlight 添加新应用程序的请求",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.3\n- 修复 TestFlight 3.6.0 失败问题",
