@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
-    "tintColor": "#FF7E00",
+    "tintColor": "#33BDFF",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 初始发布", 
+                    "markdown": "### 1.0.1k\n- 初始发布", 
                 }
             ]
         }
