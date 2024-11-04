@@ -91,10 +91,6 @@
                     "text": "2024 年 11 月 04 日",
                     "title": "最后更新"
                 },
-                
-                {
-                    "class": "DepictionSeparatorView"
-                },
                 {
                     "title":"抖音图层｜Telegram",
                     "action":"https://t.me/DouYinHook",
@@ -108,11 +104,11 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.2\n- 新增评论区动图保存\n- 修复一些问题\n- 优化一些细节",
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionMarkdownView",
