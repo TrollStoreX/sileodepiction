@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音视频全屏显示\n- 放大视频达到全屏效果\n- huami 修复节日皮肤导致抖音无法全屏显示问题",
+                    "markdown": "## 抖音视频全屏显示\n- 仅在 31.9.0 版本上进行测试\n- 插件开关位于抖音设置内",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-9",
+                    "text": "1.2-2",
                     "title": "当前版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 03 日",
+                    "text": "2024 年 11 月 05 日",
                     "title": "最后更新"
                 }
             ]
@@ -90,7 +90,7 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "### 1.1-9\n- huami 修复节日皮肤导致抖音无法全屏显示问题",
+                    "markdown": "### 1.2-2\n- 重构插件\n- 新增插件开关设置",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
