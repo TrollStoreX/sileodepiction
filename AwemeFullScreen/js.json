@@ -38,16 +38,16 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 25,
-                    "itemSize": "{240, 520}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{800, 800}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/AwemeFullScreen/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/AwemeFullScreen/pic3.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/AwemeFullScreen/pic2.png" 
+                            "url": "https://trollstorex.github.io/sileodepiction/AwemeFullScreen/pic4.png" 
                         }
                     ]
                 },
