@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音禁用按钮菜单\n- 禁用「顶部｜底部｜右侧」选项按钮\n- 仅在30.3.0及更高版本上进行测试",
+                    "markdown": "## 抖音禁用按钮菜单\n- 禁用「顶部｜底部｜右侧」选项按钮\n- 仅在抖音 30.3.0 上进行测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
