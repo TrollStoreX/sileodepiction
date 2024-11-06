@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-2",
+                    "text": "1.2-3",
                     "title": "当前版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 05 日",
+                    "text": "2024 年 11 月 06 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,6 +89,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "markdown": "### 1.2-3\n- 首页直播界面关闭全屏显示",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "### 1.2-2\n- 重构插件\n- 新增插件开关设置",
                     "useSpacing": true,
