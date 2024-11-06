@@ -1,0 +1,13 @@
+#!name=Restore Procursus Old Icon
+#!desc=将 Procursus 源的图标替换成旧版龙卷风
+#!author=zhaonan
+#!icon=https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1006.png
+#!keyword=png
+
+[Rewrite]
+^https?:\/\/apt\.procurs\.us.*CydiaIcon@3x\.png mock-response-body data-type=file data="https://invalidunit.github.io/bark_icons/procursus/procursus@3x.png"
+^https?:\/\/apt\.procurs\.us.*CydiaIcon@2x.png mock-response-body data-type=file data="https://invalidunit.github.io/bark_icons/procursus/procursus@2x.png"
+^https?:\/\/apt\.procurs\.us.*CydiaIcon.png mock-response-body data-type=file data="https://invalidunit.github.io/bark_icons/procursus/procursus.png"
+
+[MITM]
+hostname = apt.procurs.us
