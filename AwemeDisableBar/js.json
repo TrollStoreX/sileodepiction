@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音禁用菜单按钮\n- 禁用“顶部/底部/右侧”选项/按钮\n- 仅在30.3.0及更高版本上进行测试",
+                    "markdown": "## 抖音禁用按钮菜单\n- 禁用「顶部｜底部｜右侧」选项按钮\n- 仅在30.3.0及更高版本上进行测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-5",
+                    "text": "1.1-6",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 04 日",
+                    "text": "2024 年 11 月 06 日",
                     "title": "最后更新"
                 },
                 {
@@ -108,6 +108,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-6\n- 禁用按钮将立即生效无需重启抖音\n- 修复禁用底部商城按钮失效问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-5\n- 支持禁用底部商城按钮",
