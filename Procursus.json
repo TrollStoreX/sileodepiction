@@ -5,9 +5,9 @@
 #!keyword=png
 
 [Rewrite]
-^https?:\/\/apt\.procurs\.us.*CydiaIcon@3x\.png mock-response-body data-type=file data="https://invalidunit.github.io/bark_icons/procursus/procursus@3x.png"
-^https?:\/\/apt\.procurs\.us.*CydiaIcon@2x.png mock-response-body data-type=file data="https://invalidunit.github.io/bark_icons/procursus/procursus@2x.png"
-^https?:\/\/apt\.procurs\.us.*CydiaIcon.png mock-response-body data-type=file data="https://invalidunit.github.io/bark_icons/procursus/procursus.png"
+^https?:\/\/apt\.procurs\.us.*CydiaIcon@3x\.png mock-response-body data-type=png data="https://invalidunit.github.io/bark_icons/procursus/procursus@3x.png"
+^https?:\/\/apt\.procurs\.us.*CydiaIcon@2x.png mock-response-body data-type=png data="https://invalidunit.github.io/bark_icons/procursus/procursus@2x.png"
+^https?:\/\/apt\.procurs\.us.*CydiaIcon.png mock-response-body data-type=png data="https://invalidunit.github.io/bark_icons/procursus/procursus.png"
 
 [MITM]
 hostname = apt.procurs.us
