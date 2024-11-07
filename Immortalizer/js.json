@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/Immortalizer/banner.png",
-    "tintColor": "#018AFF",
+    "tintColor": "#36046D",
     "minVersion": "0.3",
     "tabs": [
         {
