@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.7+5",
+                    "text": "2.0.7+6",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 04 日",
+                    "text": "2024 年 11 月 07 日",
                     "title": "最后更新"
                 },
                 {
@@ -95,7 +95,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-               {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.7+6\n- 修复纯净模式下无法拉动长视频滑条\n- 修复隐藏进度条后还有一条长线\n- 优化功能打开提示弹窗\n- 优化抖音浅色模式下解析弹窗导致状态栏变色\n- 优化一些细节",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.7+5\n- 修复31.8.0直播间实际人数问题\n- 修复31.9.0底部消息红点夫效\n- 修复 31.9.0 直播界面异常\n- 开启仅看一次开启下载按钮后 仅看一次视频或图片不会自动消失",
                 },
