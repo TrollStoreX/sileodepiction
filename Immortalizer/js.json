@@ -1,1 +1,96 @@
-
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/Immortalizer/banner.png",
+    "tintColor": "#018AFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 越狱永生，应用真后台插件\n- 将您的应用保持在前台无限运行，即使它们处于后台！\n- 您是否厌倦了某些应用必须在前台才能执行某些操作？或者，您是否想让应用在后台不被挂起？别担心，Immortalizer帮您解决！",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 功能特点\n- 通过 3D Touch 菜单启用/禁用应用后台运行（前台保持）\n- 即使屏幕关闭或设备锁定也能正常运行，因此无需担心电池消耗\n- 提供状态指示器或提示消息选项，取决于应用的状态\n- 允许您为某些在前台模式下无法显示通知的应用启用通知",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Immortalizer/pic1.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0.0",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 11 月 07 日",
+                    "title": "最后更新"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "markdown": "### 1.0.1\n- 初始发布",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
