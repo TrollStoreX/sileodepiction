@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
     "tintColor": "",
     "minVersion": "0.3",
     "tabs": [
@@ -21,16 +21,12 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/SingleVPN/pic2.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/SingleVPN/pic3.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/PKC/pic1.png"
                         }
                     ]
                 },
