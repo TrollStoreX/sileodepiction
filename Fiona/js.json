@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 应用底栏浮动",
+                    "markdown": "## 应用底栏浮动\n- 仅支持部分应用\n- 支持 Bootstrap 环境，需要开启应用注入",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 02 日",
+                    "text": "2024 年 03 月 27 日",
                     "title": "最后更新"
                 }
 
@@ -92,7 +92,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 暂无",
+                    "markdown": "### 转换支持 Bootstrap",
                 }
             ]
         }
