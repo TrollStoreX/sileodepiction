@@ -38,20 +38,12 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 25,
-                    "itemSize": "{240, 520}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{1000, 1000}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/TikTok/pic3.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/TikTok/pic1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/TikTok/pic2.png" 
+                            "url": "https://trollstorex.github.io/sileodepiction/TikTok/pic4.png"
                         }
                     ]
                 },
@@ -74,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5",
+                    "text": "1.7-1",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 15 日",
+                    "text": "2024 年 11 月 12 日",
                     "title": "最后更新"
                 },
                  {
