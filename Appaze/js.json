@@ -1,0 +1,100 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "#018AFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 桌面图标增强工具\n- 图标上滑或下滑或3D长按即可唤出菜单\n- 此版本由 Netskao 完整汉化并修改优化。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 功能\n- 降级应用\n- 修改应用名称\n- 清除/重置应用数据\n- 重置应用权限\n- 快速跳转 Filza 应用路径",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Appaze/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Appaze/pic2.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 11 月 13 日",
+                    "title": "最后更新"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "markdown": "### 1.0\n- 初始发布",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
