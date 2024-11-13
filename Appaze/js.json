@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/Appaze/banner.png",
     "tintColor": "#018AFF",
     "minVersion": "0.3",
     "tabs": [
@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 桌面图标增强工具\n- 图标上滑或下滑或3D长按即可唤出菜单\n- 此版本由 Netskao 完整汉化并修改优化。",
+                    "markdown": "## 体验版，可能会有盗版弹窗、自行购买\n ## 可以为每个应用自定义多达30项设置，通过简洁友好的界面轻松访问！",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -23,7 +23,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 功能\n- 降级应用\n- 修改应用名称\n- 清除/重置应用数据\n- 重置应用权限\n- 快速跳转 Filza 应用路径",
+                    "markdown": "### 可以为每个应用自定义多达30项设置，通过简洁友好的界面轻松访问！\n- Appaze 3 允许你为特定应用自定义音量、亮度以及多个切换选项（如 Wi-Fi、蜂窝数据、屏幕方向锁定、VPN 等），还能设定自定义行为（禁用通知中心/控制中心、禁用主屏手势、隐藏系统提示和通知横幅等），直接通过 3D Touch 菜单实现。每次当定制的应用在前台运行（从主屏幕、应用切换器打开时），会自动应用所选择的设置值。退出应用时，之前的系统默认设置会自动恢复（除非在设置中选择其他选项）。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
