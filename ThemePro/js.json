@@ -51,7 +51,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{240, 520}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -82,13 +82,18 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.1.2",
+                    "text": "3.1.4",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 11 月 13 日",
+                    "title": "最后更新"
                 }
             ]
         },
@@ -96,6 +101,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.1.4\n- 针对拥有大量 TP 主题的用户，为了加快加载主题速度和稳定性，可在宝盒中切换至「纯净模式」，隐藏「下载主题」列表的主题图片，避免因主题过多导致的卡顿或闪退问题。重新进入宝盒就可以回到大图模式。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.1.2\n- 修复微信更新的“小店订单与卡包”",
