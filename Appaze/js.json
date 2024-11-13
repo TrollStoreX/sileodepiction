@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 体验版\n ### 可能会有盗版弹窗，自行购买正版",
+                    "markdown": "## 体验版\n ### 会有盗版弹窗，自行购买正版",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
