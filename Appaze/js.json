@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 体验版，可能会有盗版弹窗、自行购买\n ## 可以为每个应用自定义多达30项设置，通过简洁友好的界面轻松访问！",
+                    "markdown": "## 体验版\n ###可能会有盗版弹窗，自行购买正版",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -48,6 +48,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/Appaze/pic2.png" 
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Appaze/pic3.png" 
                         }
                     ]
                 },
