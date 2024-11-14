@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/KS/banner.png",
-    "tintColor": "#FF2342",
+    "tintColor": "#FF4905",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入巨魔商店Pro群组",
+          "text": "加入巨魔越狱交流群 Chat",
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 04 日",
+                    "text": "2024 年 09 月 26 日",
                     "title": "最后更新"
                 },
                 {
