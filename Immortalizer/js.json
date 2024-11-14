@@ -86,7 +86,7 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "## 2.0.0-1\n- 修复了与某些拦截通知的插件（例如 Glance）冲突的错误\n- 修复了控制中心模块的禁用按钮无响应的问题\n- 修复了某些应用程序崩溃或卡顿的问题\n- 修复了键盘无法使用的问题\n- 提高了前台优化\n- 优化了弹窗动画",
+                    "markdown": "### 2.0.0-1\n- 修复了与某些拦截通知的插件（例如 Glance）冲突的错误\n- 修复了控制中心模块的禁用按钮无响应的问题\n- 修复了某些应用程序崩溃或卡顿的问题\n- 修复了键盘无法使用的问题\n- 提高了前台优化\n- 优化了弹窗动画",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 1.0.1\n- 修复了屏幕旋转在开启了“真后台”应用上不起作用的错误\n- 改进安全检查",
+                    "markdown": "### 1.0.1\n- 修复了屏幕旋转在开启了“真后台”应用上不起作用的错误\n- 改进安全检查",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
