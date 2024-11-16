@@ -20,6 +20,15 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
                     "itemSize": "{1000, 2000}",
