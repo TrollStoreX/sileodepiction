@@ -13,6 +13,7 @@
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
+                },
                 {
                     "markdown": "## 抖音视频发布时间\n- 抖音视频下方始终显示视频的发布时间",
                     "useSpacing": true,
@@ -42,7 +43,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/AwemeAlwaysShowTime/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/WCIsOverSeaUser/pic1.png"
                         }
                     ]
                 },
@@ -84,6 +85,7 @@
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
+
             ]
         },
         {
