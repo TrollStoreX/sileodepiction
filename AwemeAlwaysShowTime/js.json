@@ -13,7 +13,6 @@
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
-                },
                 {
                     "markdown": "## 抖音视频发布时间\n- 抖音视频下方始终显示视频的发布时间",
                     "useSpacing": true,
