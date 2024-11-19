@@ -70,17 +70,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.2",
+                    "text": "1.0.5",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.6.1",
+                    "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 01 日",
+                    "text": "2024 年 11 月 19 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,6 +89,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "markdown": "### 1.0.5\n- 修复了角标可能未对齐的一些情况",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "### 1.0.2\n- 希望修复罕见情况角标重影",
                     "useSpacing": true,
