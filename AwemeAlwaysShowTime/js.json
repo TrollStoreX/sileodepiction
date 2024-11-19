@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音视频发布时间\n- 抖音视频下方始终显示视频的发布时间",
+                    "markdown": "## 抖音视频发布时间\n- 抖音视频下方始终显示视频的发布时间\n- 安装默认生效，无设置选项",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
