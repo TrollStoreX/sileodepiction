@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.1.4",
+                    "text": "3.1.6",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 13 日",
+                    "text": "2024 年 11 月 17 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,6 +101,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.1.6\n- 宝盒之门布局切换按钮失效问题\n- 适配8.0.54新版本图标加载",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.1.4\n- 针对拥有大量 TP 主题的用户，为了加快加载主题速度和稳定性，可在宝盒中切换至「纯净模式」，隐藏「下载主题」列表的主题图片，避免因主题过多导致的卡顿或闪退问题。重新进入宝盒就可以回到大图模式。",
