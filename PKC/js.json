@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6-4",
+                    "text": "0.6-5",
                     "title": "插件版本"
                 },
                 {
@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 16 日",
+                    "text": "2024 年 11 月 20 日",
                     "title": "最后更新"
                 }
             ]
@@ -77,6 +77,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.6-5\n- 优化群设置页面，默认折叠PKC功能\n- [文转语]背景音可长按音频文件直接导入\n- [文转语]语音转MP3兼容低版本V\n- [文转语]修复启用自动清理缓存，无法发送二次元音色Bug\n- [标签Pro]修复54版本标签在通讯录-服务号前错位显示问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.6-4\n- [文转语]修复“随机”背景音闪退问题\n- [文转语]优化背景音导入按钮（部分设备没显示按钮）\n- [文转语]新增反向代理，支持填写代理地址，解决一些网站无法访问。快速部署反向代理：PKC反向代理项目\n- [文转语]优化文字转语音Pro按钮\n- [文转语]增加FV音色情绪\n- [文转语]增加语音转MP3 \n- [文转语]增加自动清理缓存\n- [文转语]增加快捷音色页面指令\n- [标签Pro]修复X轴范围填写问题",
