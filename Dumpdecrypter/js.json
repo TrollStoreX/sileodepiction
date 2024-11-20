@@ -39,8 +39,8 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 25,
-                    "itemSize": "{240, 520}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-9",
+                    "text": "1.5-1",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 23 日",
+                    "text": "2024 年 11 月 20 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,6 +104,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5-1\n- 一些小的优化",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.4.9\n- 修复部分设备无法显示应用列表的问题(感谢xiaozhang反馈）\n- > 2024-10-23",
