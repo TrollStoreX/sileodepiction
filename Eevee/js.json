@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8",
+                    "text": "5.8.1",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 09 日",
+                    "text": "2024 年 11 月 18 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,7 +104,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-               {
+              {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.8.1\n- 由 @gototheskinny 更新了土耳其语本地化\n- 由 @ElliotCHEN37 更新了繁体中文本地化\n- 由 @HackZy01 更新了波兰语本地化\n- 由 @Incognito-Coder 更新了波斯语本地化",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.8\n- 请求为 Musixmatch 提供匿名令牌选项\n- 阿拉伯语（埃及）、匈牙利语和罗马尼亚语本地化由 @RikyPy 提供\n- 土耳其语本地化更新，由 @gototheskinny 提供\n- 意大利语本地化更新，由 @RikyPy 提供\n- 越南语本地化更新，由 @Richard-NDC 和 @hieuck 提供\n- 简体中文本地化更新，由 @xiangfeidexiaohuo 提供\n- 丹麦语本地化更新，由 @UnexcitingDean 提供",
                 },
