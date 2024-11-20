@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0",
+                    "text": "1.0.1",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 13 日",
+                    "text": "2024 年 11 月 21 日",
                     "title": "最后更新"
                 }
             ]
@@ -94,7 +94,7 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "### 1.0\n- 初始发布",
+                    "markdown": "### 1.0.1\n- 在 iOS 16 及更高版本上切换到新方法来设置音量，因为之前的方法对某些用户不起作用",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
