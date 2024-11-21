@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.1.6",
+                    "text": "3.1.7",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 17 日",
+                    "text": "2024 年 11 月 21 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,7 +101,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-               {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.1.7\n- 修复部分用户点击聊天窗口内图片闪退问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.1.6\n- 宝盒之门布局切换按钮失效问题\n- 适配8.0.54新版本图标加载",
                 },
