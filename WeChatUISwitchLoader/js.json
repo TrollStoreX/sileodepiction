@@ -94,8 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1-3\n- 添加缓存机制, 避免过度使用资源
-",
+                    "markdown": "### 1.1-3\n- 添加缓存机制, 避免过度使用资源",
                 }
             ]
         }
