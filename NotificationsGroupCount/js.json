@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.5",
+                    "text": "1.0.6",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 19 日",
+                    "text": "2024 年 11 月 27 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,7 +89,15 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-               {
+                 {
+                    "markdown": "### 1.0.6\n- 修复更多角标对齐，非常感谢 p2kdev",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "### 1.0.5\n- 修复了角标可能未对齐的一些情况",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
