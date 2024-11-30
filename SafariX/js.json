@@ -79,7 +79,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.3\n- 添加了欺骗/更改默认用户代理的选项",
+                    "markdown": "### 1.9.1\n- 添加了“阅读器”按钮\n- 添加了“扩展”按钮",
                 }
             ]
         }
