@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9.1",
+                    "text": "1.9.2",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 28 日",
+                    "text": "2024 年 11 月 30 日",
                     "title": "最后更新"
                 }
 
@@ -88,7 +88,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.9.1\n- 添加了“阅读器”按钮\n- 添加了“扩展”按钮",
+                    "markdown": "### 1.9.2\n- 添加了返回上一个书签选项",
                 }
             ]
         }
