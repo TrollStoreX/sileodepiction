@@ -114,15 +114,9 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "5.0.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "未知",
-                    "useRawFormat": true
+                    "markdown": "### 5.1\n- 修复大量 bug\n- 修复视频下载闪退\n- 新增各种功能",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         }
