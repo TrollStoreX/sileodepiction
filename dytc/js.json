@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.7+8",
+                    "text": "2.0.8",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 23 日",
+                    "text": "2024 年 12 月 01 日",
                     "title": "最后更新"
                 },
                 {
@@ -95,6 +95,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.8\n- 新增一项花里胡哨的按钮(最近很火的那个)\n- 新增一个小丑功能(修改自己作品的点赞/播放/浏览/收藏/评论)_Q群小佳\n- 修复一些已知问题\n- 插件免费使用如你是买的，说明你被骗了，同时你也是小丑\n- 2024.12.01",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.7+8\n- 新增自定义接口\n- 修复一些bug 优化一些细节\n- 修复纯净模式时无法拉动长频进度条\n- 修复隐藏进度条后还有一条线的问题\n- 新增底部显示发布时间顶部弹窗显示时状态栏颜色问题修复\n- 修复键盘颜色问题\n- 优化评论区保存方案1\n- 修复首页连播打开评论区时还会自动下一条问题\n- 2024.11.23",
