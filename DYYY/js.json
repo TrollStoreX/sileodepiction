@@ -40,15 +40,11 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{240, 520}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic2.png"
                         }
                     ]
                 },
@@ -75,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.6-2",
+                    "text": "1.7",
                     "title": "插件版本"
                 },
                 {
@@ -85,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 27 日",
+                    "text": "2024 年 12 月 02 日",
                     "title": "最后更新"
                 },
                 {
@@ -100,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7\n- 修复因新版本导致侧边倍速播放失效\n- 新增评论区键盘切换深色模式（在设置）\n- 为新版本抖音的弹幕热更新适配改色功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.6-2\n- 修复 TF 抖音 31.9.0 屏蔽底栏红点失效问题",
