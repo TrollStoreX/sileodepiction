@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## Instagram 增强插件\n- Save posts and view stories anonymously and do much more\n- 点击下方横幅「解锁专业版」「现在升级」「恢复购买」",
+                    "markdown": "## Instagram 增强插件\n- Save posts and view stories anonymously and do much more\n- 默认解锁专业版本 Pro 功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -42,7 +42,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 25,
-                    "itemSize": "{240, 520}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8.29",
+                    "text": "3.8.30",
                     "title": "插件版本"
                 },
                 {
@@ -99,7 +99,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 08 月 21 日",
+                    "text": "2024 年 12 月 08 日",
                     "title": "最后更新"
                 }
             ]
@@ -108,6 +108,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.8.30\n- 修复了主页网格状态帖子点击不响应的问题",
+                }
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.8.29\n- 修复了下载和重新发布按钮布局不能使用问题。",
