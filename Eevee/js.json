@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.1",
+                    "text": "5.8.2",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 18 日",
+                    "text": "2024 年 12 月 05 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,7 +104,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-              {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.8.2\n- 更新了德语本地化，由 @wlxxd 完成",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.8.1\n- 由 @gototheskinny 更新了土耳其语本地化\n- 由 @ElliotCHEN37 更新了繁体中文本地化\n- 由 @HackZy01 更新了波兰语本地化\n- 由 @Incognito-Coder 更新了波斯语本地化",
                 },
