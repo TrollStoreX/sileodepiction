@@ -111,7 +111,7 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.8.30\n- 修复了主页网格状态帖子点击不响应的问题",
-                }
+                },
                 {
                     "class": "DepictionSeparatorView"
                 },
