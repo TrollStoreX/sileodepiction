@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 16.5",
                     "title": "支持系统"
                 },
                 {
@@ -87,7 +87,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0\n- 修复在 iOS 15 及以上版本中，设置中与进程相关的调整列表不准确的问题\n- 使用纯 C 重写主库，移除对函数钩子的依赖",
+                    "markdown": "### 1.5\n- 修复在 iOS 15 及以上版本中，设置中与进程相关的调整列表不准确的问题\n- 使用纯 C 重写主库，移除对函数钩子的依赖",
                 }
             ]
         }
