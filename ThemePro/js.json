@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.3.5",
+                    "text": "3.4.4",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 02 日",
+                    "text": "2024 年 12 月 14 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,6 +101,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.4.4\n- 更新支持动态背景\n- 修复了服务页美团团购图标不显示\n- 解决用户切猪咪主题未关闭 TP 导致小底栏消失问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.3.5\n- 修复了微信 8.0.54 从其他页面返回首页，底栏会黑一下的问题\n- 修复了我的页面订单与卡包变成购物订单与卡包图标不显示问题\n- 新增一个设置组“个性化设置”原“其他设置”改名为“配套设置”\n- 新增图标动效功能，大小底栏设置（配套设置内），各种字体修改，背景透明功能（个性化设置内）\n- 修复了从公众号分类会到首页，顶栏消失问题\n修复了用户3000+以上主题，应用主题显示不完整的问题",
