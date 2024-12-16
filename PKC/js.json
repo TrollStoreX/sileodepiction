@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6-5",
+                    "text": "0.6-6",
                     "title": "插件版本"
                 },
                 {
@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 20 日",
+                    "text": "2024 年 12 月 16 日",
                     "title": "最后更新"
                 }
             ]
@@ -77,6 +77,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.6-6\n- [文转语]新增FV音色自动签到，获取每日免费积分\n- [文转语]修复启用背景音，但背景音为空时，导致闪退问题\n- [个性化功能]新增透明气泡开关\n- [个性化功能]新增一键拷贝个性签名功能\n- 优化收款自动回复，回复模式增加选项【不回复】\n- 修复8054消息推送、自动收款、群管理Pro功能失效问题\n- 新增黑名单机制 ",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.6-5\n- 优化群设置页面，默认折叠PKC功能\n- [文转语]背景音可长按音频文件直接导入\n- [文转语]语音转MP3兼容低版本V\n- [文转语]修复启用自动清理缓存，无法发送二次元音色Bug\n- [标签Pro]修复54版本标签在通讯录-服务号前错位显示问题",
