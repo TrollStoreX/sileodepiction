@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.8+3",
+                    "text": "2.0.8+5",
                     "title": "插件版本"
                 },
                 {
@@ -95,6 +95,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.8+5\n- 修复长按倍速显示问题并新增1.25倍\n- 修复背景视频换图片时还是视频问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.8+3\n- 新增插件可选择视频背景\n- 修复一些人保存GIF的问题\n- 优化一些细节",
