@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.8+1",
+                    "text": "2.0.8+3",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 01 日",
+                    "text": "2024 年 12 月 16 日",
                     "title": "最后更新"
                 },
                 {
@@ -95,6 +95,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.8+3\n- 新增插件可选择视频背景\n- 修复一些人保存GIF的问题\n- 优化一些细节",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.8+1\n- 新增移除消息界面顶部横向排列大头\n- 2024.12.01",
