@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.1-1",
+                    "text": "1.0.2-1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 14 日",
+                    "text": "2024 年 12 月 17 日",
                     "title": "最后更新"
                 }
 
@@ -100,7 +100,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.1-1\n- 初始发布",
+                    "markdown": "### 1.0.2-1\n- 修复搜索栏透明问题\n- 修复了一些已知问题\n- 增加了主题更新功能\n- 以后会用到\n- 底栏样式做了修改，可以添加描边和发光",
                 }
             ]
         }
