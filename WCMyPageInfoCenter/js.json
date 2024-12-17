@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-4",
+                    "text": "1.1-5",
                     "title": "插件版本"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-5\n- 修改标题为中文\n- 限制自定义微信文本不能为1到5个单空格（以防无法再次点击修改）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-4\n- 支持点击微信号自定义文本内容",
