@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.2-1",
+                    "text": "1.0.3-2",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 17 日",
+                    "text": "2024 年 12 月 19 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0.3-2\n- 修复1.0-3-1修改底栏动画闪退问题\n- 修复了1.0.2目前收集到的一些问题\n- 再次调整底栏样式，将底栏设置移动到了插件首页\n- 修复底栏点击漂移(点不到)问题\n- 修复主题包未上传顶栏时从聊天返回首页顶部透明问题\n- 新增我的页面居中布局增加头像旋转\n- 新增自定义名字和微信号显示内容",
+                }
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.2-1\n- 修复用户白嫖主题 Bug\n- 修复搜索栏透明问题\n- 修复了一些已知问题\n- 增加了主题更新功能，以后会用到\n- 底栏样式做了修改，可以添加描边和发光",
