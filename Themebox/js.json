@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 微信主题插件\n- 需要购买主题才能使用功能，具体自行购买",
+                    "markdown": "## 微信主题插件\n- 所有功能必须选择主题才能生效 「[原生主题购买地址](https://k.youshop10.com/pvivoLu0)」",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
