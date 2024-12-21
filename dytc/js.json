@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.8+5",
+                    "text": "2.0.8+5+debug",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 16 日",
+                    "text": "2024 年 12 月 21 日",
                     "title": "最后更新"
                 },
                 {
@@ -95,6 +95,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.8+5+debug\n- 修复长按菜单中倍速显示异常",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.8+5\n- 修复长按倍速显示问题并新增1.25倍\n- 修复背景视频换图片时还是视频问题",
