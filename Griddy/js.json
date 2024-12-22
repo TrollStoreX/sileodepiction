@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.4",
+                    "text": "1.0.5",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 28 日",
+                    "text": "2024 年 12 月 22 日",
                     "title": "最后更新"
                 },
                 {
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0.5\n- 修复了 Dock 的图标创建多行的问题\n- 修复了将 Griddy 数据保存在错误位置的问题\n- 修复了文件夹预览生成不正确的问题\n- 整体稳定性改进",
+                }
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.4\n- 修复了有关 dock 位置的问题\n- 修复了有关 Bolders Reborn 插件兼容性的文件夹预览问题\n- 修复了因生成文件夹图标图像而导致崩溃的问题\n- 将存储的位置数据移至设备上的单独位置\n- 稳定性改进",
