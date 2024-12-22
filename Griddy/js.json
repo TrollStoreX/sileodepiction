@@ -106,7 +106,7 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.5\n- 修复了 Dock 的图标创建多行的问题\n- 修复了将 Griddy 数据保存在错误位置的问题\n- 修复了文件夹预览生成不正确的问题\n- 整体稳定性改进",
-                }
+                },
                 {
                     "class": "DepictionSeparatorView"
                 },
