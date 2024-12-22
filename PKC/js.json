@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6-6",
+                    "text": "0.6-7",
                     "title": "插件版本"
                 },
                 {
@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 16 日",
+                    "text": "2024 年 12 月 22 日",
                     "title": "最后更新"
                 }
             ]
@@ -77,6 +77,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.6-7\n- 修复插件在 8.0.54 一些问题，如群管理Pro二维码检测失效、文件警告失效、加密图转发失效、关键词回复聊天记录图失效等问题\n- [朋友圈特别关注]支持Live实况转发到本人窗口\n- [文转语]新增FV积分兑换字符按钮、查询剩余字符按钮\n- [个性签名复制]优化，点击自己签名设置则不触发复制",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.6-6\n- [文转语]新增FV音色自动签到，获取每日免费积分\n- [文转语]修复启用背景音，但背景音为空时，导致闪退问题\n- [个性化功能]新增透明气泡开关\n- [个性化功能]新增一键拷贝个性签名功能\n- 优化收款自动回复，回复模式增加选项【不回复】\n- 修复8054消息推送、自动收款、群管理Pro功能失效问题\n- 新增黑名单机制 ",
