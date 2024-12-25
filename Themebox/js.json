@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.5-2",
+                    "text": "1.0.6-2",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 21 日",
+                    "text": "2024 年 12 月 25 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0.6-2\n- 修复106输入框底栏问题\n- 修复部分版本点开朋友圈闪退问题\n- 资料页局中功能增加头像挂件\n- 修复低版本搜索页暗黑模式问题\n- 优化背景动画功能，新增了几个基础动画，增加暗黑模式颜色调整，可在允许范围内调整一些动画参数\n- 彻底修复悬浮底栏问题\n- 头像旋转增加旋转速度调整\n- 对其它一些收集到的问题进行修复",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.5-2\n- 新增背景动画，主题必需有背景图片才能生效\n- 优化悬浮底栏，允许自定义大小\n- 悬浮底栏图标新增长按动作",
