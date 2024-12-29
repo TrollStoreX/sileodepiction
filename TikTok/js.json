@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.7-1",
+                    "text": "1.8",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 12 日",
+                    "text": "2024 年 12 月 29 日",
                     "title": "最后更新"
                 },
                  {
@@ -94,7 +94,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                               {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.8\n- 修复国家地区切换失效问题\n- 修复始终显示进度条问题\n- 修复罕见的设置崩溃问题\n- 修复一些其他问题\n- 重新一些 UI 重新设计\n- 新增：俄罗斯封锁绕过\n- 新增：更多地区可供选择",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5\n- 修复应用启动崩溃\n- BHTikTok++ 设置崩溃\n- 区域更改器（必须注销才能正常工作，因为 TikTok 的算法变化导致很多功能失效（可能还有其他我不记得的，自己去看看吧）\n- 新增 - 分享面板（保持禁用状态以自动保存媒体到照片应用）\n- 新增直播按钮操作\n- 新增FLEX（仅限开发者使用\n- 整个设置用户界面的重写和重新设计",
                 },
