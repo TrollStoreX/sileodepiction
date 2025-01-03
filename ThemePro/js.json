@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.4.4",
+                    "text": "3.7.1",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 14 日",
+                    "text": "2025 年 01 月 02 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,6 +101,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.7.1\n- 新增歌词速度设置\n- 新增全局心情调用主题素材\n- 修复8049“我”页面没有背景问题\n- 修复8050不显示顶栏问题\n- 全面适配8055版本\n- 修复大段文案填入一整首歌超长歌词进不了微信设置（更新后这里会清空请重新设置）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.4.4\n- 更新支持动态背景\n- 修复了服务页美团团购图标不显示\n- 解决用户切猪咪主题未关闭 TP 导致小底栏消失问题",
