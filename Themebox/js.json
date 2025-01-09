@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.8-1",
+                    "text": "1.1.0-1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 31 日",
+                    "text": "2025 年 01 月 08 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.10-1\n- 修复灵动岛设备导航栏问题\n- 修复109版本聊天页面昵称显示问题\n- 我的主题增加删除功能（长按对应主题）（注意，删除后主题将永久删除！直到你再次兑换！）\n- 增加重新下载功能，如果你不小心改了配置文件可以重新下载回来",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.8-1\n- 增加重置插件设置功能\n- 修复作者本地加载色值\n- 优化了一些代码提升流畅度\n- 修复107版本聊天背景图不能加载",
