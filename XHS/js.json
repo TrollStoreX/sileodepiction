@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2",
+                    "text": "1.1.3",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 04 日",
+                    "text": "2025 年 01 月 15 日",
                     "title": "最后更新"
                 },
                 {
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.3\n- 新增无水印保存图片/实况/视频\n- 移除底部热点\n- 评论区实况保存\n- 新增顶部下载弹窗提示音\n- 移除底部购物\n- 移除底部消息\n- 移除底部加号\n- 移除首页赞助/广告\n- 开启头像封面下载\n- 开启视频高清下载\n- 开启图片高清下载\n- 彩蛋1:插件头像自定义,图片以png格式命名为JiaJiaILoveYou存放到小红书的沙河目录Documents内即可\n- 彩蛋2:长按关闭输入我爱嘉嘉更改头像旁昵称,昵称后使用//可以换行,换行后文字会变小即是个人留言\n- 彩蛋3:QQ群换新,男性不通过\n- 插件任何功能，开启前，请，仔细，阅读，提示！",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.2\n- 新增评论区动图保存\n- 修复一些问题\n- 优化一些细节",
