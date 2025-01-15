@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.2",
+                    "text": "5.8.4",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 05 日",
+                    "text": "2025 年 01 月 14 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,6 +104,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.8.4\n- 改进了由 @Mapleshade20 开发的 LRCLIB 歌词获取功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.8.2\n- 更新了德语本地化，由 @wlxxd 完成",
