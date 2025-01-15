@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9.2",
+                    "text": "1.9.3",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 30 日",
+                    "text": "2025 年 01 月 09 日",
                     "title": "最后更新"
                 }
 
@@ -86,6 +86,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9.3\n- 添加了 JS 自动注入到选定的域\n- 对某些网站进行了已知修复（例如 ChatGPT 滚动问题）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.9.2\n- 添加了返回上一个书签选项",
