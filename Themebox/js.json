@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-1",
+                    "text": "1.1.3-1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 15 日",
+                    "text": "2025 年 01 月 22 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.3-1\n- 修复折叠的群聊无法加载自定义聊天背景\n- 增加了一些图标的映射",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.2-1\n- \n- 优化了一些代码\n- 修复几个在Bug反馈中提到的问题\n- 增加单独的红包/转账气泡文字颜色修改",
