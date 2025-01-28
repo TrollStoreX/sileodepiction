@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0",
+                    "text": "2.0.1",
                     "title": "插件版本"
                 },
                 {
@@ -77,7 +77,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 09 日",
+                    "text": "2025 年 01 月 28 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,7 +92,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-              {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.1\n- 改进检查更新\n- 增强的自定义状态栏\n- 删除了弃用的API",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.3.2\n- 在播放设置菜单中新增了灵活计时器子菜单\n- 在 Infuse 7 中，点击剩余时间的功能仍然可用\n- 启用播放速度子菜单选项会移除 Infuse 8 中的默认子菜单\n- 启用音量增强子菜单选项会移除 Infuse 8 中的默认子菜单\n- 2024.11.27", 
                 },
