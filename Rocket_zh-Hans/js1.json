@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8.30",
+                    "text": "3.8.31",
                     "title": "插件版本"
                 },
                 {
@@ -99,7 +99,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 08 日",
+                    "text": "2025 年 01 月 27 日",
                     "title": "最后更新"
                 }
             ]
@@ -108,6 +108,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.8.31\n- 修复了个人资料页面上的关注状态",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.8.30\n- 修复了主页网格状态帖子点击不响应的问题",
