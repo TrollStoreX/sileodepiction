@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.3-1",
+                    "text": "1.1.5-1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 22 日",
+                    "text": "2025 年 02 月 05 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.5-1\n- 修复 8.0.56 不能自定义占位文字\n- 修复 8.0.56 未安装插件管理不能在设置中显示插件，强烈建议安装插件管理\n- 增加webp动态背景，命名为default.webp，存放于主题根目录，可在https://tt0.top/p/webp/video2webp/将视频转为webp动画动态背景增加暗黑模式命名为default_Dark.webp\n- 微信运动头像映射修改为Plugins_WeSport_avatar.png\n- 微信游戏头像映射修改为icons_wegame_default_icon.png\n- 浏览器前进按钮使用arrow_left_regular.png镜像翻转",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.3-1\n- 修复折叠的群聊无法加载自定义聊天背景\n- 增加了一些图标的映射",
