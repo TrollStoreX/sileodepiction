@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音增强插件\n ## 双指双击屏幕打开插件设置界面\n- 去广告、纯净模式\n- 无水印保存高清视频/LivePhoto/图片\n- 保存评论区图片/表情/LivePhoto\n- 隐藏各种图层按钮文字\n- 推荐界面全屏播放等功能",
+                    "markdown": "# 插件已失效\n- ##抖音增强插件\n ## 双指双击屏幕打开插件设置界面\n- 去广告、纯净模式\n- 无水印保存高清视频/LivePhoto/图片\n- 保存评论区图片/表情/LivePhoto\n- 隐藏各种图层按钮文字\n- 推荐界面全屏播放等功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -95,13 +95,6 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 2.1\n- 修复闪退\n- 应该不会有新版本更新\n- 大概长期有效，具体自测",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.8+8\n- 修复部分功能闪退问题",
