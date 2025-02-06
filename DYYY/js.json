@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.8.2",
+                    "text": "1.9",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 04 日",
+                    "text": "2025 年 02 月 06 日",
                     "title": "最后更新"
                 },
                 {
@@ -98,7 +98,14 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.0.8\n- 修复一些在 32.8.0 版本中失效的功能",
+                    "markdown": "### 1.9\n- 新增【显示视频进度条】by 苏苏\n- 新增【关注二次确认】\n- 新增【收藏二次确认】\n- 支持【默认1.25x】\n- 修复【深色键盘】中的部分标签未被渲染（虽然官方已经对评论区进行了深色处理，但我觉得自己做的好看点!?）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.8.2\n- 修复一些在 32.8.0 版本中失效的功能",
                 },
                 {
                     "class": "DepictionSeparatorView"
