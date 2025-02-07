@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv3.png",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/FuckWeChatAds/banner.png",
     "tintColor": "#59A5E2",
     "minVersion": "0.3",
     "tabs": [
@@ -43,7 +43,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/SuAwemeHook/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/FuckWeChatAds/pic1.png"
                         }
                     ]
                 },
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 初始发布",
+                    "markdown": "### 1.0.3\n- 初始发布",
                 }
             ]
         }
