@@ -18,31 +18,18 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title":"抖音增强 Aweme｜Telegram",
-                    "action":"https://t.me/link7zelda",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "markdown": "### 抖音增强插件\n- 去广告\n- 元素按钮隐藏\n- 视频无水印下载\n- 支持注入ipa使用\n- 时间限制？未知？\n- An awesome tweak for Aweme!",
+                    "markdown": "## 图层旧版\n- 无使用限制\n- 功能较少",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/dytc/pic3.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/dytc/pic2.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/dytc/pic4.png"
                         }
                     ]
                 },
@@ -69,7 +56,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0",
+                    "text": "1.0.3",
                     "title": "插件版本"
                 },
                 {
