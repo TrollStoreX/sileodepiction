@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9-4",
+                    "text": "1.9-8",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 08 日",
+                    "text": "2025 年 02 月 10 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9-8\n- 新增首页净化模式(侧边倍速可退出)\n- 修复全局透明导致出现错位暂停按钮\n- 修复移除头像缺少的直播框\n- 将UI整体下移 避免与关闭按钮太近\n- 当前版本可支持显示版本号与构建日期",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.9-4\n- 重写全局透明\n- 新增隐藏右侧头像、音乐\n- 优化UI\n- 新增修改底栏标题功能",
