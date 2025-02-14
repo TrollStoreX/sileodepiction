@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{1000, 2500}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 4.3-2\n- 隐藏个人资料和导航栏中的“通过验证”和“升级”按钮\n- 隐藏底栏 Gork 菜单",
+                    "markdown": "### 1.1-13\n- 初始发布",
                 }
             ]
         }
