@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 小红书增强插件\n- 默认移除一些广告\n- 无水印保存图片、视频、live图、评论区图片，长按复制文案\n- 放大图片双指长按可保存高分辨率图片\n- APP设置界面右上角打开插件界面或双指长按设置界面",
+                    "markdown": "## 插件已失效，请卸载\n- 默认移除一些广告\n- 无水印保存图片、视频、live图、评论区图片，长按复制文案\n- 放大图片双指长按可保存高分辨率图片\n- APP设置界面右上角打开插件界面或双指长按设置界面",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
