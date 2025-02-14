@@ -66,11 +66,6 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Bandar Alruwaili",
-                    "title": "作者"
-                },
-                {
-                    "class": "DepictionTableTextView",
                     "text": "1.1-13",
                     "title": "插件版本"
                 },
@@ -83,12 +78,6 @@
                     "class": "DepictionTableTextView",
                     "text": "2025 年 02 月 14 日",
                     "title": "更新日期"
-                },
-                {
-                    "title":"BHTwitter Github 开源地址",
-                    "action":"https://github.com/BandarHL/BHTwitter",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
                 }
             ]
         },
