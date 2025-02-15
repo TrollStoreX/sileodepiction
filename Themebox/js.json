@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.6-1",
+                    "text": "1.1.7-1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 07 日",
+                    "text": "2025 年 02 月 15 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.7-1\n- 修复微信热更新带来的影响(聊天窗口底栏不拉伸，聊天窗口顶栏不能透明)\n- 修复一些图标大小不匹配问题\n- 增加聊天窗口时间背景图片\n- 增加聊天窗口置顶消息背景图片\n- 增加主题关闭暗黑模式，始终保存白天模式",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.6-1\n- 修复114/115版本无法更新主题问题",
