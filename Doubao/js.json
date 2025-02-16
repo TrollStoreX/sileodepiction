@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-2",
+                    "text": "1.0-3",
                     "title": "插件版本"
                 },
                 {
@@ -97,6 +97,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-3\n- 显示视频发布时间\n- 长按文案复制\n- 显示视频秒数",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-2\n- 添加移除底部按钮\n- 添加移除底部所有文本\n- 添加秒过小程序激励广告（直接x掉有奖励）\n- 添加更清晰的视频无水印下载方式\n- 添加移除底部首页文本旁的图标\n- 兼容最新正式版版及TF 33.1.0 版\n- 修复新版隐藏底部红点失效的问题\n- 修复新版长按无水印菜单消失的问题\n- 优化保存无水印视频后在相册显示保存时间和用户名称",
