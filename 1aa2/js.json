@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 删除“图层系列”时间限制\n ### 支持“越狱、半越狱、Bootstrap”环境\n ### 支持抖音、小红书\n- 需要安装对应的插件生效",
+                    "markdown": "## 似乎开始闪退了，具体自己测试，不行卸载\n ### 支持“越狱、半越狱、Bootstrap”环境\n ### 支持抖音、小红书\n- 需要安装对应的插件生效",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
