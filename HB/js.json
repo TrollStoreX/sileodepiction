@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.7-8",
+                    "text": "1.7-9",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 12 日",
+                    "text": "2025 年 02 月 16 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7-9\n- 修复 8056 微信发图片闪退\n- 修复 8.0.56 版本微信助手工具栏消失的问题\n- 允许用户自定义首页的订单卡包和服务的名字",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.7-8\n- 临时修复微软语音接口修复地区无法访问问题\n- 支持导出本地音色配置\n- 支持纳入本地音色配置\n- 支持删除异常音色配置\n- 新增音色记忆选择功能\n- 新增添加本地明星音色配置\n- 所有功能基于内测群员给予补偿\n- 所有语音都基于本地请求官网服务器转换\n- 考虑情况决定是否把微软音色替换成一个全新的这一版有什么问题尽快说明",
