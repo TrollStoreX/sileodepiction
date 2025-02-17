@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9-9",
+                    "text": "1.9-9+1",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 16 日",
+                    "text": "2025 年 02 月 17 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9-9+1\n- 弃用自定义代码实现的自动连播\n- 使用官方的方法，确保直播、图文、进度均能正常\n- 优化 UI 箭头变形",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.9-9\n- 新增移除顶栏",
