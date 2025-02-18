@@ -101,11 +101,17 @@
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
                 },
-                                {
+                {
                     "class": "DepictionTableTextView",
                     "text": "2025 年 02 月 18 日",
                     "title": "最后更新"
-                }
+                },
+                {
+                    "title":"逆无止境｜Telegram",
+                    "action":"https://t.me/nwzj666",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
             ]
         },
         {
