@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 删除图层时间限制\n- 仅支持越狱、半越狱、Bootstrap 环境\n- 推荐使用抖音图层 2.0.8+8 版本",
+                    "markdown": "## 删除图层时间限制，屏蔽服务器远程闪退",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -30,7 +30,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "### 抖音图层 2.0.8+8 及以下版本需要用代理工具屏蔽以下服务器指令，否则会闪退\n 149.88.82.119/32",
+                    "markdown": "### 仅支持越狱、半越狱、Bootstrap 环境",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -42,7 +42,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "### 抖音图层 2.1 版本需要用代理工具屏蔽以下服务器指令，否则会闪退\n 1.15.77.143/32",
+                    "markdown": "### 占位",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
