@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## ",
+                    "markdown": "### 快速跳过激励视频广告，奖励正常领取",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{1000, 1000}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-8",
+                    "text": "1.1.2",
                     "title": "插件版本"
                 },
                 {
@@ -76,12 +76,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 17 日",
+                    "text": "2025 年 02 月 18 日",
                     "title": "最后更新"
                 },
                 {
-                    "title":"作者源",
-                    "action":"https://susubaby.top/0107/",
+                    "title":"lenglengyu 源",
+                    "action":"https://lenglengyu.com/",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.2\n- 优化 UI",
+                    "markdown": "### 1.1.2\n- 版本适配抖音小程序激励视频跳过",
                 }
             ]
         }
