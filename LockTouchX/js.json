@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-8",
+                    "text": "1.2",
                     "title": "插件版本"
                 },
                 {
@@ -77,7 +77,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 17 日",
+                    "text": "2025 年 02 月 19 日",
                     "title": "最后更新"
                 }
             ]
@@ -86,7 +86,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2\n- 在 Spotlight 中需要使用 Touch ID\n- 在应用切换时需要使用 Touch ID\n- 修复错误并提升性能，带来更流畅的体验",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-8\n- 错误修复\n- 性能改进", 
