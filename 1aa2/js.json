@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 删除图层时间限制，屏蔽服务器远程闪退",
+                    "markdown": "### 删除图层时间限制，屏蔽服务器远程闪退，完美破解",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -30,7 +30,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "## 仅支持越狱、半越狱、Bootstrap 环境",
+                    "markdown": "### 仅支持越狱、半越狱、Bootstrap 环境",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -42,7 +42,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "## 支持抖音图层、小红书图层",
+                    "markdown": "### 支持抖音图层、小红书图层\n 需要安装对应的“抖音图层、小红薯”才可生效",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
