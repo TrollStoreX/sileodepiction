@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5",
+                    "text": "1.5.2-2",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 09 日",
+                    "text": "2025 年 01 月 18 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.2-2\n- 修复 iOS 16+ 上 cryptex 挂载的二进制文件未显示在守护程序列表中的问题\n- 修复守护程序配置无法正常工作的问题（这个问题已经存在好几个月了，为什么没人报告？？？）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5\n- 修复在 iOS 15 及以上版本中，设置中与进程相关的调整列表不准确的问题\n- 使用纯 C 重写主库，移除对函数钩子的依赖",
