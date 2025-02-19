@@ -30,7 +30,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "### 仅支持越狱、半越狱、Bootstrap 环境",
+                    "markdown": "### 仅支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
