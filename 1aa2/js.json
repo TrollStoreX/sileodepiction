@@ -42,7 +42,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "### 支持抖音图层、小红书图层\n 需要安装对应的“抖音图层、小红薯”才可生效",
+                    "markdown": "### 支持抖音图层、小红书图层\n- 需要安装对应的“抖音图层、小红薯”插件才可生效",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
