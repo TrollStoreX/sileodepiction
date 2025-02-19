@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 完美破解\n ### 删除图层时间限制\n ###屏蔽服务器远程闪退",
+                    "markdown": "## 完美破解\n ### 删除图层时间限制\n ### 屏蔽服务器远程闪退",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
