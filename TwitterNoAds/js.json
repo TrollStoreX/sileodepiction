@@ -69,6 +69,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2.5\n- 隐藏趋势帖子",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.2.4\n- 隐藏谷歌广告",
                 }
             ]
