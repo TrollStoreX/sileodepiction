@@ -42,7 +42,19 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "## 支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入\n- NathanLR 半越狱如果遇到闪退\n- 请长按降级到 0.2 版本并屏蔽服务器 149.88.82.119/32\n- 1.0 可能对 NathanLR 失效",
+                    "markdown": "## 支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "markdown": "## NathanLR 半越狱如果遇到闪退\n- 请长按降级到 0.2 版本\n- 代理工具屏蔽服务器 149.88.82.119/32",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
