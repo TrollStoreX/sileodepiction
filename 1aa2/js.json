@@ -30,7 +30,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "### NathanLR 越狱请长按降级到 0.2 版本并屏蔽服务器 149.88.82.119/32，0.3 对 NathanLR 失效\n ### 仅支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入",
+                    "markdown": "### NathanLR 越狱请长按降级到 0.2 版本并屏蔽服务器 149.88.82.119/32，1.0 对 NathanLR 可能失效\n ### 仅支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -93,12 +93,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.3",
+                    "text": "1.0",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 14 - iOS 17.0",
                     "title": "支持系统"
                 },
                 {
@@ -118,6 +118,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0\n- 同步官方版本号\n- 新增支持“有根越狱”",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.3\n- 屏蔽图层服务器远程闪退指令",
