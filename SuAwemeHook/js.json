@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-8",
+                    "text": "1.3",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 17 日",
+                    "text": "2025 年 02 月 19 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3\n- 添加视频自动播放",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-8\n- 修复隐藏音乐封面，取消静音按钮错位的Bug\n- 结束进程添加结束动画 @huamidev提供代码\n- 修复iPad上不显示开关按钮的Bug\n- 此版本无功能更新，仅修复Bug\n- 加入隐藏同城吃喝玩乐\n- 重新调整某些按钮位置",
