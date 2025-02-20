@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 完美破解\n ### 删除图层时间限制\n ### 屏蔽服务器远程闪退",
+                    "markdown": "## 完美破解\n- 删除图层时间限制\n- 屏蔽服务器远程闪退",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -30,7 +30,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "### NathanLR 越狱请长按降级到 0.2 版本并屏蔽服务器 149.88.82.119/32，1.0 对 NathanLR 可能失效\n ### 仅支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入",
+                    "markdown": "### 仅支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入\n- NathanLR 半越狱如果遇到闪退，请长按降级到 0.2 版本并屏蔽服务器 149.88.82.119/32，1.0 可能对 NathanLR 失效",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
