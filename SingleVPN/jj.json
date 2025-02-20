@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4",
+                    "text": "1.5",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 11 日",
+                    "text": "2015 年 01 月 16 日",
                     "title": "最后更新"
                 },
                 {
@@ -91,6 +91,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5\n- 增加了对个人热点图标的支持\n- 修复了当蜂窝强度更新时颜色恢复的错误",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.4\n- 修复颜色值保存不正确的问题",
