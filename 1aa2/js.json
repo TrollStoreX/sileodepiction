@@ -30,7 +30,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "## 支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入\n- NathanLR 半越狱如果遇到闪退，请长按降级到 0.2 版本并屏蔽服务器 149.88.82.119/32，1.0 可能对 NathanLR 失效",
+                    "markdown": "## 支持抖音图层、小红书图层\n- 需要安装对应的“抖音图层、小红薯”插件才可生效",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -42,7 +42,7 @@
                     "spacing": 8
                 },
                 {
-                    "markdown": "## 支持抖音图层、小红书图层\n- 需要安装对应的“抖音图层、小红薯”插件才可生效",
+                    "markdown": "## 支持越狱、半越狱、Bootstrap 环境\n- 不支持 TrollFools 注入，不支持轻松签注入\n- NathanLR 半越狱如果遇到闪退\n- 请长按降级到 0.2 版本并屏蔽服务器 149.88.82.119/32\n- 1.0 可能对 NathanLR 失效",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
