@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.7-9",
+                    "text": "1.8",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 16 日",
+                    "text": "2025 年 02 月 22 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.8\n- 修复卡包导致闪退的问题\n- 修复免费点歌，新增点歌接口\n- 需要重新进入消息类功能重新选择接口\n- 部分带歌词，如听不了就是请求频繁风控了",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.7-9\n- 修复 8056 微信发图片闪退\n- 修复 8.0.56 版本微信助手工具栏消失的问题\n- 允许用户自定义首页的订单卡包和服务的名字",
