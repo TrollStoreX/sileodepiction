@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-4",
+                    "text": "1.0-5",
                     "title": "插件版本"
                 },
                 {
@@ -100,6 +100,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-5\n- 新增替换右侧按钮 (大小0.6最佳)\n- 新增自定义头像 (仅对本插件生效)\n- 新增移除群聊免打扰图标\n- 新增对倒卖的反制措施\n- 新增水平偏移配置 (这是最完美的东西)\n- 修复右侧错位问题\n- 修复大小设置不生效\n- 优化若干问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-4\n- 新增群聊头像单独控制\n- 优化日间模式颜色\n- 优化崩溃问题",
