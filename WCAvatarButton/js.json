@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv.png",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/WechatPure/banner.png",
     "tintColor": "#59A5E2",
     "minVersion": "0.3",
     "tabs": [
@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 抖音增强插件\n ## 双指长按打开插件设置\n- 设置顶栏透明\n- 设置全局透明度\n- 隐藏全屏观看\n- 隐藏底栏加号\n- 开启弹幕改色\n- 新增默认倍速播放功能",
+                    "markdown": "## 微信聊天右侧显示头像",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -44,7 +44,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/WCAvatarButton/pic1.png"
                         }
                     ]
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9-9+1",
+                    "text": "1.0-1",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 17 日",
+                    "text": "2025 年 02 月 22 日",
                     "title": "最后更新"
                 },
                 {
@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.2\n- 修复隐藏全屏观看开关失效\n- 新增全局透明（不包含顶栏）",
+                    "markdown": "### 1.0-1\n- 初始发布",
                 }
             ]
         }
