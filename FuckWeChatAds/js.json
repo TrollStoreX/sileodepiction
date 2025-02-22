@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://trollstorex.github.io/sileodepiction/FuckWeChatAds/banner.png",
-    "tintColor": "#59A5E2",
+    "tintColor": "#02DB6B",
     "minVersion": "0.3",
     "tabs": [
         {
