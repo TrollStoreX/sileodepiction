@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 微信聊天中间显示头像",
+                    "markdown": "## 微信聊天界面昵称添加好友头像\n- 依赖老猫的「插件收纳」\n- 可设置为左、中、右位置\n- 圆角 0.5 为圆形\n- 修改圆角闪退请安装「黄白助手」",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -40,11 +40,15 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{200, 200}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/WCNicknameAvatarStyle/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/WCAvatarButton/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/WCAvatarButton/pic2.png"
                         }
                     ]
                 },
@@ -71,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-1",
+                    "text": "1.0-2",
                     "title": "插件版本"
                 },
                 {
@@ -98,7 +102,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-1\n- 初始发布",
+                    "markdown": "### 1.0-2\n- 新增自定义功能",
                 }
             ]
         }
