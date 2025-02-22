@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-2",
+                    "text": "1.0-4",
                     "title": "插件版本"
                 },
                 {
@@ -102,7 +102,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-2\n- 新增自定义功能",
+                    "markdown": "### 1.0-4\n- \n- 新增群聊头像单独控制\n- 优化日间模式颜色\n- 优化崩溃问题",
                 }
             ]
         }
