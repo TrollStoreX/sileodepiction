@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 微信聊天右侧显示头像",
+                    "markdown": "## 微信聊天界面昵称添加好友头像\n- 依赖老猫的「插件收纳」\n- 可设置为左、中、右位置\n- 圆角 0.5 为圆形\n- 修改圆角闪退请安装「黄白助手」",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
