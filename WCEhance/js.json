@@ -9,14 +9,14 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入巨魔商店Pro群组",
+          "text": "加入巨魔商店 Chat 群组",
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
                 },
 
                 {
-                    "markdown": "### 用于优化一些反人类设计并增强功能",
+                    "markdown": "## 用于优化一些反人类设计并增强功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
