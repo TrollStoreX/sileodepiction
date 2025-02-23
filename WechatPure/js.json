@@ -15,22 +15,35 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "# 微信净化\n- 还原聊天本质，干净的微信给你\n- 仅支持8.0.29及以上版本，设置位于微信-设置 \n- END 为最终版不再更新",
+                    "markdown": "# 微信净化\n- 还原聊天本质，干净的微信给你\n- 仅支持 8.0.29 及以上版本，设置位于微信-设置\n- 移除红包相关功能\n- END 为最终版不再更新",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{800, 800}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/WechatPure/pic1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/WechatPure/pic2.png" 
                         }
                     ]
                 },
