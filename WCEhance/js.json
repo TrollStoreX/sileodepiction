@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 微信增强，用于优化一些反人类设计并增强功能",
+                    "markdown": "### 用于优化一些反人类设计并增强功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
