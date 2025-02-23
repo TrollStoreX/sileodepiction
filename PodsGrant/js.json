@@ -1,0 +1,110 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔越狱交流群 Chat",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 将“隔空播放”图标替换为已连接设备的 iOS 插件\n- An iOS tweak that replaces the AirPlay icon to the device connected",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/WherePlay/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/WherePlay/pic2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/WherePlay/pic3.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.0.2",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 02 月 20 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title":"WherePlay 开源 Github 地址",
+                    "action":"https://github.com/LNSSPsd/WherePlay",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0.2\n- 修复了在 iOS 15 导致 SpringBoard 崩溃的问题",
+                }
+            ]
+        }
+    ],
+}
