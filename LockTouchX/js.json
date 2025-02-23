@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## Face ID 应用锁\n- 为应用添加 Face ID 锁定验证，就像 iOS 18 中的安全功能一样\n- Adds Touch ID authentication to apps, just like the security features in iOS 18",
+                    "markdown": "## Touch ID/Face ID 应用锁\n- 为应用添加 Touch ID/Face ID 锁定验证，就像 iOS 18 中的安全功能一样\n- Adds Touch ID authentication to apps, just like the security features in iOS 18",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
