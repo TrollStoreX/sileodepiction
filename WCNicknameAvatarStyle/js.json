@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 微信聊天界面昵称添加好友头像\n- 依赖老猫的「插件收纳」\n- 可设置为左、中、右位置\n- 圆角 0.5 为圆形",
+                    "markdown": "## 微信聊天界面昵称添加好友头像\n- 依赖「插件收纳」",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-5",
+                    "text": "1.0-6",
                     "title": "插件版本"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 22 日",
+                    "text": "2025 年 02 月 24 日",
                     "title": "最后更新"
                 },
                 {
@@ -100,7 +100,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-               {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0.6\n- 优先使用黄白修改的头像\n- 头像优先级: 黄白→WCNA→默认头像\n- 私聊中头像与标题居中对齐\n- 修复右侧按钮在非简体中文模式下不生效修复某些地方错误显示头像\n- 修复免打扰按钮占位问题\n- 点击头像可跳转主页\n- 单独处理群聊、私聊隐藏头像",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-5\n- 新增替换右侧按钮 (大小0.6最佳)\n- 新增自定义头像 (仅对本插件生效)\n- 新增移除群聊免打扰图标\n- 新增对倒卖的反制措施\n- 新增水平偏移配置 (这是最完美的东西)\n- 修复右侧错位问题\n- 修复大小设置不生效\n- 优化若干问题",
                 },
