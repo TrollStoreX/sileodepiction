@@ -83,12 +83,6 @@
                     "class": "DepictionTableTextView",
                     "text": "2025 年 02 月 24 日",
                     "title": "最后更新"
-                },
-                {
-                    "title":"凉心の小窝｜Telegram",
-                    "action":"https://t.me/Lx_hub",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
                 }
              ]
         },
@@ -98,7 +92,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-2\n- 初始发布",
+                    "markdown": "### 2.1.1\n- 这个版本解决了Misaka 公众号无法关注问题\n- 修复图片闪退\n- 修复 8.0.56设置里不显示插件入口等问题",
                 }
             ]
         }
