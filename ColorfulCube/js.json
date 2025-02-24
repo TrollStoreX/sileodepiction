@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-3",
+                    "text": "1.0-5",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 27 日",
+                    "text": "2025 年 02 月 24 日",
                     "title": "最后更新"
                 }
 
@@ -90,6 +90,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0.5\n- 新增长按菜单多种动画\n- 新增输入栏圆角化\n- 新增表情包圆角化\n- 优化随机配色\n- 减少闪退问题\n- 优化授权逻辑\n- 优化灵动角标",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-3\n- 初始发布",
