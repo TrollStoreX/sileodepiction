@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-2",
+                    "text": "1.0-3",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 23 日",
+                    "text": "2025 年 02 月 26 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-3\n- 新增群聊人数隐藏功能\n- 细化头像隐藏选项(现可分别设置群聊/私聊的头像显示) \n- 新增头像圆角缓存机制\n- 添加内存警告时的缓存清理\n- 优化代码结构，提升运行效率\n- 修复部分设置项保存失效的问题\n- 修复某些场景下头像显示异常\n- 修复文字替换功能的稳定性",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-2\n- 初始发布",
