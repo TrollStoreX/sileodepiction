@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 用于优化一些反人类设计并增强功能",
+                    "markdown": "## Apple MobileRepair \n- 禁止在设置页面显示维修记录，例如更换电池的提醒、屏幕等\n- 更换第三方电池后，开启显示正常电池健康值\n- 屏蔽关于本机显示未知部件记录\n- 屏蔽设置显示“红1”以及电池更新提醒信息\n- 屏蔽设置系统 OTA 升级显示“红1”提醒信息\n- 本插件免费使用，安装即可生效，无设置\n- 本插件在 16.5 多巴胺越狱环境下测试通过，其他系统自行测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -40,11 +40,11 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{1500, 1500}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/WCEhance/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/NoAppleMobileRepair/pic1.png"
                         }
                     ]
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-3",
+                    "text": "0.0.1-2",
                     "title": "插件版本"
                 },
                 {
@@ -85,8 +85,8 @@
                     "title": "最后更新"
                 },
                 {
-                    "title":"凉心の小窝｜Telegram",
-                    "action":"https://t.me/Lx_hub",
+                    "title":"电话助手源",
+                    "action":"http://apt.htv123.com/",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
@@ -98,14 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-3\n- 新增群聊人数隐藏功能\n- 细化头像隐藏选项(现可分别设置群聊/私聊的头像显示) \n- 新增头像圆角缓存机制\n- 添加内存警告时的缓存清理\n- 优化代码结构，提升运行效率\n- 修复部分设置项保存失效的问题\n- 修复某些场景下头像显示异常\n- 修复文字替换功能的稳定性",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-2\n- 初始发布",
+                    "markdown": "### 0.0.1-2\n- 初始发布",
                 }
             ]
         }
