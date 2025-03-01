@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "### 从 Reddit 过滤掉不需要的内容\n- Filter out unwanted content from your Reddit feedtq",
+                    "markdown": "## 从 Reddit 上过滤掉不需要的内容\n- Filter out unwanted content from your Reddit feedtq",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
