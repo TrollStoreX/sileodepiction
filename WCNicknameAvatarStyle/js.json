@@ -40,7 +40,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{700, 700}",
+                    "itemSize": "{800, 800}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-6",
+                    "text": "2.0-1",
                     "title": "插件版本"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 24 日",
+                    "text": "2025 年 03 月 02 日",
                     "title": "最后更新"
                 },
                 {
@@ -100,6 +100,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-1\n- 新增双人头像",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.6\n- 优先使用黄白修改的头像\n- 头像优先级: 黄白→WCNA→默认头像\n- 私聊中头像与标题居中对齐\n- 修复右侧按钮在非简体中文模式下不生效修复某些地方错误显示头像\n- 修复免打扰按钮占位问题\n- 点击头像可跳转主页\n- 单独处理群聊、私聊隐藏头像",
