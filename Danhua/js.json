@@ -15,6 +15,18 @@
           "class": "DepictionButtonView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title":"App Store 蛋花小说下载",
+                    "action":"https://apps.apple.com/app/id6464457748",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "## 番茄小说平替，资源一样，去除所有广告",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
