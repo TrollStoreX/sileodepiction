@@ -27,7 +27,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 番茄小说平替，资源一样，去除所有广告",
+                    "markdown": "## 番茄小说平替\n- 资源一样\n- 去除所有广告",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
