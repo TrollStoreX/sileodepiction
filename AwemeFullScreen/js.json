@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-3",
+                    "text": "1.2-5",
                     "title": "当前版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 06 日",
+                    "text": "2025 年 03 月 04 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,7 +89,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-               {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-5\n- 修复抖音热更新节日皮肤遮挡问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "### 1.2-3\n- 首页直播界面关闭全屏显示",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
