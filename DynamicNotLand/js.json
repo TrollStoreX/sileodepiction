@@ -80,7 +80,7 @@
                     "title": "最后更新"
                 },
                 {
-                    "title":"作者源",
+                    "title":"Nathan 源",
                     "action":"https://nathan4s.lol/repo/",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 初始发布",
+                    "markdown": "### 1.0.1\n- 作者没说更新了什么",
                 }
             ]
         }
