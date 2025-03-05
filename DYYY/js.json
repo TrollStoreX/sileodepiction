@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-2",
+                    "text": "2.0-3",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 04 日",
+                    "text": "2025 年 03 月 05 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-3\n- 优化归属地细节",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-2\n- 新增首页时间/属地显示\n- 仅显示中国 (含港澳台) 等共计34个省级行政区",
