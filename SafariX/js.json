@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9.7",
+                    "text": "1.9.8",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 30 日",
+                    "text": "2025 年 03 月 02 日",
                     "title": "最后更新"
                 }
 
@@ -86,6 +86,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9.8\n- 更好的标签",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.9.7\n- 添加的选项可以阻止从某些域打开的新选项卡\n- 添加了JS注入延迟（0到5秒）默认值为2",
