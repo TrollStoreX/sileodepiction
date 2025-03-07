@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.7",
+                    "text": "5.8.8",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 06 日",
+                    "text": "2025 年 03 月 05 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,6 +104,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.8.8\n- 增加了对 Spotify 9.0.22 的支持（修复了启动时崩溃）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.8.7\n- 修复了本地播放列表下载崩溃（用于在Wi-Fi网络中从PC中“下载”仅包含本地曲目的播放列表）",
