@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-3",
+                    "text": "2.0-3pre",
                     "title": "插件版本"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-3pre\n- 新增隐藏系统顶栏\n- 支持主页视频追加地级市",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-3\n- 优化归属地细节",
