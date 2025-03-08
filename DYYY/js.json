@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 07 日",
+                    "text": "2025 年 03 月 08 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-5\n- 新增首页全屏（开启后需重新打开一次已知问题: 主页视频/搜索 文案会被上移）\n- 优化 UI\n- 引入毛玻璃效果\n- 采用模态显示(仅iOS15+)",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-4\n- 新增自动跳过直播功能",
