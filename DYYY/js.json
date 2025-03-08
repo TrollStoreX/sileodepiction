@@ -98,6 +98,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-6\n- 调整全屏逻辑，修复在非首页高度计算问题\n- 将“启用跳过直播”调整为“启用过滤直播”\n- 移除全屏播放时进度条黑线\n- 为长按倍速时加入背景透明处理",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-5\n- 新增首页全屏（开启后需重新打开一次已知问题: 主页视频/搜索 文案会被上移）\n- 优化 UI\n- 引入毛玻璃效果\n- 采用模态显示(仅iOS15+)",
                 },
                 {
