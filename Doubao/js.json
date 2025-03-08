@@ -82,14 +82,25 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-3",
+                    "text": "1.0-4",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
-                }
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 03 月 08 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title":"豆包助手｜Telegram",
+                    "action":"https://t.me/DYBeanbuns",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
 
             ]
         },
@@ -97,6 +108,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-4\n- 新增语音包功能（私聊输入框右侧，仅支持m4a）\n- 新增语音秒数设置\n- 修复部分设备闪退问题\n- 优化高清视频获取逻辑\n- 调整时间标签确保不冲突",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-3\n- 显示视频发布时间\n- 长按文案复制\n- 显示视频秒数",
