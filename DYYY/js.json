@@ -89,6 +89,12 @@
                     "action":"https://t.me/huamidev",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"抖音 DYYY Github 开源代码",
+                    "action":"https://github.com/huami1314/DYYY",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
              ]
         },
