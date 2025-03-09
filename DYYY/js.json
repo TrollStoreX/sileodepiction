@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-8",
+                    "text": "2.0-9",
                     "title": "插件版本"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-9\n-优化属地的判断逻辑\n- 修复图文的文案错误的显示（直播我未能复现）\n- 评论区毛玻璃根据亮/暗背景处理显示效果\n- 打开全屏后默认隐藏评论区输入框\n- 删除不必要的冗余代码",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-8\n- 新增“评论区毛玻璃”\n- 为评论区添加模糊和半透明效果\n- 新增隐藏视频定位功能\n- 新增隐藏首页右上角搜索按钮功能\n- 新增隐藏 "我的" 页面下方作品页面功能\n- 修复归属地冲突问题\n- 优化全屏显示逻辑，隐藏不必要的黑色背景视图\n- 重写并优化全屏逻辑，避免错误的下移问题\n- 优化UI显示的逻辑，确保iPad正常显示设置\n- 修复横屏视频拉伸问题\n- 修复属地冲突问题修复全屏拉伸问题\n- 修复日间模式毛玻璃问题\n- 修复非首页文案上移问题",
