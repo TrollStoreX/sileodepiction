@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.8.9",
+                    "text": "1.9.0",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 04 日",
+                    "text": "2025 年 03 月 09 日",
                     "title": "最后更新"
                 },
                 {
@@ -93,6 +93,12 @@
             "tabname": "更新",
             "views": [
                 {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9.0\n- 抖音添加屏蔽视频流广告\n- 添加 DYYY 项目一些新的项目\n- 感谢 huamidev 的付出",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },{
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.8.9\n- 抖音添加评论区图片、实况图片无水印下载，双击\n- 仅在最新版本33.2.0测试，其它版本",
                 },
