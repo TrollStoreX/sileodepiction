@@ -66,6 +66,18 @@
                     "spacing": 8
                 },
                 {
+                    "markdown": "## 注意：安装插件无效的请检查是不是用 Choicy 禁止插件注入抖音",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
                     "class": "DepictionHeaderView",
                     "title": "预览",
                     "useBoldText": true,
