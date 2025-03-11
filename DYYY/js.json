@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-9",
+                    "text": "2.0-9End",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 09 日",
+                    "text": "2025 年 03 月 10 日 15 时 49 分",
                     "title": "最后更新"
                 },
                 {
@@ -102,6 +102,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-9End\n- 修复评论区毛玻璃 bug",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-9\n- 优化属地的判断逻辑\n- 修复图文的文案错误的显示（直播我未能复现）\n- 评论区毛玻璃根据亮/暗背景处理显示效果\n- 打开全屏后默认隐藏评论区输入框\n- 删除不必要的冗余代码",
