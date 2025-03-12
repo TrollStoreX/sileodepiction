@@ -15,18 +15,6 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title":"豆包助手｜Telegram",
-                    "action":"https://t.me/DYBeanbuns",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "## 抖音增强插件\n- 无水印保存视频、图片、音频\n-双击打开评论区\n- 隐藏菜单按钮\n- 插件设置位于抖音设置内",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
