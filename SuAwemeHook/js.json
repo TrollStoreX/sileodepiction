@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv3.png",
-    "tintColor": "#59A5E2",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/TikTok/banner.png",
+    "tintColor": "#E9435A",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音增强插件\n- 双指双击打开插件\n- 功能请查看截图预览",
+                    "markdown": "## 苏苏抖音增强插件\n- 基于 DYYY 抖音插件\n- 双指双击打开插件\n- 功能请查看截图预览",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3-7",
+                    "text": "1.3-8",
                     "title": "插件版本"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3.8\n- 优化 UI\n- 新增直播类移除",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.3.7\n- 优化 UI\n- 新增跳过直播",
