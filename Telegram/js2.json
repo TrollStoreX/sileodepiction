@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## Telegram 增强\n- 回车键发送消息\n- 禁止右滑出现 My Story\n- 单聊对话框显示对方UserID\n- （显示 User ID 需要英文语言）",
+                    "markdown": "## Telegram 增强\n- 回车键发送消息\n- 禁止右滑出现 My Story\n- 单聊对话框显示对方 User ID",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1",
+                    "text": "1.1-5",
                     "title": "插件版本"
                 },
                 {
@@ -87,7 +87,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1\n- 初始发布",
+                    "markdown": "### 1.1-5\n- 支持中文环境下显示 User ID\n- 进一步优化",
                 }
             ]
         }
