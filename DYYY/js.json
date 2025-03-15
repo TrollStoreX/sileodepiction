@@ -40,11 +40,11 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{1000, 1000}",
+                    "itemSize": "{2200, 2200}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic3.png"
                         }
                     ]
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-9End",
+                    "text": "2.1-2",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 10 日",
+                    "text": "2025 年 03 月 15 日",
                     "title": "最后更新"
                 },
                 {
@@ -102,6 +102,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1-2\n- 新增时间标签位置\n- 新增时间标签颜色调整 支持 random\n- 新增旧面板长按下载、复制文案功能\n- 新增设置入口\n- 优化配色方案\n- 支持文案及右侧栏缩放率设置，支持 0.1-5，推荐 0.85\n- 自定义右侧栏图标映射关系",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-9End\n- 修复评论区毛玻璃 bug",
