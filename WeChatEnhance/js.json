@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-5",
+                    "text": "1.0.0-2+debug",
                     "title": "插件版本"
                 },
                 {
@@ -81,12 +81,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 08 日",
+                    "text": "2025 年 03 月 16 日",
                     "title": "最后更新"
                 },
                 {
-                    "title":"凉心の小窝｜Telegram",
-                    "action":"https://t.me/Lx_hub",
+                    "title":"𝖉𝖎𝖗𝖊𝖈𝖙𝖎𝖔𝖓｜Telegram",
+                    "action":"https://t.me/wjrlj",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
