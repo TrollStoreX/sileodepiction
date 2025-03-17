@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.0-2+debug",
+                    "text": "1.0.7",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 16 日",
+                    "text": "2025 年 03 月 17 日",
                     "title": "最后更新"
                 },
                 {
@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.0-2+debug\n- 初始发布",
+                    "markdown": "### 1.0.7\n- 修复 bug\n- 新增一些功能",
                 }
             ]
         }
