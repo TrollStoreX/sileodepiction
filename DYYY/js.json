@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 17 日",
+                    "text": "2025 年 03 月 18 日",
                     "title": "最后更新"
                 },
                 {
@@ -102,6 +102,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1-5\n- 新增 GIF 动图支持\n- 新增去广告功能\n- 新增隐藏关注页xx直播\n- 新增隐藏聊天页头像列表\n- 新增隐藏首页左侧栏\n- 优化顶栏移除方案 ，支持长按调整排序",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.1-5\n- 新增评论区表情包下载\n- 新增评论区图片无水印下载\n- 新增双击打开评论区\n- 新增视频进度时间显示",
