@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.7\n- 修复 bug\n- 新增一些功能",
+                    "markdown": "### 1.0.7Release\n- 修复插件失效\n- 修复 bug\n- 新增一些功能",
                 }
             ]
         }
