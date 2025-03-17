@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-5",
+                    "text": "1.0-6",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 08 日",
+                    "text": "2025 年 03 月 17 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-6\n- 新增表情包圆角设置\n- 修复了部分已知问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-5\n- 新增长按菜单栏样式自定义功能\n- 优化了企业群聊图标隐藏的实现方式\n- 改进了设置界面的布局和交互体验\n- 重构了人数隐藏逻辑\n- 增强了稳定性和性能\n- 解决了设置界面偶尔崩溃的问题\n- 修复了导致部分用户顶栏元素错位\n- 修复了与其他插件顶栏的兼容性问题\n- 更新了部分界面文字描述\n- 优化了代码结构\n- 提升了整体运行效率",
