@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.7",
+                    "text": "1.0.9",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 17 日",
+                    "text": "2025 年 03 月 19 日",
                     "title": "最后更新"
                 },
                 {
@@ -98,7 +98,14 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.7Release\n- 修复插件失效\n- 修复 bug\n- 新增一些功能",
+                    "markdown": "### 1.0.9\n- 新增，点击头像显示对方信息弹窗\n- 新增，对方网名可以替换为备注名\n- 新增，8.0.57版本伪装\n- 新增，可以自定伪装版本（需要版本ID）\n- 推翻重写了一次头像圆角（还闪退真没辙了）\n- 头像范围大小调整至5-45\n- 网名范围大小调整至5-24",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0.7\n- 修复插件失效\n- 修复 bug\n- 新增一些功能",
                 }
             ]
         }
