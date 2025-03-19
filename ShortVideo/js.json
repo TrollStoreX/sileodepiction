@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9.5",
+                    "text": "1.9.7K",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 17 日",
+                    "text": "2025 年 03 月 19 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,20 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9.7K\n- 抖音将弹幕按钮替换为视频倍速按钮",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9.6\n-  应要求将抖音时间进度下移至进度条下方，需开启全屏播放",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.9.5\n- 小红书添加屏蔽首页直播、屏蔽首页广告",
