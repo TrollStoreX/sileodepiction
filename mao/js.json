@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8-1",
+                    "text": "3.8-2",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 16 日",
+                    "text": "2025 年 03 月 19 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.8-2\n- 修复微信 8.0.57 闪退问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.8-1\n- 修复微信 8.0.56 不显示工具栏\n- 修复灰度测试用户转载视频不能自动缓存问题 ",
