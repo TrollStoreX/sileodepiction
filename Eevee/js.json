@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.8.8",
+                    "text": "5.9",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 05 日",
+                    "text": "2025 年 03 月 20 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,6 +104,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.9\n- LRCLIB 服务器地址选项，重大设置代码重构与改进\n- 由 @xiangfeidexiaohuo 更新简体中文本地化\n- 由 @UnexcitingDean 更新丹麦语本地化\n- 由 @LIKVIDATOR1337 更新乌克兰语本地化\n- 由 @Orafilynie 更新法语本地化\n- 由 @ElliotCHEN37 更新繁体中文本地化",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.8.8\n- 增加了对 Spotify 9.0.22 的支持（修复了启动时崩溃）",
