@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.9",
+                    "text": "1.1.0",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 19 日",
+                    "text": "2025 年 03 月 20 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.0\n- 需要重新设置自定义图\n- 修复触摸轨迹自定义图片会丢失的问题\n- 修复顶栏分隔符自定义图会丢失的问题\n- 修复微信冷启动时圆头像会由方再变圆的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.9\n- 新增，点击头像显示对方信息弹窗\n- 新增，对方网名可以替换为备注名\n- 新增，8.0.57版本伪装\n- 新增，可以自定伪装版本（需要版本ID）\n- 推翻重写了一次头像圆角（还闪退真没辙了）\n- 头像范围大小调整至5-45\n- 网名范围大小调整至5-24",
