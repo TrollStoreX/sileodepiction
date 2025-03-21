@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8-2",
+                    "text": "3.8-3",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 19 日",
+                    "text": "2025 年 03 月 21 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.8-3\n- 修复微信 8.0.57 搜索闪退问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.8-2\n- 修复微信 8.0.57 闪退问题",
