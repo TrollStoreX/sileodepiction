@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-2",
+                    "text": "1.1-4",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 17 日",
+                    "text": "2025 年 03 月 21 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-4\n- 修复隐藏去汽水听遗留的空白\n- 新增实况照片单独、全部下载\n- 优化GIF表情包单帧处理异常",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "### 1.1-2\n- 新增时长进度显示\n- 新增加了评论区图片保存",
                     "useSpacing": true,
