@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 为抖音添加一个倍数播放按钮\n- 长按可自定义倍数",
+                    "markdown": "## 为抖音添加一个倍数播放按钮\n- 长按可自定义倍数\n- 部分设备可能不生效，等待作者修复",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
