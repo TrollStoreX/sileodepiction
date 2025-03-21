@@ -85,6 +85,12 @@
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
+                {
+                    "title":"AwemeSpeedX Github 开源代码",
+                    "action":"https://github.com/Wtrwx/AwemeSpeedX/",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                }
 
             ]
         },
