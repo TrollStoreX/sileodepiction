@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.0",
+                    "text": "1.1.1",
                     "title": "插件版本"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.1\n- 优化导航栏标题中的网名显示问题\n- 优化用户信息弹窗的文本显示问题\n- 添加了禁用热更新 Plus 版\n- 注入密友导致搜索闪退的打开阻止加载主更新包即可解决，禁用热更新也可以（原理都差不多）\n- 添加了打赏功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.0\n- 需要重新设置自定义图\n- 修复触摸轨迹自定义图片会丢失的问题\n- 修复顶栏分隔符自定义图会丢失的问题\n- 修复微信冷启动时圆头像会由方再变圆的问题",
