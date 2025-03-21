@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.1",
+                    "text": "1.1.2",
                     "title": "插件版本"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.2\n- 2x5布局支持隐藏\n- 按照你们的要求对隐藏头像进行了解耦",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.1\n- 优化导航栏标题中的网名显示问题\n- 优化用户信息弹窗的文本显示问题\n- 添加了禁用热更新 Plus 版\n- 注入密友导致搜索闪退的打开阻止加载主更新包即可解决，禁用热更新也可以（原理都差不多）\n- 添加了打赏功能",
