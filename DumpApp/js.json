@@ -88,6 +88,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.5\n- 修复 BUG",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.4\n- 修复闪退",
                 }
             ]
