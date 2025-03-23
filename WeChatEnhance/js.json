@@ -98,13 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1.5{
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },",
+                    "markdown": "### 1.1.5\n- 新增信息时间显示\n- 修复一些问题\n- 新增信息时间显示在头像下方位置\n- 新增隐藏聊天界面原生时间标签",
                 },
                 {
                     "class": "DepictionSeparatorView"
