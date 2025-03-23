@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 微信多功能插件\n- 1:1 复刻“微信净化”插件，功能一模一样\n- ⚠️注意：不可与“微信净化”共存",
+                    "markdown": "## 微信多功能插件\n- 1:1 复刻“微信净化”插件，保留红包功能\n- 注意：不可与“微信净化”共存",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{240, 800}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.4",
+                    "text": "2.0.5",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 28 日",
+                    "text": "2025 年 03 月 23 日",
                     "title": "最后更新"
                 }
 
