@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2",
+                    "text": "1.1.5",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 21 日",
+                    "text": "2025 年 03 月 23 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,19 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.5{
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.2\n- 2x5布局支持隐藏\n- 按照你们的要求对隐藏头像进行了解耦",
