@@ -98,8 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1.6\n- 添加更多的自定义文本\n- 添加占位符，输入框圆角
-",
+                    "markdown": "### 1.1.6\n- 添加更多的自定义文本\n- 添加占位符，输入框圆角",
                 },
                 {
                     "class": "DepictionSeparatorView"
