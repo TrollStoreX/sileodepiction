@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.6",
+                    "text": "1.1.7",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 24 日",
+                    "text": "2025 年 03 月 25 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.7\n- 新增输入框支持添加边框\n- 修复占位文本和输入框圆角会被错误应用到微信几乎所有输入框界面\n- 信息弹窗添加点击跳转个人信息入口（临时入口，后期再作修改）\n- 修复一些小的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.6\n- 添加更多的自定义文本\n- 添加占位符，输入框圆角",
