@@ -78,6 +78,24 @@
                     "class": "DepictionTableTextView",
                     "text": "2025 年 03 月 25 日",
                     "title": "最后更新"
+                },
+                {
+                    "title":"维他入我心｜Telegram",
+                    "action":"https://t.me/vita_app",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"抖音 DYYY 维他 Github 开源代码",
+                    "action":"https://github.com/Wtrwx/DYYY",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"原版抖音 DYYY Github 开源代码 ",
+                    "action":"https://github.com/huami1314/DYYY",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
             ]
         },
