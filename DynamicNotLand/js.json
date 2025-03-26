@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.2",
+                    "text": "1.0.9",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 06 日",
+                    "text": "2025 年 03 月 26 日",
                     "title": "最后更新"
                 },
                 {
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.1\n- 作者没说更新了什么",
+                    "markdown": "### 1.0.9\n- 新增“启用/禁用”设置\n- 新增禁用岛下模糊/阴影选项",
                 }
             ]
         }
