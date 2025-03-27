@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.5",
+                    "text": "2.0.6",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 26 日",
+                    "text": "2025 年 03 月 27 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6\n- 抖音添加直播间超1万人显示实时人数\n- 小红书优化屏蔽广告逻辑、添加首页发现栏目过滤低于某值点赞的日记",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.5\n- 抖音添加过滤少于某值点赞量视频(仅推荐页)",
