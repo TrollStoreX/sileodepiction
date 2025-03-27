@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 基于 DYYY 的修改版插件\n- 双指长按或设置页面调出\n- 新增抖音原生系统插件 UI\n- 新增一些功能",
+                    "markdown": "## 基于 DYYY 的修改版插件\n- 双指长按或设置页面调出\n- 新增一些功能\n- 新增抖音设置原生插件设置 UI",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-1",
+                    "text": "2.2-2",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 25 日",
+                    "text": "2025 年 03 月 27 日",
                     "title": "最后更新"
                 },
                 {
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.2-2\n- 新增开源协议项\n- 新增解析下载作品功能\n- 兼容更多格式的解析 API \n- 新增推荐过滤文案关键字功能\n- 新增过滤低赞功能\n- 新增过滤热点功能\n- 新增屏蔽抖音版本更新功能\n- 新增禁用左下首页刷新功能\n- 新增自定义进度条样式和时间标签显示逻辑\n- 最低建议版本33.0.0不适配更低版本",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "### 2.2-1\n- 初始发布",
                     "useSpacing": true,
