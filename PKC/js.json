@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.7-0",
+                    "text": "0.7-1",
                     "title": "插件版本"
                 },
                 {
@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 18 日",
+                    "text": "2025 年 03 月 30 日",
                     "title": "最后更新"
                 }
             ]
@@ -77,6 +77,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.7-1\n- “关键词回复”自动撤回，区分关键词和回复内容\n- “文字转语音”更换“默认”音色来源的地址；长按导入本地音色文件则自动切换本地源\n- 修复发现页壁纸问题\n- 修复部分功能失效问题（如拍一拍相关功能、群近期记录等）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.7-0\n- “抖音解析”新增功能，支持视频解析、自动回复\n- “引用Pro”新增功能\n- “自定义文视图Api”优化功能，增加抹除按钮、页面优化、动态参数识别优化兼容存在“空格”的参数\n- “PKC指令”部分回复文本录入框，支持快速引用PKC指令，更便捷地配置规则\n- “群管理Pro”群黑名单检测时间优化，改为秒踢黑名单\n- “关键词回复”增加自动撤回\n- “设置入口”修复最新官方版本在设置页面没入口问题",
