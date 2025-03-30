@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-4",
+                    "text": "1.1-7",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 21 日",
+                    "text": "2025 年 03 月 30 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-7\n- 新增数据备份与恢复（长按插件设置顶部抖音助手，即可导出或恢复账号数据）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-4\n- 修复隐藏去汽水听遗留的空白\n- 新增实况照片单独、全部下载\n- 优化GIF表情包单帧处理异常",
