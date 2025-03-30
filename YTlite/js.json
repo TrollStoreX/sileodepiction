@@ -51,7 +51,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{240, 520}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.1",
+                    "text": "5.2b1",
                     "title": "当前版本"
                 },
                 {
@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 01 日",
+                    "text": "2025 年 03 月 30 日",
                     "title": "最后更新"
                 }
             ]
@@ -113,6 +113,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.2b1\n- 完全重写了下载器机制\n- 增加了多任务下载支持\n- 增加了视频续传功能（目前需要关闭自动清理缓存，并以相同质量下载视频）\n- 增加了同时显示多个 Toast 提示的支持，可通过点击进行切换\n- 增加了长按“停止”按钮隐藏下载进度的功能\n- 增加了隐藏视频菜单中的“创建混音”和“在 YouTube Music 中收听”按钮的选项\n- 增加了对所有播放列表排序类型中的视频重新排序功能（YouTube 已移除此功能）\n- 在图片查看器中增加了保存、分享和复制图片的选项\n- 现在，长按标签栏的第一个标签会打开标签设置，而不是显示/隐藏“资料库”标签\n- 修复了无法隐藏“首页”标签的错误\n- 修复了黑色 Premium 标志的错误\n- 修复了已保存帖子中黑色背景的错误\n- 修复了 SponsorBlock 通知无法显示的错误\n- 修复了 Shorts 相关错误，并移除了新广告\n- 进一步移除广告\n- 修复了循环记忆问题\n- 修复了最新 YouTube 版本中字幕和音轨选择的问题\n- 其他小错误修复和改进",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "### 5.1\n- 修复大量 bug\n- 修复视频下载闪退\n- 新增各种功能",
                     "useSpacing": true,
