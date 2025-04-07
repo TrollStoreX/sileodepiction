@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 基于 DYYY 的抖音助手插件\n- 双指长按或设置页面调出\n- 新增 UI 页面\n- 新增双击下载\n- 新增双击评论区功能",
+                    "markdown": "## 基于 DYYY 的抖音助手插件\n- 双指长按或设置页面调出\n- 支持备份和恢复账号数据",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
