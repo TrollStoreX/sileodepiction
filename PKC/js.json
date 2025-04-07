@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.7-1",
+                    "text": "0.7-2",
                     "title": "插件版本"
                 },
                 {
@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 30 日",
+                    "text": "2025 年 04 月 06 日",
                     "title": "最后更新"
                 }
             ]
@@ -77,6 +77,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.7-2\n- “群管标识”字体颜色自定义区分深色背景和浅色背景\n- “标签Pro”修复错误显示问题\n- 修复艾特所有人员浮窗提示不生效问题\n- 修复壁纸等bug",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.7-1\n- “关键词回复”自动撤回，区分关键词和回复内容\n- “文字转语音”更换“默认”音色来源的地址；长按导入本地音色文件则自动切换本地源\n- 修复发现页壁纸问题\n- 修复部分功能失效问题（如拍一拍相关功能、群近期记录等）",
