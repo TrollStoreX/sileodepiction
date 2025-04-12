@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-2",
+                    "text": "2.2-3",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 27 日",
+                    "text": "2025 年 04 月 12 日",
                     "title": "最后更新"
                 },
                 {
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.2-3\n- 新增倍速按钮\n- 新增清屏按钮\n- 优化实况保存逻辑\n- 尝试兼容了iOS14\n- 优化了不开启评论毛玻璃时的全屏效果",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.2-2\n- 新增开源协议项\n- 新增解析下载作品功能\n- 兼容更多格式的解析 API \n- 新增推荐过滤文案关键字功能\n- 新增过滤低赞功能\n- 新增过滤热点功能\n- 新增屏蔽抖音版本更新功能\n- 新增禁用左下首页刷新功能\n- 新增自定义进度条样式和时间标签显示逻辑\n- 最低建议版本33.0.0不适配更低版本",
