@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{700, 700}",
+                    "itemSize": "{1400, 1400}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -76,7 +76,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 26 日",
+                    "text": "2025 年 04 月 18 日",
                     "title": "最后更新"
                 }
             ]
