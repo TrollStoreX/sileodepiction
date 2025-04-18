@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 强制启用新版抖音长按 UI（现代风）",
+                    "markdown": "## 强制启用新版抖音长按 UI（现代风）\n- 仅支持抖音 34.0.0 以上版本",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.0",
+                    "text": "1.1",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 06 日",
+                    "text": "2025 年 04 月 18 日",
                     "title": "最后更新"
                 }
             ]
@@ -86,7 +86,7 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "### 1.0.0\n- 初始发布",
+                    "markdown": "### 1.1\n- 支持新版样式",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
