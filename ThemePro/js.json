@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.7.3",
+                    "text": "3.8.3",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 25 日",
+                    "text": "2025 年 04 月 18 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,7 +101,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                 {
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.8.3\n- 解决文字改色不生效问题\n- 解决大底栏会闪烁一下的问题，小底栏在配套设置里面新增了一个弹出动画开关功能（需要自行开启）\n- 解决个人资料页居中，头像框等功能不生效问题\n- 备注页面填写框背景问题（以上所有更新和修复已不需要依托禁用热更新）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.7.3\n- 适配微信 8.0.56 ",
                 },
