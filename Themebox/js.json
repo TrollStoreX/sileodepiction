@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.3-1",
+                    "text": "2.0.4-1",
                     "title": "插件版本"
                 },
                 {
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.4-1\n- 修复消息时间功能多行文字时错位问题\n- 增加将时间添加到头像底部，增加自定义文本颜色\n- 修复聊天顶栏群聊不显示群内人数，增加自定义头像大小",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.3-1\n- 修复微信 8.0.58 版本群聊详情信息页分割线透明失效\n- 新增聊天窗口顶栏布局功能\n- 聊天顶栏增加快捷搜索功能(助手或者主题盒子开一个就行)\n- 新增显示消息时间功能",
