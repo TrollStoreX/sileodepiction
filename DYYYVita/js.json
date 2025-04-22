@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-3",
+                    "text": "2.2-4-184",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 12 日",
+                    "text": "2025 年 04 月 22 日",
                     "title": "最后更新"
                 },
                 {
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.2-4-184\n- 新增兼容 iOS 14\n- 新增一些bug\n- 修复一些bug\n- 尝试绕过rootless检测\n- 大幅优化热更新配置性能，使用这个功能的强烈建议更新",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.2-3\n- 新增倍速按钮\n- 新增清屏按钮\n- 优化实况保存逻辑\n- 尝试兼容了iOS14\n- 优化了不开启评论毛玻璃时的全屏效果",
