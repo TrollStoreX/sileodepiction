@@ -105,7 +105,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.2-4-184\n- 新增兼容 iOS 14\n- 新增一些bug\n- 修复一些bug\n- 尝试绕过rootless检测\n- 大幅优化热更新配置性能，使用这个功能的强烈建议更新",
+                    "markdown": "### 2.2-4-184\n- 新增兼容 iOS 14\n- 新增一些 bug\n- 修复一些 bug\n- 尝试绕过越狱检测\n- 大幅优化热更新配置性能，使用这个功能的强烈建议更新",
                 },
                 {
                     "class": "DepictionSeparatorView"
