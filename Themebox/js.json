@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.0-1",
+                    "text": "2.0.3-1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 19 日",
+                    "text": "2025 年 04 月 22 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.3-1\n- 修复微信 8.0.58 版本群聊详情信息页分割线透明失效\n- 新增聊天窗口顶栏布局功能\n- 聊天顶栏增加快捷搜索功能(助手或者主题盒子开一个就行)\n- 新增显示消息时间功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.0-1\n- 修复微信热更新带来的影响\n- 修复一些图标大小不匹配问题\n- 增加聊天窗口时间背景图片\n- 增加聊天窗口置顶消息背景图片\n- 增加主题关闭暗黑模式，始终保存白天模式",
