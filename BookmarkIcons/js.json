@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "为 Safari 浏览器书签设置自定义图标\n- Set custom icons for Safari bookmarks",
+                    "markdown": "### 为 Safari 浏览器书签设置自定义图标\n- Set custom icons for Safari bookmarks",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -78,13 +78,7 @@
                     "class": "DepictionTableTextView",
                     "text": "2025 年 04 月 20 日",
                     "title": "最后更新"
-                },
-                {
-                    "title":"作者源",
-                    "action":"源",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
+                }
 
             ]
         },
