@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-8",
+                    "text": "1.1-9",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 05 日",
+                    "text": "2025 年 04 月 22 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-9\n- 新增猜拳骰子作弊（开启功能，在聊天页面长按➕图标选择点数后，手动发送骰子；长按表情/键盘图标，选择类型后，手动发送猜拳）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-8\n- 修复在 iPad 设备上导出数据闪退问题",
