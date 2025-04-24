@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-9",
+                    "text": "1.2-0",
                     "title": "当前版本"
                 },
                 {
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-0\n- 新增消息防撤回（开启后对方撤回消息 则此消息不会被移除 ）⚠️不会有任何提示⚠️需要在抖音前台才可正常拦截",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-9\n- 新增猜拳骰子作弊（开启功能，在聊天页面长按➕图标选择点数后，手动发送骰子；长按表情/键盘图标，选择类型后，手动发送猜拳）",
