@@ -1,0 +1,102 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔越狱交流群 Chat",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 提高低系统与新 AirPods 兼容性\n- Tweak for better AirPods compatibility on old devices",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/PodsGrant/pic1.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.4.0~prerelease3",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 12 月 19 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title":"PodsGrant 开源 Github 地址",
+                    "action":"https://github.com/LNSSPsd/PodsGrant",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0.4\n- 支持 AirPods 4（未经测试）\n- 支持 iOS 16 和 USB-C 版本的 AirPods Pro 2（全部未经测试）",
+                }
+            ]
+        }
+    ],
+}
