@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.8.2",
+                    "text": "1.8.4",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 18 日",
+                    "text": "2025 年 04 月 25 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.8.4\n- \n- 修复圆圈头像启动时变方后变圆的问题\n- 修复首页部分机型低栏有空白栏的问题\n- 新增[特色类功能]-编辑图片后直接发送当前界面",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.8.2\n- 修复自动呼出键盘部分不生效\n- 新增特色类功能-快速删除好友按钮\n- 新增特色类功能-快速查询用户 wxid",
