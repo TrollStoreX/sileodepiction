@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## ",
+                    "markdown": "## 让你的音乐专辑封面旋转起来\n- 建议将此插件与“N95”插件一起使用",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -43,7 +43,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/ /pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/ArtworkSpinner/pic1.png"
                         }
                     ]
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "输入版本",
+                    "text": "1.6",
                     "title": "插件版本"
                 },
                 {
@@ -76,12 +76,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 00 月 00 日",
+                    "text": "2025 年 04 月 24 日",
                     "title": "最后更新"
                 },
                 {
-                    "title":"开源 Github 地址",
-                    "action":"地址",
+                    "title":"乌龙工作室出品，必属精品",
+                    "action":"https://havoc.app/search/82Flex",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 初始发布",
+                    "markdown": "### 1.6\n- 初始发布",
                 }
             ]
         }
