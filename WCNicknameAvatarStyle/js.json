@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-1",
+                    "text": "2.2",
                     "title": "插件版本"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 02 日",
+                    "text": "2025 年 04 月 25 日",
                     "title": "最后更新"
                 },
                 {
@@ -100,6 +100,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.2\n- 优化逻辑\n- 修复右侧按钮失效\n- 修复版本号错误显示\n- 修复 59 导致无法打开更多群成员页面",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-1\n- 新增双人头像",
