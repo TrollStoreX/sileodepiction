@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 用于优化一些反人类设计并增强功能",
+                    "markdown": "## 微信插件管理排序\n- 依赖老猫的插件管理，在其基础上添加插件排序功能\n- 首次打开会弹窗提醒\n- 长按插件可进行排序\n- 后续都将以当前顺序加载\n- 请勿修改动态库名字，否则拒绝加载",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -44,7 +44,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/WCEhance/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/WCPluginsOrder/pic1.png"
                         }
                     ]
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-4",
+                    "text": "1.0-2",
                     "title": "插件版本"
                 },
                 {
@@ -85,8 +85,8 @@
                     "title": "最后更新"
                 },
                 {
-                    "title":"凉心の小窝｜Telegram",
-                    "action":"https://t.me/Lx_hub",
+                    "title":"huamidev｜Telegram",
+                    "action":"https://t.me/huamidev",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
@@ -96,76 +96,6 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1-2\n- 修复隐藏群聊人数无法居中\n- 修复最新版隐藏二维码失效",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1-1\n- 新增输入状态文本修改\n- 新增助手快捷栏入口",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1-0\n- 新增免打扰图标隐藏\n- 重构颜色选择功能",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-9\n- 新增长按菜单毛玻璃效果",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-8\n- 新增 57 版本伪装选项\n- 新增圆角头像边框选项\n- 修复部分用户闪退问题hh修复版本切换时的配置冲突\n- 修复部分用户圆角失效问题\n- 重构圆角头像实现方法",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-7\n- 新增头像边框\n- 新增禁用微信热更新",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-6\n- 新增表情包圆角设置\n- 修复了部分已知问题",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-5\n- 新增长按菜单栏样式自定义功能\n- 优化了企业群聊图标隐藏的实现方式\n- 改进了设置界面的布局和交互体验\n- 重构了人数隐藏逻辑\n- 增强了稳定性和性能\n- 解决了设置界面偶尔崩溃的问题\n- 修复了导致部分用户顶栏元素错位\n- 修复了与其他插件顶栏的兼容性问题\n- 更新了部分界面文字描述\n- 优化了代码结构\n- 提升了整体运行效率",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-4\n- 新增隐藏企业群聊图标功能\n- 修复群聊状态显示错位问题\n- 修复设置个人状态后错位问题\n- 修复部分用户闪退问题\n- 优化群聊标题布局\n- 重构隐藏群聊人数逻辑",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-3\n- 新增群聊人数隐藏功能\n- 细化头像隐藏选项(现可分别设置群聊/私聊的头像显示) \n- 新增头像圆角缓存机制\n- 添加内存警告时的缓存清理\n- 优化代码结构，提升运行效率\n- 修复部分设置项保存失效的问题\n- 修复某些场景下头像显示异常\n- 修复文字替换功能的稳定性",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-2\n- 初始发布",
