@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{2500, 2500}",
+                    "itemSize": "{2300, 2300}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.3-6",
+                    "text": "4.4-1",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 10 日",
+                    "text": "2025 年 04 月 30 日",
                     "title": "更新日期"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 4.4-1\n- 修复视频下载功能导致的闪退",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 4.3-6\n- 新增隐藏底栏“视频”菜单（不生效请点击右上角垃圾桶恢复默认）",
