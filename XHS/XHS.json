@@ -1,0 +1,153 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/XHS/banner.png",
+    "tintColor": "#FF2342",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 2025.05.02 免授权版本，安装前请卸载“逆无止境图层 1aaa3”",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "markdown": "默认移除一些广告\n- 无水印保存图片、视频、live图、评论区图片，长按复制文案\n- 放大图片双指长按可保存高分辨率图片\n- APP设置界面右上角打开插件界面或双指长按设置界面",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 25,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/XHS/pic1.png"
+                        },
+                                                {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/XHS/pic2.png"
+                        },
+                                                {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/XHS/pic3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/XHS/pic4.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.1.6-3",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 17.0",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 05 月 02 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title":"抖音图层｜Telegram",
+                    "action":"https://t.me/DouYinHook",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.6-3\n- 更新免授权版本",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.5-1\n- 优化移除广告逻辑\n- 修复热门界面无法下载视频问题\n- 新增移除板块出现直播\n- 新增评论区翻译（自备百度翻译）\n- 新增移除视频页点赞\n- 新增移除视屏页评论\n- 新增移除视屏页推荐\n- 新增移除视屏页分享",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.3\n- 新增无水印保存图片/实况/视频\n- 移除底部热点\n- 评论区实况保存\n- 新增顶部下载弹窗提示音\n- 移除底部购物\n- 移除底部消息\n- 移除底部加号\n- 移除首页赞助/广告\n- 开启头像封面下载\n- 开启视频高清下载\n- 开启图片高清下载\n- 彩蛋1:插件头像自定义,图片以png格式命名为JiaJiaILoveYou存放到小红书的沙河目录Documents内即可\n- 彩蛋2:长按关闭输入我爱嘉嘉更改头像旁昵称,昵称后使用//可以换行,换行后文字会变小即是个人留言\n- 彩蛋3:QQ群换新,男性不通过\n- 插件任何功能，开启前，请，仔细，阅读，提示！",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.2\n- 新增评论区动图保存\n- 修复一些问题\n- 优化一些细节",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.1\n- 支持非越狱环境\n- 优化代码",
+                }
+            ]
+        }
+    ],
+}
