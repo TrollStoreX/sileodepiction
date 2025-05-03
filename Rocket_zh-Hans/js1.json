@@ -110,7 +110,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 3.8.35修复转发功能问题\n- 修复下载功能问题",
+                    "markdown": "### 3.8.35\n- 修复转发功能问题\n- 修复下载功能问题",
                 },
                 {
                     "class": "DepictionSeparatorView"
