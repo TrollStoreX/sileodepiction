@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## Instagram 增强插件\n- Save posts and view stories anonymously and do much more\n- 默认解锁专业版本 Pro 功能",
+                    "markdown": "## Instagram 增强插件\n- Save posts and view stories anonymously and do much more\n- 默认解锁专业版本 Pro 功能，不生效请打开插件设置反激活，再重新打开\n- 需要汉化插件请同时安装源内的简体中文包",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8.31",
+                    "text": "3.8.35",
                     "title": "插件版本"
                 },
                 {
@@ -99,7 +99,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 27 日",
+                    "text": "2025 年 05 月 04 日",
                     "title": "最后更新"
                 }
             ]
@@ -108,6 +108,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.8.35修复转发功能问题\n- 修复下载功能问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.8.31\n- 修复了个人资料页面上的关注状态",
