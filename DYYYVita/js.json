@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-4-194",
+                    "text": "2.2-5",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 01 日",
+                    "text": "2025 年 05 月 04 日",
                     "title": "最后更新"
                 },
                 {
@@ -105,7 +105,14 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.2-4-184\n- 新增兼容 iOS 14\n- 新增一些 bug\n- 修复一些 bug\n- 尝试绕过越狱检测\n- 大幅优化热更新配置性能，使用这个功能的强烈建议更新",
+                    "markdown": "### 2.2-5\n- 新增抖音自动定时关闭\n- 新增长按菜单自定义\n- 新增缓存清理\n- 新增顶栏文本自定义\n- 新增一些 bug\n- 修复一些 bug\n- 为输入文本字段添加键盘外观设置，支持深色模式和浅色\n- 优化速度按钮更新逻辑，确保在播放速度不为 1.0 时调整播放",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.2-4\n- 新增兼容 iOS 14\n- 新增一些 bug\n- 修复一些 bug\n- 尝试绕过越狱检测\n- 大幅优化热更新配置性能，使用这个功能的强烈建议更新",
                 },
                 {
                     "class": "DepictionSeparatorView"
