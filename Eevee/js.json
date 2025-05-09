@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.9.5",
+                    "text": "5.9.6",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 25 日",
+                    "text": "2025 年 05 月 03 日",
                     "title": "最后更新"
                 },
                 {
@@ -104,6 +104,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.9.6\n- 修复了 Spotify 9.0.40 崩溃问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.9.5\n- 修复了 Spotify 9.0.36 闪退问题",
