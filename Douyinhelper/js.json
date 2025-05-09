@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 基于 DYYY 的抖音助手插件\n- 双指长按或设置页面调出\n- 支持备份和恢复账号数据\n- 支持消息防撤回\n- 支持猜拳骰子作弊",
+                    "markdown": "## 基于 DYYY 的抖音助手插件\n- 三指长按或设置页面调出\n- 支持备份和恢复账号数据\n- 支持消息防撤回\n- 支持猜拳骰子作弊",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-1",
+                    "text": "1.2-3",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 04 日",
+                    "text": "2025 年 05 月 09 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-3\n- 修改为三指长按调出菜单\n- 长按下载和双击下载中 添加了调出菜单",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-1\n- 新增消息防撤回提示",
