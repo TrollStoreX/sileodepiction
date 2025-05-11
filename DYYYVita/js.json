@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-6",
+                    "text": "2.2-7",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 08 日",
+                    "text": "2025 年 05 月 11 日",
                     "title": "最后更新"
                 },
                 {
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.2-7\n- 优化港澳台属地逻辑\n- 优化热更新模式，现在可以选择性应用，用不明白建议别开，会导致更多 bug\n- 修复部分人关注二次确认失效\n- 增加与其他应用同时播放（自签自测），已测试 trollfools，nathanlr\n- 修复文案时大时小问题\n- 优化下载进度条，点击一次取消，优化动画效果\n- 修复一些 bug",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.2-6\n- 优化关闭 HDR 功能\n- 新增海外 IP 归属地显示\n- 添加媒体下载成功或取消的回调\n- 添加下载进度视图毛玻璃效果与动态背景颜色\n- 更完善的暗色键盘支持\n- 优化媒体下载功能\n- 优化保存提示信息：将“保存失败”提示修改为“保存已取消”\n- 优化下载 UI 界面\n- 修复 UITableView 的属性和刷新方法问题\n- 修复图片保存失败问题\n- 使用没问题尽量避免开启禁用热更新功能",
