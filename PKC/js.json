@@ -58,7 +58,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.7-2",
+                    "text": "0.7-4",
                     "title": "插件版本"
                 },
                 {
@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 06 日",
+                    "text": "2025 年 05 月 12 日",
                     "title": "最后更新"
                 }
             ]
@@ -77,6 +77,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.7-4\n- 新增“我邀请入群的群员”功能（可在群设置中查看，适用于查看自己邀请的群成员，并在无管理员权限时将其移出群聊）\n- 增加“自动下载图片、视频”功能（应用户需求）\n- 修复群设置页面中“群近期操作”点击消息后无法跳转定位的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.7-2\n- “群管标识”字体颜色自定义区分深色背景和浅色背景\n- “标签Pro”修复错误显示问题\n- 修复艾特所有人员浮窗提示不生效问题\n- 修复壁纸等bug",
