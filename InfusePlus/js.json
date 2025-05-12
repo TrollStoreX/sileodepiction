@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.1",
+                    "text": "2.1",
                     "title": "插件版本"
                 },
                 {
@@ -77,7 +77,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 28 日",
+                    "text": "2025 年 05 月 12 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1\n- 添加了从照片应用导入的功能\n- 修复了从文件导入（侧载）的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.1\n- 改进检查更新\n- 增强的自定义状态栏\n- 删除了弃用的API",
