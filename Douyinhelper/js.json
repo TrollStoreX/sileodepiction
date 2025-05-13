@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-3",
+                    "text": "1.2-4",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 09 日",
+                    "text": "2025 年 05 月 13 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-4\n- 优化“猜拳/骰子作弊”功能，点击发送“摇骰子/猜拳 ”可直接选择对应的选项，关闭则发送原本随机的",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-3\n- 修改为三指长按调出菜单\n- 长按下载和双击下载中 添加了调出菜单",
