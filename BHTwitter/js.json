@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.4-1",
+                    "text": "4.4-1+debug",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 30 日",
+                    "text": "2025 年 05 月 14 日",
                     "title": "更新日期"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 4.4-1+debug\n- 修复新版本中的所有崩溃问题\n- 在隐藏页面中添加新标签页\n- 新增：稍后回放私信页面和标签\n- 新增上传4K媒体\n- 新功能：在帖子和回复中添加语音功能\n- 更新语言本地化内容\n- 移除不必要的选项",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 4.4-1\n- 修复视频下载功能导致的闪退",
