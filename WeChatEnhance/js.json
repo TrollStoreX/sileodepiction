@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3-9",
+                    "text": "1.4-2",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 08 日",
+                    "text": "2025 年 05 月 19 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4-2\n- 更换“禁用热更新”逻辑\n- 修复点击 .m4a 音频文件会闪退的问题\n- 修复点击服务号会闪退问题\n- 初步优化自动回复功能\n- 优化“兼容性优化”\n- 修复新安装微信首次打开时，登录页不显示登录按钮等问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.3-9\n- 信息时间标签区分发送者和接收者\n- 支持单独设置字体颜色和背景颜色\n- 修复公众号顶栏，对方头像不显示的问题",
