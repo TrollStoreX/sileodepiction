@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-5",
+                    "text": "1.1-7",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 02 日",
+                    "text": "2025 年 05 月 15 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-7\n- 新增自定义撤回信息\n- 新增朋友圈圆角\n- 优化表情包圆角优化官方表情视图\n- 修复自拍转表情“移到最前”闪退",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-5\n- 新增颜色预览视图\n- 新增置顶群特权者\n- 新增朋友圈实况自动播放（支持静音播放）\n- 重构助手快捷键入口，iOS15以上采用模态弹出，15以下沿用原逻辑\n- 优化颜色选择选项\n- 优化了部分配置项交互以及一些小细节\n- 修复设置盒子顶栏后导致标题显示不全",
