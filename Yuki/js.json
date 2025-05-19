@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音消息防撤回\n- 免费插件，随缘更新\n- 注入默认生效，无设置开关",
+                    "markdown": "## 抖音消息防撤回\n- 免费插件，随缘更新\n- 注入默认生效，无设置开关\n- 抖音需要在前台运行才能有效防撤回",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
