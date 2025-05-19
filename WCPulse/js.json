@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 微信启用视频倍速手势，启用头像时间标签",
+                    "markdown": "## 微信实用小插件\n- 启用视频倍速手势\n- 启用头像时间标签\n- 自定义防撤回功能\n- 插件管理排序功能\n- 默认绕过多开人脸、无后台限制",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-3",
+                    "text": "1.0-7",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 13 日",
+                    "text": "2025 年 05 月 18 日",
                     "title": "最后更新"
                 },
                 {
@@ -98,7 +98,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0-3\n- 初始发布",
+                    "markdown": "### 1.0-7\n- 新增一些问题\n- 优化部分代码\n- 解决提出问题的人\n- 合并插件管理排序的代码\n- 默认绕过多开人脸、无后台限制\n- 解决聊天记录内文件错误显示时间标签",
                 }
             ]
         }
