@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-7",
+                    "text": "1.0-8",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 18 日",
+                    "text": "2025 年 05 月 22 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-8\n- 新增禁止删除消息聊天记录\n- 新增长按首页消息预览视图 ",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-7\n- 新增一些问题\n- 优化部分代码\n- 解决提出问题的人\n- 合并插件管理排序的代码\n- 默认绕过多开人脸、无后台限制\n- 解决聊天记录内文件错误显示时间标签",
