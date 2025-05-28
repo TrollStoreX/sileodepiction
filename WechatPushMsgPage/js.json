@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口",
+                    "markdown": "### 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.4",
+                    "text": "0.0.5",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 12 日",
+                    "text": "2025 年 05 月 28 日",
                     "title": "最后更新"
                 }
              ]
