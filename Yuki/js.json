@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{700, 700}",
+                    "itemSize": "{900, 900}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0-5",
+                    "text": "0.0-7",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 26 日",
+                    "text": "2025 年 06 月 01 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,20 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0-7\n- 新增个人主页显示作品发布时间\n- 新增消息左滑手势快捷回复",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0-6\n- 新增自定义消息气泡，使用官方自定义，支持自定义颜色、logo（支持四个位置）\n- 新增未读语音自动转文本（lhyee）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.0-5\n- 自定义语音秒数，支持 0，无上限，支持区间内随机\n- 优化了防撤回等的一些逻辑，避免出现问题\n- 新增了好友交换作弊\n- 单向在线状态，有延迟，且只针对你没有主动发消息的生效，有问题不会修复\n- 只在抖音官方正式版 34.2 测试，防撤回和语音转发很可能不支持其他版本，不会修复，语音转发长按分享即可",
