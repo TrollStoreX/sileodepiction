@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 基于 DYYY 的修改版插件\n- 双指长按或设置页面调出\n- 新增一些功能\n- 新增抖音设置原生插件设置 UI",
+                    "markdown": "## 基于 DYYY 的抖音插件\n- 用于调整抖音 UI 的插件\n- 仅在抖音 34.2.0 版本中测试\n- 仅供学习交流，禁止用于商业用途\n- 通过“双指长按”或“抖音设置”进入插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-7+debug2",
+                    "text": "2.2-7+debug5",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 26 日",
+                    "text": "2025 年 06 月 08 日",
                     "title": "最后更新"
                 },
                 {
