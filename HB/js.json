@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.8-5",
+                    "text": "1.8-8",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 11 日",
+                    "text": "2025 年 06 月 15 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.8-8\n- 修复一些基础问题\n- 新增修改 UI 速度\n- 新增点歌的自定义服务器接口",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.8-5\n- 优化一部分代码和修复一些功能\n- 新增消息小尾巴功能-[消息类功能-第二个启用消息小尾巴]，该功能用了部分气泡将会无法正常显示！",
