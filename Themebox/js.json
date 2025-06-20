@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.6-1",
+                    "text": "2.0.7-1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 13 日",
+                    "text": "2025 年 06 月 18 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.7-1\n- 修复微信 8.0.60 热更新后主页背景失效\n- 修复底栏切换动画和底栏触感失效",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6-1\n- 优化消息时间显示的代码\n- 增加两个朋友圈操作按钮布局选项",
