@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 抖音主页全屏显示\n- 插件开关位于抖音设置内\n- 最后在抖音 33.7.0 版本进行测试\n- 放大视频达到全屏显示，视频区域会部分丢失",
+                    "markdown": "## 抖音主页全屏显示\n- 支持抖音极速版\n- 插件开关位于抖音设置内\n- 最后在抖音 33.7.0 版本进行测试\n- 放大视频达到全屏显示，视频区域会部分丢失",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3-4",
+                    "text": "1.3-6",
                     "title": "当前版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 06 月 21 日",
+                    "text": "2025 年 06 月 24 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,6 +89,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3-6\n- 支持抖音极速版",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.3-4\n- 重写支持抖音 34.7.0 及以上版本",
