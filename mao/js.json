@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8-5",
+                    "text": "3.8-6",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 06 月 10 日",
+                    "text": "2025 年 06 月 28 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.8-6\n- 大概率是修复了上一个版本频繁闪退问题（虽然我一直就没有遇到过闪退问题）\n- 修复了聊天窗口顶部添加的搜索按钮功能消失问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.8-5\n- 修复群助手及其它的一些问题，大部份功能都没修",
