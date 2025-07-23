@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.6",
+                    "text": "2.0.8",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 23 日",
+                    "text": "2025 年 07 月 21 日",
                     "title": "最后更新"
                 }
 
@@ -86,6 +86,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.8\n- 适配最新微信插件入口不显示问题\n- 修复文字转语音 BUG",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.6\n- 修复插件入口不显示问题\n- 文字转语音普通版免key，免费使用\n- （付费）新增文字转语音，高级版（内含100+语音）",
