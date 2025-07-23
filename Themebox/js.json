@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.8-1",
+                    "text": "2.1.1",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 06 月 30 日",
+                    "text": "2025 年 07 月 21 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1.1\n- 底栏抽屉增加联系人、群聊、收藏\n- 对一些功能细节进行优化\n- 钱包页面可以关闭半透明(功能位于主题选项->透明选项)\n- 修复未启用插件时无法进入抽屉管理",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.8-1\n- 修复微信热更新导致输入框背景及隐藏消息来源失效问题",
