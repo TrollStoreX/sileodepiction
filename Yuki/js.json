@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0-7",
+                    "text": "0.0-8-2",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 06 月 01 日",
+                    "text": "2025 年 07 月 18 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0-8.1\n- 修复了语音自动转文字、消息左滑快速引用、长按底栏消息快捷已读在新版本失效的问题，兼容 35.10\n- 友情提示 防撤回在 trollfools 和越狱环境下，抖音必须在后台运行，自签可能抖音必须在前台运行，这是抖音和 iOS 的限制\n- 语音转发可能只支持 34.20+，开启后长按语音选择分享",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.0-7\n- 新增个人主页显示作品发布时间\n- 新增消息左滑手势快捷回复",
