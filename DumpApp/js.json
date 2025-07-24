@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.8",
+                    "text": "2.0.9",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 07 月 21 日",
+                    "text": "2025 年 07 月 23 日",
                     "title": "最后更新"
                 }
 
@@ -86,6 +86,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.9\n- 修复抖音对话解析去水印功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.8\n- 适配最新微信插件入口不显示问题\n- 修复文字转语音 BUG",
