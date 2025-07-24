@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-8+debug#1177",
+                    "text": "2.2-8 #1491",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 07 月 02 日",
+                    "text": "2025 年 07 月 24 日",
                     "title": "最后更新"
                 },
                 {
