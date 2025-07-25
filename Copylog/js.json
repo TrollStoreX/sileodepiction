@@ -1,1 +1,96 @@
-
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/Copylog/banner.png",
+    "tintColor": "#018AFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔商店Pro群组",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 体验版\n ### 会有盗版弹窗，自行购买正版",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "### 可以为每个应用自定义多达30项设置，通过简洁友好的界面轻松访问！\n- Appaze 3 允许你为特定应用自定义音量、亮度以及多个切换选项（如 Wi-Fi、蜂窝数据、屏幕方向锁定、VPN 等），还能设定自定义行为（禁用通知中心/控制中心、禁用主屏手势、隐藏系统提示和通知横幅等），直接通过 3D Touch 菜单实现。每次当定制的应用在前台运行（从主屏幕、应用切换器打开时），会自动应用所选择的设置值。退出应用时，之前的系统默认设置会自动恢复（除非在设置中选择其他选项）。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Copylog/pic1.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.7.1",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 07 月 23 日",
+                    "title": "最后更新"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "markdown": "### 1.0.1\n- 在 iOS 16 及更高版本上切换到新方法来设置音量，因为之前的方法对某些用户不起作用",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
