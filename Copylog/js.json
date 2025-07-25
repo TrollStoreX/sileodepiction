@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 体验版\n ### 会有盗版弹窗，自行购买正版",
+                    "markdown": "## 适用于 iOS 和 iPadOS 的剪贴板历史管理器！",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -23,7 +23,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "### 可以为每个应用自定义多达30项设置，通过简洁友好的界面轻松访问！\n- Appaze 3 允许你为特定应用自定义音量、亮度以及多个切换选项（如 Wi-Fi、蜂窝数据、屏幕方向锁定、VPN 等），还能设定自定义行为（禁用通知中心/控制中心、禁用主屏手势、隐藏系统提示和通知横幅等），直接通过 3D Touch 菜单实现。每次当定制的应用在前台运行（从主屏幕、应用切换器打开时），会自动应用所选择的设置值。退出应用时，之前的系统默认设置会自动恢复（除非在设置中选择其他选项）。",
+                    "markdown": "### CopyLog 是一款强大的 iOS 剪贴板历史管理器，易于使用，兼容 iPhone 和 iPad，能够帮助你追踪设备上复制过的所有内容。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
