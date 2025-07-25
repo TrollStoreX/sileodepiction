@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 适用于 iOS 和 iPadOS 的剪贴板历史管理器！",
+                    "markdown": "## 适用于 iOS 和 iPadOS 的剪切板历史管理器！",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
