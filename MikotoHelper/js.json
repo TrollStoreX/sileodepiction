@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3.6 v1",
+                    "text": "1.3.6 V3",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 21 日",
+                    "text": "2025 年 07 月 17 日",
                     "title": "最后更新"
                 }
              ]
@@ -90,6 +90,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3.6 V3\n- 修复企业消息会闪退的问题\n- 修复匿名艾特会闪退的问题\n- 内置阻止微信热更新功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### v1体验版\n- 更新美化功能，强化聊天工具栏\n- 自动回复闪退的问题，适配微信 8.0.57 版本",
