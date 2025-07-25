@@ -86,7 +86,14 @@
             "tabname": "更新",
             "views": [
                 {
-                    "markdown": "### 1.0.1\n- 在 iOS 16 及更高版本上切换到新方法来设置音量，因为之前的方法对某些用户不起作用",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7.1\n- 修复插件安全模式问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "### 1.7\n- 更新支持 iOS 和 iPadOS 16、17 以及 18.3\n- 更新了部分来自 TrollStore 版本 1.6 的界面优化\n- 改进了搜索加载界面\n- 修复了在某些情况下片段无法显示的界面 Bug\n- 移除了 DRM 和授权服务器\n- 添加了生命周期结束（EOL）通知",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
