@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.8-8",
+                    "text": "1.9-0",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 06 月 15 日",
+                    "text": "2025 年 08 月 09 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9-0\n- 优化部分代码\n- 修复朋友圈小尾巴默认显示的问题\n- 新增更新日志自动获取或关闭按钮",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.8-8\n- 修复一些基础问题\n- 新增修改 UI 速度\n- 新增点歌的自定义服务器接口",
