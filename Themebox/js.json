@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1.3",
+                    "text": "2.1.5",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 08 月 04 日",
+                    "text": "2025 年 08 月 11 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1.5\n- 修复 8.0.62 开启悬浮底栏从聊天窗口返回时底栏一层模糊背景\n- 修复 8.0.62 开启布局修改后语音转文本按钮错位问题\n- 分组功能增加从最近聊天选取联系人\n- 配色管理支持修改首页列表名字、消息、时间颜色",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.1.3\n- 增加首页滑动动画\n- 修复分组底栏滑动和抽屉上滑冲突\n- 新增将分组添加到底栏上方\n- 支持自定义全部位置\n- 增加过滤重复联系人\n- 优化一部分代码",
