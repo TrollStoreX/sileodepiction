@@ -115,8 +115,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 5.2b3\n- 尝试修复侧载播放问题
-",
+                    "markdown": "### 5.2b3\n- 尝试修复侧载播放问题",
                 },
                 {
                     "class": "DepictionSeparatorView"
