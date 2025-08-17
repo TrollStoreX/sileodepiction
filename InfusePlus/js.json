@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3.1",
+                    "text": "2.4",
                     "title": "插件版本"
                 },
                 {
@@ -77,7 +77,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 08 月 10 日",
+                    "text": "2025 年 08 月 13 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.4\n- 修复了对 Infuse v8.2.1+ 专业功能的支持",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.1\n- 添加了从照片应用导入的功能\n- 修复了从文件导入（侧载）的问题",
