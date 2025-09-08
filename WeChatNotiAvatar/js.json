@@ -58,17 +58,18 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.5",
-                    "title": "最新版本"
+                    "text": "1.3-1",
+                    "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 16.6.1",
-                    "title": "支持系统范围"
+                    "title": "支持系统"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 08 月 31 日",
+                    "title": "最后更新"
                 }
             ]
         },
@@ -77,15 +78,9 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.2.5",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": " • 未知",
-                    "useRawFormat": true
+                    "markdown": "### 1.3-1\n- 修复长久以来的刚进入后台无效问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         }
