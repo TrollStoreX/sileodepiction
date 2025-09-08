@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9-0",
+                    "text": "1.9-3",
                     "title": "插件版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 08 月 09 日",
+                    "text": "2025 年 09 月 07 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9-3\n- 修复设置铃声闪退的问题\n- 优化自动更换聊天背景逻辑\n- 优化自定义修改头像\n- 添加启用左滑快捷修改头像的按钮\n- 优化启用朋友圈内容转发\n- 添加屏蔽原作者\n- 添加清空朋友圈缓存\n- 修复在高版本上闪退的问题，目前仅支持49以上版本",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.9-0\n- 优化部分代码\n- 修复朋友圈小尾巴默认显示的问题\n- 新增更新日志自动获取或关闭按钮",
