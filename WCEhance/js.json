@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-1",
+                    "text": "2.0-1",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 08 月 04 日",
+                    "text": "2025 年 12 月 08 日",
                     "title": "最后更新"
                 },
                 {
