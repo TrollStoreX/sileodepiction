@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.2b3",
+                    "text": "5.2b4",
                     "title": "当前版本"
                 },
                 {
@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 08 月 11 日",
+                    "text": "2025 年 11 月 05 日",
                     "title": "最后更新"
                 }
             ]
