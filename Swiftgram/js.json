@@ -1,0 +1,95 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/Telegram/banner.png",
+    "tintColor": "#269CD8",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+          "text": "加入巨魔越狱交流群 Chat",
+          "action": "https://t.me/TrollStorePro",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## Telegram 增强\n- 回车键发送消息\n- 禁止右滑出现 My Story\n- 单聊对话框显示对方 User ID",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                                {
+                    "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Telegram/pic3.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.1-7",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 17.0",
+                    "title": "支持系统"
+                },
+                                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 12 月 13 日",
+                    "title": "最后更新"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-5\n- 支持中文环境下显示 User ID\n- 进一步优化",
+                }
+            ]
+        }
+    ],
+}
