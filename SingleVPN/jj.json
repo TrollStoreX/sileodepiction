@@ -66,17 +66,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.6",
+                    "text": "1.7",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.6.1",
+                    "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 08 月 06 日",
+                    "text": "2025 年 12 月 13 日",
                     "title": "最后更新"
                 },
                 {
@@ -91,6 +91,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7\n- 新增支持 17.0 NathanLR 半越狱",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.6\n- 新增对个人热点图标的支持\n- 修复了蜂窝信号强度更新时颜色恢复为默认的问题",
