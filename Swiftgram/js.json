@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## Telegram 增强\n- 回车键发送消息\n- 禁止右滑出现 My Story\n- 单聊对话框显示对方 User ID",
+                    "markdown": "## Swiftgram Pro\n- 附加解除下载保护\n- 解除截图保护\n- 去除官方广告\n- 解锁 Pro 首次登录需重启一次应用\n- 最后在 Swiftgram 12.2 进行测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -43,7 +43,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Telegram/pic3.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/Swiftgram/pic1.png"
                         }
                     ]
                 },
@@ -87,7 +87,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.1-5\n- 支持中文环境下显示 User ID\n- 进一步优化",
+                    "markdown": "### 1.1-7\n- 初始发布",
                 }
             ]
         }
