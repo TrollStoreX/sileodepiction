@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## Telegram 增强插件\n- 去除广告\n- 隐藏一些输入状态\n- 允许保存频道限制下载的文件\n- 设置界面-长按倒数第三个选项“客服”打开插件\n- 支持 Telegram、Turrit 等第三方客户端",
+                    "markdown": "## Telegram 增强插件\n- 去除广告\n- 隐藏一些输入状态\n- 允许保存频道限制下载的文件\n- 设置界面-长按倒数第三个选项“客服”打开插件\n- 支持 Telegram、Turrit 等第三方客户端\n- 注意：RootHide/BootStrap arm64e 安装会无法汉化，插件自身问题，建议使用 TrollFools 注入使用",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
