@@ -86,7 +86,7 @@
                 },
                 {
                     "title":"huamidev｜Telegram",
-                    "action":"https://t.me/huamidev"，
+                    "action":"https://t.me/huamidev",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
