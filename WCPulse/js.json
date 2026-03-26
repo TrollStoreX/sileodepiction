@@ -61,7 +61,7 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
-                },
+                }，
                 {
                     "class": "DepictionSeparatorView"
                 },
@@ -71,22 +71,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3-4",
+                    "text": "1.5-5",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 11 月 17 日",
+                    "text": "2026 年 03 月 26 日",
                     "title": "最后更新"
                 },
                 {
                     "title":"huamidev｜Telegram",
-                    "action":"https://t.me/huamidev",
+                    "action":"https://t.me/huamidev"，
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
