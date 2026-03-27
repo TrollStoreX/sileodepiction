@@ -15,14 +15,14 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "##  App Store 账号快速切换\n- 账号界面左上角显示切换图标\n- Switch between App Store accounts with ease.\n- 支持 Bootstrap 环境",
+                    "markdown": "##  桌面长按 App Store 进行切换账号\n- Long press the App Store on the desktop to switch accounts",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -53,12 +53,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.5",
+                    "text": "1.0.6",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 }
             ]
@@ -69,7 +69,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.5\n- 转换支持 Bootstrap 环境",
+                    "markdown": "### 1.0.6\n- 更改为桌面长按 App Store 切换账号",
                 }
             ]
         }
