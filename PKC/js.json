@@ -58,17 +58,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.8-4",
+                    "text": "0.9-5",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 11 月 07 日",
+                    "text": "2026 年 03 月 31 日",
                     "title": "最后更新"
                 }
             ]
@@ -77,6 +77,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.9-5\n- 新增OpenClaw，功能路径：[AI]-[OpenClaw]\n- 优化AI-自定义模型\n- 优化AI对话\n- 优化消息统计-AI分析\n- 优化所有AI功能\n- 优化抖音解析\n- 优化关键词回复按时间段回复细化至分钟级设定\n- 优化插件视频发送接口，防止压缩视频，默认高清发送",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.7-4\n- 新增“我邀请入群的群员”功能（可在群设置中查看，适用于查看自己邀请的群成员，并在无管理员权限时将其移出群聊）\n- 增加“自动下载图片、视频”功能（应用户需求）\n- 修复群设置页面中“群近期操作”点击消息后无法跳转定位的问题",
