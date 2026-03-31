@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2.2",
+                    "text": "2.2.8",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 01 月 09 日",
+                    "text": "2026 年 03 月 31 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.2.8\n- 新增气泡内显示时间自定义字符\n- 新增使用原生角标(在主题选项中开启)\n- 聊天隐藏头像新增多个选项\n- 修复底栏抽屉打开二维码闪退问题\n- 修复部分消息无法修改颜色问题\n- 修复快速搜索聊天记录返回时直接返回到主页问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.1.5\n- 修复 8.0.62 开启悬浮底栏从聊天窗口返回时底栏一层模糊背景\n- 修复 8.0.62 开启布局修改后语音转文本按钮错位问题\n- 分组功能增加从最近聊天选取联系人\n- 配色管理支持修改首页列表名字、消息、时间颜色",
