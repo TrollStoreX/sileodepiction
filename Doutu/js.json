@@ -66,17 +66,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.1-6",
+                    "text": "3.1-8",
                     "title": "当前版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 04 月 24 日",
+                    "text": "2026 年 03 月 31 日",
                     "title": "最后更新"
                 }
             ]
