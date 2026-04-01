@@ -82,17 +82,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.0.9",
+                    "text": "4.6.7",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 08 月 17 日",
+                    "text": "2026 年 04 月 01 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,6 +101,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 4.6.7\n- \n- 新增几个底栏图标点击动画\n- 彻底修复文件转发气泡显示问题\n- 新增小底栏独立配套背景，支持 DIY\n- 修复了朋友圈点赞菜单按钮底下有长方形色块问题\n- 修复了一些界面上的搜索框被压扁的问题\n- 适配了本地预览导入主题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 4.0.9\n- 适配了8062版本，解决了时间框变高问题，和最新版WX小底栏返回闪黑问题\n- 移除了小底栏动画（因为62版本的首页逻辑不能支持，会有视觉bug）\n- 新增分组功能（自动居中布局设置完重启生效），带最近信息分组大家自己体验（特色功能里面）不能和其他分组插件共用\n- 已知问题：主题盒子213版本之后的版本会导致启动页不生效，目前解决办法移除或者降级到213版本，或者等待猫哥修复。不能和盒子新版共用同时开启，底栏图标及角标会重叠，信息数量已读也不会消失，配置颜色和气泡都会显示错误。有酸果的用户请升级到酸果最新版5.9.9-4，不然会出现冲突，底栏图标重叠",
