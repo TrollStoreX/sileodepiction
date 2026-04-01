@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 安装“逆无止境图层 1aaa3”插件才可生效",
+                    "markdown": "## 小红书插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -51,7 +51,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 25,
-                    "itemSize": "{240, 520}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -60,7 +60,7 @@
                                                 {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/XHS/pic2.png"
-                        },
+                        }，
                                                 {
                             "accessibilityText": "Screenshot",
                             "url": "https://trollstorex.github.io/sileodepiction/XHS/pic3.png"
@@ -90,17 +90,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.5-1",
+                    "text": "1.2.0",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 18 日",
+                    "text": "2026 年 04 月 01 日",
                     "title": "最后更新"
                 },
                 {
@@ -110,7 +110,7 @@
                     "class":"DepictionTableButtonView"
                 }
             ]
-        },
+        }，
         {
             "class": "DepictionStackView",
             "tabname": "更新",
