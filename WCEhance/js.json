@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-1",
+                    "text": "2.0-4",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 12 月 08 日",
+                    "text": "2026 年 04 月 01 日",
                     "title": "最后更新"
                 },
                 {
@@ -97,6 +97,13 @@
             "tabname": "更新",
             "views": [
                 {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-4\n- 重构「我」页面的隐藏和改名逻辑\n- 新增朋友圈集赞\n- 新增当前版本和版本号查看\n- 优化全局毛玻璃效果\n- 优化 Toast 日间显示效果\n- 优化相关提示信息和用户体验",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {i
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-1\n- 完全重构角标逻辑（自定义角标仅支持识别盒子）\n- 优化 UI 的整体逻辑（适配盒子背景图）\n- 新增重置所有颜色配置（右上角加号）\n- 新增重启应用按钮（无需手动介入，自动重启）\n- 所有颜色配置全部支持日/夜间单独配置\n- 优化手势的处理逻辑\n- 完善更加清晰表示说明\n- 新增隐藏全部角标功能",
                 },
