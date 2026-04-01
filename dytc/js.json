@@ -81,7 +81,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionTableTextView"，
+                    "class": "DepictionTableTextView",
                     "text": "2.3.8-3",
                     "title": "插件版本"
                 },
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.3.8-3\n- 修复一些问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0.8+8\n- 修复部分功能闪退问题",
