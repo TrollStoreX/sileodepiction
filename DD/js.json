@@ -92,7 +92,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0.0\n- 初始发布
+                    "markdown": "### 1.0.0\n- 初始发布",
                 }
             ]
         }
