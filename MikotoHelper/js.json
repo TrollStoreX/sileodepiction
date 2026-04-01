@@ -71,17 +71,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3.6 V3",
+                    "text": "1.3.6 V9",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 07 月 17 日",
+                    "text": "2026 年 04 月 01 日",
                     "title": "最后更新"
                 }
              ]
@@ -90,6 +90,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3.6 V9\n- 修复一些因热更新导致的闪退问题\n- 新增解决双开微信无法人脸识别的问题（默认生效，无开关）\n- 此版本，不支持 WCR 的插件聚合搜索功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.3.6 V3\n- 修复企业消息会闪退的问题\n- 修复匿名艾特会闪退的问题\n- 内置阻止微信热更新功能",
