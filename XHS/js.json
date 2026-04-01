@@ -110,7 +110,7 @@
                     "class":"DepictionTableButtonView"
                 }
             ]
-        }，
+        },
         {
             "class": "DepictionStackView",
             "tabname": "更新",
