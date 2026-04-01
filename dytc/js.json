@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 安装“逆无止境图层 1aaa3”插件才可生效\n- 长按更改可以降级图层版本，推荐使用 2.0.8+8 版本",
+                    "markdown": "## 此版本采取自动授权 1-7 天，随机授权",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -81,18 +81,18 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionTableTextView",
-                    "text": "2.0.8+8",
+                    "class": "DepictionTableTextView"，
+                    "text": "2.3.8-3",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
-                },
+                }，
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 05 日",
+                    "text": "2026 年 04 月 01 日",
                     "title": "最后更新"
                 },
                 {
