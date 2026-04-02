@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.9.1",
+                    "text": "1.9.2",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 03 月 31 日",
+                    "text": "2026 年 04 月 03 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,6 +89,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.9.2\n- 修复 iOS 17+上的选择应用版本降级时导致 SpringBoard 崩溃问题\n- 修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知。\n- 说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在 iOS 14.3、15.4、16.4.1、17.0 测试并且所有修改仅在 SpringBoard 层面生效",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "### 1.9.1\n- 禁用资源库触发面板。\n- 添加下滑收起面板手势。\n- 优化上滑面板触发手势解决有时同时触发桌面左右滑动。\n- 加入区分应用类型。\n- 禁用负一屏siri建议应用上滑触发面板",
                     "useSpacing": true,
