@@ -66,17 +66,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8-9",
+                    "text": "3.9-5",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 11 月 12 日",
+                    "text": "2026 年 04月 03 日",
                     "title": "最后更新"
                 },
                 {
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "###3.8-7\n- 优化部分代码",
+                    "markdown": "###3.9-5\n- 修复长按消息菜单内的功能不显示问题",
                 },
                 {
                     "class": "DepictionSeparatorView"
