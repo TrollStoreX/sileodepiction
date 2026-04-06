@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "# 微信净化\n- 还原聊天本质，干净的微信给你\n- 仅支持 8.0.29 及以上版本，设置位于微信-设置\n- 移除红包相关功能\n- END 为最终版不再更新",
+                    "markdown": "# 微信净化 2026.04 版本\n- 还原聊天本质，干净的微信给你\n- 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题\n- 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{800, 800}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -66,17 +66,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.2-7 END",
+                    "text": "2026.04",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 06 月 06 日",
+                    "text": "2026 年 04 月 06 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2026.04\n- 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题\n- 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "markdown": "### 4.2-7 END\n- 和过去做个告别，去年的最后一个版本\n- 上传留作纪念，永远不再维护\n- 移除红包相关功能\n- 移除文字转语音\n- 移除时间限制（永久使用）\n- 移除黑名单（曾经被净化拉黑用户） \n- 适配插件管理（收纳功能）\n- 修复自动领取红包闪退 ",
                     "useSpacing": true,
