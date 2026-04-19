@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 微信热更新管理\n- [微信热更新远程配置](https://github.com/huami1314/WCABTestConfig/releases/latest/download/ABTestConfig.json)",
+                    "markdown": "## 微信优化的重制版\n- 基于微信 8.0.64+ 版本制作",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
