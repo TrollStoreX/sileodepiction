@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3.8-3",
+                    "text": "2.3.8-8",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 01 日",
+                    "text": "2026 年 04 月 19 日",
                     "title": "最后更新"
                 },
                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.3-8-8\n- 新增启用评论文本蓝字\n- 修复新版保存头像失效\n- 修复新版主页作品批量下载失效\n- 修复评论语音包因AI解析导致的UI问题（现在语音包界面固定在上方，自适应下）\n- 优化本地Hooks功能与UI",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.3.8-3\n- 修复一些问题",
