@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2.8",
+                    "text": "2.3.0",
                     "title": "插件版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 03 月 31 日",
+                    "text": "2026 年 04 月 18 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.3.0\n- 修复 2.2.9 版本仅对群聊生效开启头像置底后私信不显示头像问题\n- 消息合并功能新增头像置底\n- 支持更换公众号文章的字体\n- 修复朋友圈笔记无法转发\n- 修复一些小细节问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.2.8\n- 新增气泡内显示时间自定义字符\n- 新增使用原生角标(在主题选项中开启)\n- 聊天隐藏头像新增多个选项\n- 修复底栏抽屉打开二维码闪退问题\n- 修复部分消息无法修改颜色问题\n- 修复快速搜索聊天记录返回时直接返回到主页问题",
