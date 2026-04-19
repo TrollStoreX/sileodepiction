@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 让你的旧设备体验 iOS 26 Liquid Glass 玻璃特效\n- 巨魔源汉化",
+                    "markdown": "## 让你的旧设备体验 iOS 26 Liquid Glass 液态玻璃\n- 巨魔源汉化，如果不显示中文，前往底部设置打开选择简体中文语言",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
