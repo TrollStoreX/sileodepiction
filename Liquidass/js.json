@@ -86,6 +86,12 @@
                     "class": "DepictionTableTextView",
                     "text": "2026 年 04 月 19 日",
                     "title": "最后更新"
+                },
+                {
+                    "title":"liquidass 开源 Github 地址",
+                    "action":"https://github.com/winaviation-tweaks/liquidass",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
             ]
         },
