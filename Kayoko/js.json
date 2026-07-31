@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## iOS 剪切板越狱插件\n- Clipboard manager for iOS.\n- 由「乌龙工作室」修复支持 iOS 16，免费发布和使用",
+                    "markdown": "## iOS 剪切板越狱插件\n- Clipboard manager for iOS.\n- 基于「乌龙工作室」版本进行修改",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -74,17 +74,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.8",
+                    "text": "4.6",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.6.1",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 03 月 15 日",
+                    "text": "2026 年 07 月 31 日",
                     "title": "最后更新"
                 }
             ]
