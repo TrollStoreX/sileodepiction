@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 使用苹果 ID 续签 IPA\n- 当你主屏幕翻页时，图标会动起来\n- 需要使用 Appdsump3 解决联网问题\n- ID 苹果 ID 无法登录请尝试打开 VPN",
+                    "markdown": "## 使用苹果 ID 续签 IPA\n- 当你主屏幕翻页时，图标会动起来\n- 需要使用 Appdsump3 解决联网问题\n- 苹果 ID 无法登录请尝试打开 VPN",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
