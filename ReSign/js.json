@@ -15,8 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 使用苹果 ID 续签 IPA\n- 当你主屏幕翻页时，图标会动起来\n- [有任何错误问题请点击跳转至作者帖文]
-(https://www.coolapk.com/feed/73040955?s=YzEzY2I2ZGIyOWRmYzZnNmE3MDc2M2F6i1653)",
+                    "markdown": "## 使用苹果 ID 续签 IPA\n- 当你主屏幕翻页时，图标会动起来\n- 需要使用 Appdsump3 解决联网问题\n- ID 苹果 ID 无法登录请尝试打开 VPN",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
