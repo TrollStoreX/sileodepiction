@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "##  在刘海或灵动岛下显示应用的「图标、名称、版本」",
+                    "markdown": "### 在刘海或灵动岛下显示应用的「图标、名称、版本」",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -43,7 +43,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/CylinderReborn/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/AppBadge/pic1.png"
                         }
                     ]
                 },
