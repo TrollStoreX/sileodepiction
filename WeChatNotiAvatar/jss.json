@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://trollstorex.github.io/sileodepiction/repo_pic/Top.PNG",
-    "tintColor": "#59AEBC",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "#1DD660",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -9,38 +9,43 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入巨魔商店Pro群组",
+          "text": "加入巨魔越狱交流群 Chat",
           "action": "https://t.me/TrollStorePro",
           "openExternal": 1,
           "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "让 QQ 消息通知显示 QQ 好友头像",
-                    "useBoldText": true,
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/WeChatNotiAvatar/pic1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "" 
-                        }
-                    ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "markdown": "## 让 QQ 消息通知显示好友头像",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
+                },
+                                                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+               {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{300, 300}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/WeChatNotiAvatar/pic2.png"
+                        }
+                    ]
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -57,18 +62,22 @@
                     "spacing": 8
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionTableTextView",
                     "text": "1.2-3",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.6.1",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
+                                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 08 月 04 日",
+                    "title": "最后更新"
                 }
             ]
         },
@@ -77,15 +86,8 @@
             "tabname": "更新",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.2-2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": " • 未知",
-                    "useRawFormat": true
+                    "markdown": "### 1.2-3\n- 更新支持 Relaxin 越狱",
                 }
             ]
         }
