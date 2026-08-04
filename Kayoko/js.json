@@ -39,7 +39,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{240, 520}",
+                    "itemSize": "{700, 700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.6",
+                    "text": "4.7.2",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 31 日",
+                    "text": "2026 年 08 月 04 日",
                     "title": "最后更新"
                 }
             ]
