@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 使用苹果 ID 续签 IPA\n- 当你主屏幕翻页时，图标会动起来\n- 需要使用 Appdsump3 或者连个锤子解决联网问题\n- 苹果 ID 无法登录请尝试打开 VPN",
+                    "markdown": "## 使用苹果 ID 续签 IPA\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -80,7 +80,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 03 日",
+                    "text": "2026 年 08 月 05 日",
                     "title": "最后更新"
                 },
                  {
@@ -97,7 +97,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 更新支持 Relaxin 越狱",
+                    "markdown": "### 1.1.164\n- 设置加入插件联网修复，无需安装三方插件\n- 新增左滑加入小黑屋功能，不想续签的应用放进黑名单，移出小黑屋同上..\n- 新增免费账户绕过安装三个应用限制，不过每个AppleID最多注册10个AppID，这是无法绕过的限制，致谢Lara开源项目（实验性）..\n- 登录账号界面新增小眼睛，可随时展开或隐藏..\n- 应用板块新增展示设备上安装应用来源：如证书/AppleID来源的应用\n- 加入检测bundleid、profile差异提醒\n- 针对某些应用自带扩展的处理\n- 改进后台签名策略、修复异常耗电发热（保守方案）\n- 修复一些内存泄露、卡顿问题，增强稳定性\n- 提前重签机制已做调整",
                 }
             ]
         }
