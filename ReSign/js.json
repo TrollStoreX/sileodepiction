@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 使用苹果 ID 续签 IPA\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN",
+                    "markdown": "## 使用苹果 ID 续签 IPA\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN\n- 如果安装 IPA 报错，请从 PC 端使用 iloader/爱思安装 Relaxin，再使用 ReSign 续签",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
