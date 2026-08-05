@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 微信实用小插件\n- 启用视频倍速手势\n- 启用头像时间标签\n- 自定义防撤回功能\n- 插件管理排序功能\n- 默认绕过多开人脸、无后台限制",
+                    "markdown": "## 微信超多功能大杂烩插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -40,11 +40,11 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{700, 700}",
+                    "itemSize": "{3700, 3700}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/WCPulse/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/AFN/pic1.png"
                         }
                     ]
                 },
@@ -83,12 +83,6 @@
                     "class": "DepictionTableTextView",
                     "text": "2026 年 08 月 05 日",
                     "title": "最后更新"
-                },
-                {
-                    "title":"huamidev｜Telegram",
-                    "action":"https://t.me/huamidev",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
                 }
              ]
         },
