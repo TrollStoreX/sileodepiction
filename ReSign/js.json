@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 使用苹果 ID 续签 IPA\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN\n- 如果安装 IPA 报错，请从 PC 端使用 iloader/爱思安装 Relaxin，再使用 ReSign 续签\n- 插件初衷只为适配签名 Relaxin，安装其他 IPA 可能会出现其他问题",
+                    "markdown": "## 使用苹果 ID 续签 IPA\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN\n- 如果安装 IPA 报错，请从 PC 端使用 iloader/爱思安装 Relaxin，再使用 ReSign 续签\n- 插件初衷只为适配签名 Relaxin，安装其他 IPA 可能会出现其他问题\n- 首次安装会很久，耐心等待不要杀后台",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.64",
+                    "text": "1.1.189",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 05 日",
+                    "text": "2026 年 08 月 06 日",
                     "title": "最后更新"
                 },
                  {
@@ -95,6 +95,14 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "markdown": "### 1.1.189\n- 解决了一些遗漏的问题\n- 设置通知新增重新授权入口，防止错过授权\n- 新增查看描述文件入口\n- 自动重签功能略调整，重新加回检测间隔设置，新增查看下次检测日期",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.164\n- 设置加入插件联网修复，无需安装三方插件\n- 新增左滑加入小黑屋功能，不想续签的应用放进黑名单，移出小黑屋同上..\n- 新增免费账户绕过安装三个应用限制，不过每个AppleID最多注册10个AppID，这是无法绕过的限制，致谢Lara开源项目（实验性）..\n- 登录账号界面新增小眼睛，可随时展开或隐藏..\n- 应用板块新增展示设备上安装应用来源：如证书/AppleID来源的应用\n- 加入检测bundleid、profile差异提醒\n- 针对某些应用自带扩展的处理\n- 改进后台签名策略、修复异常耗电发热（保守方案）\n- 修复一些内存泄露、卡顿问题，增强稳定性\n- 提前重签机制已做调整",
