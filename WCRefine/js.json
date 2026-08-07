@@ -98,6 +98,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0-3\n- 聊天附件工具支持自定义小程序跳转，支持自定义 VC页待添加预设附件管理\n- 修复官方表情使用官方 UI 无法快捷进入设置页问题\n- 优化红包群资料页单独开关添加逻辑已过滤的不添加\n- 插件管理背景不再跟随 xml 可自定义背景色值\n- 退群监控加入极端情况兜底，防止特殊情况误判\n- 引用了我及新文件红色强提醒支持自定义文案\n- 其他细节优化，改善体验",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.4-2\n- 初始发布",
                 }
             ]
