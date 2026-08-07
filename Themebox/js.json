@@ -100,7 +100,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 3.0.3\n- \n- 修复低于 8.0.60 版本闪退问题\n- 修复顶栏图标不变色问题\n- 映射问小微图标为 xiaowei_filled",
+                    "markdown": "### 3.0.3\n- 修复低于 8.0.60 版本闪退问题\n- 修复顶栏图标不变色问题\n- 映射问小微图标为 xiaowei_filled",
                 },
                 {
                     "class": "DepictionSeparatorView"
