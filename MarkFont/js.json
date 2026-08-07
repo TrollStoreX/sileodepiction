@@ -22,7 +22,19 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-                                                {
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "markdown": "## 安装前请注意\n- 如果安装过其他字体挂载插件并已挂载字体，请先取消挂载，再卸载对应插件\n- 字体文件不完整或与系统不兼容可能导致文字空白或界面不可用\n- 安装前请确保你能够进入当前越狱的安全模式并移除软件包\n- MarkFont 不提供或分发第三方字体，请仅使用你有权安装的字体文件",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
