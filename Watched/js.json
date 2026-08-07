@@ -1,0 +1,101 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text": "加入巨魔越狱交流群 Chat",
+                    "action": "https://t.me/TrollStorePro",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## Apple Watch 配对\n- 让你能将运行着比 iPhone iOS 官方支持版本更新的 watchOS 的 Apple Watch 配对\n- 安装后，重启 iPhone 和 Apple Watch，然后重新配对\n- 未在恢复较新 Watch 备份时测试；请先备份你的 Apple Watch 数据",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Watched/pic1.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.0",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 17.0 - iOS 17.3.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 08 月 07 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title": "watched",
+                    "action": "https://github.com/34306/watched",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0\n- 支持 relaxin 越狱\n- 同步照片\n- 同步音乐\n- 同步应用可以安装\n- 同步地图"
+                }
+            ]
+        }
+    ]
+}
