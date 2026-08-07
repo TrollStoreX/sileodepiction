@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 作者不知道为何删了全部帖子，后续应该不会更新了\n- 最后版本 1.1.189 签名会出现 88 错误，所以删掉该版本\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN\n- 如果安装 IPA 报错，请从 PC 端使用 iloader/爱思安装 Relaxin，再使用 ReSign 续签\n- 插件初衷只为适配签名 Relaxin，安装其他 IPA 可能会出现其他问题\n- 安装该插件会有点久，请耐心等待不要杀后台",
+                    "markdown": "## iOS 全局字体管理器\n- 支持 iOS 16.0 及以上版本\n- 支持 Rootless 和 RootHide\n- 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体\n- MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
