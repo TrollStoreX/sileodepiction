@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 使用 ID 续签 IPA\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN\n- 如果安装 IPA 报错，请从 PC 端使用 iloader/爱思安装 Relaxin，再使用 ReSign 续签\n- 插件初衷只为适配签名 Relaxin，安装其他 IPA 可能会出现其他问题\n- 安装该插件会有点久，请耐心等待不要杀后台",
+                    "markdown": "## 作者不知道为何删了全部帖子，后续应该不会更新了\n- 最后版本 1.1.189 签名会出现 88 错误，所以删掉该版本\n- 出现“Your session has expired. Please log in”代码无法登录请尝试打开 VPN\n- 如果安装 IPA 报错，请从 PC 端使用 iloader/爱思安装 Relaxin，再使用 ReSign 续签\n- 插件初衷只为适配签名 Relaxin，安装其他 IPA 可能会出现其他问题\n- 安装该插件会有点久，请耐心等待不要杀后台",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.189",
+                    "text": "1.1.164",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 06 日",
+                    "text": "2026 年 08 月 07 日",
                     "title": "最后更新"
                 },
                  {
