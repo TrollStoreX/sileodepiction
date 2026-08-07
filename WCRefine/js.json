@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-2",
+                    "text": "2.0-3",
                     "title": "插件版本"
                 },
                 {
@@ -81,12 +81,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 19 日",
+                    "text": "2026 年 08 月 07 日",
                     "title": "最后更新"
                 },
                 {
-                    "title":"热心の小窝｜Telegram",
-                    "action":"https://t.me/bzappsv",
+                    "title":"WCRefine｜Telegram",
+                    "action":"https://t.me/wcrefine",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
