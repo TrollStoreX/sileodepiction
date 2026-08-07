@@ -78,17 +78,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3.0",
+                    "text": "3.0.3",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 18 日",
+                    "text": "2026 年 08 月 07 日",
                     "title": "最后更新"
                 }
 
@@ -100,7 +100,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 2.3.0\n- 修复 2.2.9 版本仅对群聊生效开启头像置底后私信不显示头像问题\n- 消息合并功能新增头像置底\n- 支持更换公众号文章的字体\n- 修复朋友圈笔记无法转发\n- 修复一些小细节问题",
+                    "markdown": "### 3.0.3\n- \n- 修复低于 8.0.60 版本闪退问题\n- 修复顶栏图标不变色问题\n- 映射问小微图标为 xiaowei_filled",
                 },
                 {
                     "class": "DepictionSeparatorView"
