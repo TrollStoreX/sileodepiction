@@ -37,17 +37,6 @@
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 0,
-                    "itemSize": "{700, 700}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Watched/pic1.png"
-                        }
-                    ]
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
