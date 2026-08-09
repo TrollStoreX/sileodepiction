@@ -1,0 +1,105 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text": "加入巨魔越狱交流群 Chat",
+                    "action": "https://t.me/TrollStorePro",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 真全屏屏显示\n- 先关闭重量锁定，向左、向右、上下旋转你的 iPhone，支持屏幕上下颠倒，实现“真全面屏”\n- Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Upsidedowneds/pic1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/Upsidedowneds/pic2.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.1-6",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 17.3.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 09 月 07 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title": "34306",
+                    "action": "https://github.com/itzzace/ytkace",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-6\n- 初始发布"
+                }
+            ]
+        }
+    ]
+}
