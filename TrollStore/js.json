@@ -27,6 +27,18 @@
                     "spacing": 8
                 },
                 {
+                    "markdown": "## 官方描述\n- 支持 iOS 14 及更高版本\n- TrollStore Lite 在已越狱的 iOS 上提供类似 TrollStore 的体验。与 TrollStore 不同，它不受 CoreTrust 漏洞所支持版本的限制，而是依赖于越狱中包含的代码签名绕过，重启设备丢失越狱环境 TrollStore Lite 及其安装的 IPA 将会闪退，重新越狱恢复正常\n- 它本质上只是一个用于安装 .ipa 文件的前端。当未安装 AppSync 时，已安装的应用将被注册为系统应用，并且可以通过 TrollStore Lite 应用刷新这些注册。当安装了 AppSync 时，已安装的应用将被注册为用户应用，并且这些注册将自动持久化\n- 对于已经在越狱 iOS 上使用完整版 TrollStore 的用户，有一个选项可以将所有已安装的应用转移到 TrollStore Lite",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
                     "class": "DepictionHeaderView",
                     "title": "预览",
                     "useBoldText": true,
