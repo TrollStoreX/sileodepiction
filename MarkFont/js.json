@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.3.1",
+                    "text": "0.3.3",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 08 日",
+                    "text": "2026 年 08 月 09 日",
                     "title": "最后更新"
                 },
                  {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.3.3\n- 新增iOS18-26中文字体支持，适配 FontServices/CorePrivate 中专用的 PingFangUl.ttc\n- iOS 16-17 继续使用 PingFang.ttc，并严格按当前系统同名文件匹配，不做跨名替换\n- 升级后需重新导入原字体包并创建新 Profile，旧日方案不会自动补匹配\n- 优化字体包导入与 Respring 界面的排查提示",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.3.1\n- 修复 conventional rootless (Dopamine) 下应用字体方案失败的问题\n- 修复沙盒容器中导入的方案数据在卸载后残留的问题\n- RootHide 环境保持既有行为不变",
