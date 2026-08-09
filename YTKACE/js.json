@@ -15,7 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 一个开源的 iOS 版 YouTube 增强工具。\n- 下载：视频、音频和 Shorts 下载；队列；排序；备份和恢复\n- 播放：后台播放、画中画、循环播放、速度控制、手势操作和点击快进\n- SponsorBlock：分类控制、进度标记、跳过模式及可配置提醒\n- 界面：OLED 模式、悬浮控制、导航清理及原生分享面板\n- 标签页：隐藏、重新排序并添加 YouTube 目的地\n- 下载管理：已下载的视频、Shorts 和音频播放器，支持断点续播\n- 设置：可搜索的设置、14 种语言以及原生 YouTube 设置板块",
+                    "markdown": "## 一个开源的 YouTube 增强工具\n- 下载：视频、音频和 Shorts 下载；队列；排序；备份和恢复\n- 播放：后台播放、画中画、循环播放、速度控制、手势操作和点击快进\n- SponsorBlock：分类控制、进度标记、跳过模式及可配置提醒\n- 界面：OLED 模式、悬浮控制、导航清理及原生分享面板\n- 标签页：隐藏、重新排序并添加 YouTube 目的地\n- 下载管理：已下载的视频、Shorts 和音频播放器，支持断点续播\n- 设置：可搜索的设置、14 种语言以及原生 YouTube 设置板块",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -75,16 +75,16 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15.0 - 17.3.1",
+                    "text": "iOS 15.0 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 07 日",
+                    "text": "2026 年 08 月 09 日",
                     "title": "最后更新"
                 },
                 {
-                    "title": "YTKACE",
+                    "title": "YTKACE 开源 Github",
                     "action": "https://github.com/itzzace/ytkace",
                     "openExternal": 1,
                     "class": "DepictionTableButtonView"
