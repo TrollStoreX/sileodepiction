@@ -15,7 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 该插件不支持 RootHide 环境",
+                    "markdown": "### 该插件不支持 RootHide 环境，RootHide 请按照 源内的 ReSign",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
