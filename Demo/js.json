@@ -1,35 +1,29 @@
 {
+  "minVersion": "0.4",
   "class": "DepictionTabView",
+  "tintColor": "#007AFF",
   "tabs": [
     {
       "class": "DepictionStackView",
+      "tabname": "详情",
       "views": [
         {
+          "class": "DepictionHeaderView",
+          "title": "Example Tweak"
+        },
+        {
           "class": "DepictionVideoView",
-          "url": "https://TrollStoreX.Github.io/sileodepiction/Demo/Test.mp4",
-          "autoplay": true,
-          "loop": true
+          "URL": "https://TrollStoreX.Github.io/sileodepiction/Demo/Test.mp4,
+          "width": 350,
+          "height": 622,
+          "cornerRadius": 12,
+          "alignment": 1,
+          "showPlaybackControls": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# Example Tweak\n\n一个强大的 iOS 越狱插件。",
+          "markdown": "这是一个测试插件。",
           "useSpacing": true
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
-            {
-              "url": "https://yourdomain.com/screenshots/1.png"
-            },
-            {
-              "url": "https://yourdomain.com/screenshots/2.png"
-            }
-          ]
-        },
-        {
-          "class": "DepictionButtonView",
-          "title": "GitHub",
-          "url": "https://github.com/example"
         }
       ]
     }
