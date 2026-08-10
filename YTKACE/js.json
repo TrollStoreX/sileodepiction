@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.8.2",
+                    "text": "0.8.3",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 09 日",
+                    "text": "2026 年 08 月 10 日",
                     "title": "最后更新"
                 },
                 {
@@ -95,6 +95,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.8.3\n- 新增日语本地化\n- 扩展了全部 15 种支持语言的本地化\n- 改进了重新启动 YouTube 后的 Cast 发现与行为\n- 移除了导致启动和订阅源卡顿的高成本 Cast 扫描\n- 重新设计了广告过滤功能，使信息流滚动更加流畅\n- 减少了不必要的播放处理和电池消耗\n- 在功能禁用时停止 SponsorBlock 处理\n- 修复了设置、下载、播放器和菜单中缺失的翻译",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.8.2\n- 初始发布"
