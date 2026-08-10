@@ -15,6 +15,18 @@
                     "class": "DepictionButtonView"
                 },
                 {
+                    "markdown": "## 该插件不支持RootHide 环境",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
                     "markdown": "## 让设备在越狱环境直接续签 AltStore，无需电脑和 VPN\n- 通过电脑安装 AltStore 并安装 Dopamine IPA\n- 安装 AltDaemonModern 后，AltStore 可以直接在设备上刷新应用\n- 打开：AltStore > 我的应用 > 全部刷新\n- 你不再需要电脑上运行 AltServer 来进行常规刷新，你也不需要 LocalDevVPN\n- 可以通过快捷指令定时运行续签",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
