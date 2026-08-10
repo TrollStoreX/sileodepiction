@@ -6,7 +6,7 @@
       "views": [
         {
           "class": "DepictionVideoView",
-          "url": "https://yourdomain.com/videos/demo.mp4",
+          "url": "https://TrollStoreX.Github.io/sileodepiction/Demo/Test.mp4",
           "autoplay": true,
           "loop": true
         },
