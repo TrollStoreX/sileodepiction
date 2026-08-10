@@ -15,7 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 该插件不支持RootHide 环境",
+                    "markdown": "## 该插件不支持 RootHide 环境",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
