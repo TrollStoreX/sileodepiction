@@ -66,17 +66,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5.2-2",
+                    "text": "1.5.4-2",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.5",
+                    "text": "iOS 15 - iOS 26.0.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 18 日",
+                    "text": "2026 年 08 月 13 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-2\n- 兼容 iOS 17 - iOS 26 越狱",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.2-2\n- 修复 iOS 16+ 上 cryptex 挂载的二进制文件未显示在守护程序列表中的问题\n- 修复守护程序配置无法正常工作的问题（这个问题已经存在好几个月了，为什么没人报告？？？）",
