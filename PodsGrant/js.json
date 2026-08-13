@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.5.3",
+                    "text": "0.5.4",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 10 月 19 日",
+                    "text": "2026 年 08 月 14 日",
                     "title": "最后更新"
                 },
                 {
@@ -92,6 +92,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.5.4\n- 添加 AirPods Pro 3 产品映射\n- 修复 iOS 14 和 15 上 AirPods Pro 3 的映射",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.5.1\n- 这个插件现在应该能够自动定位需要 hook 的核心功能了，这意味着所有 iOS 版本现在都应该受支持",
