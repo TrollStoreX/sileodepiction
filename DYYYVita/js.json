@@ -15,7 +15,7 @@
           "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 基于 DYYY 的抖音插件\n- 用于调整抖音 UI 的插件\n- 仅在抖音 34.2.0 版本中测试\n- 仅供学习交流，禁止用于商业用途\n- 通过“双指长按”或“抖音设置”进入插件",
+                    "markdown": "## 基于 DYYY 的抖音插件\n- 用于调整抖音 UI 的插件\n- 最后在抖音 39.9.0 版本进行测试\n- 仅供学习交流，禁止用于商业用途\n- 插件位于抖音设置内",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3-0 #19",
+                    "text": "2.3-0 #23",
                     "title": "当前版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.3.1",
+                    "text": "iOS 15 - iOS 26.0.1",
                     "title": "支持系统"
                 },
                 {
