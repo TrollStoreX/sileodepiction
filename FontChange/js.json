@@ -54,6 +54,19 @@
                     "spacing": 8
                 },
                 {
+                    "markdown": "## 兼容性\n- iOS 15.0 或更高版本\n- 多巴胺 RootHide：iphoneos-arm64e\n- zqbb 挂载版多巴胺：iphoneos-arm64\n- mount-bindfs-dopamine 外部字体挂载方案",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
                     "class": "DepictionHeaderView",
                     "title": "预览",
                     "useBoldText": true,
