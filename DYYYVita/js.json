@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3-0",
+                    "text": "2.3-0 #19",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 30 日",
+                    "text": "2026 年 08 月 14 日",
                     "title": "最后更新"
                 },
                 {
@@ -86,14 +86,20 @@
                     "class":"DepictionTableButtonView"
                 },
                 {
-                    "title":"抖音 DYYY 维他 Github 开源代码",
+                    "title":"维他 Github 开源代码",
                     "action":"https://github.com/Wtrwx/DYYY",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 },
                 {
-                    "title":"原版抖音 DYYY Github 开源代码 ",
+                    "title":"原版 Github 开源代码 ",
                     "action":"https://github.com/huami1314/DYYY",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"VexCove Github 开源代码 ",
+                    "action":"https://github.com/VexCove/DYYY",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
@@ -103,6 +109,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.3.0 #23\n- 新增高帧率与实时帧率显示\n- 解析弹窗改为可滚动，保存到相册时写入作品说明\n- 新增「隐藏评论收藏」选项（在长按评论设置中）\n- 增强绕登录功能，覆盖预登录拦截，并优化登录后身份稳定性\n- 登录后仅关闭版本门控，分身身份保持到退出\n- 快捷倍速与一键清屏支持固定贴边，并可重置位置\n- 更新关于页致谢文案，补充 Telegram/GitHub 链接，优化弹窗显示",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.2-7\n- 优化港澳台属地逻辑\n- 优化热更新模式，现在可以选择性应用，用不明白建议别开，会导致更多 bug\n- 修复部分人关注二次确认失效\n- 增加与其他应用同时播放（自签自测），已测试 trollfools，nathanlr\n- 修复文案时大时小问题\n- 优化下载进度条，点击一次取消，优化动画效果\n- 修复一些 bug",
