@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.9",
+                    "text": "1.2.0",
                     "title": "插件版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 10 日",
+                    "text": "2026 年 08 月 15 日",
                     "title": "最后更新"
                 },
                 {
@@ -99,6 +99,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2.0\n- 新增重新越狱自动恢复，自动启动后台服务并恢复系统目录挂载。\n- 新增自动恢复辅助程序，LaunchDaemon 启动失败时提供安全回退。\n- 新增 daemon 单实例保护，避免后台服务重复启动。\n- 新增自动恢复失败提醒，可直接进入 UMount 诊断。\n- 新增恢复状态记录，支持诊断 daemon、挂载、Bootloop Guard、Userspace Reboot 等异常。\n- 修复 Relaxin 环境下 Userspace Reboot 不稳定的问题。\n- 修复正常重启被误判为异常重启的问题。\n- 修复完整重启及不同 kernel boot / jailbreak session 间的状态残留。\n- 修复 daemon 启动过慢导致 App 错误显示后台服务离线的问题。\n- 修复 launchctl 超时后重复启动 daemon 的问题。\n- 缩短 daemon 启动及 heartbeat 检测时间，加快自动恢复。\n- 优化恢复流程，仍严格遵循「恢复挂载 → 验证挂载 → Userspace Reboot」。\n- 优化 Bootloop Guard 会话识别，避免旧状态污染新环境。\n- 移除重复的自动恢复及 Userspace Reboot 设置入口。\n- 完善诊断信息，增加 daemon 来源、恢复失败及提醒状态。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.9\n- 初始发布"
