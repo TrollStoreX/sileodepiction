@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.7",
+                    "text": "1.7-1",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 14 日",
+                    "text": "2026 年 08 月 17 日",
                     "title": "最后更新"
                 },
                 {
@@ -93,7 +93,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.7\n- 初始发布"
+                    "markdown": "### 1.7-1\n- 解决 GTok 原插件会注入中国抖音导致抖音闪退问题"
                 }
             ]
         }
