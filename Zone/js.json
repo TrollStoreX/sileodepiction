@@ -15,7 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## Zone 支持旧系统使用 .tendies 格式的交互壁纸/视频\n- [.tendies 交互壁纸资源下载 7GB](https://t.me/iOS_TrollStore/7555)\n- 支持 iOS 14 - iOS 17",
+                    "markdown": "## Zone 支持旧系统使用 .tendies 格式的交互壁纸/视频\n- [.tendies 交互壁纸资源下载 7GB](https://t.me/iOS_TrollStore/7555)\n- 支持调整壁纸\n- 支持双击锁屏\n- 支持 iOS 14 - iOS 17",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
