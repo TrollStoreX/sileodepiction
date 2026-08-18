@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4",
+                    "text": "1.4-1",
                     "title": "插件版本"
                 },
                 {
@@ -97,7 +97,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4\n- 初始发布"
+                    "markdown": "### 1.4\n- 修复设置图标偏小问题\n- RootHide 替换为原生 arm64e "
                 }
             ]
         }
