@@ -15,7 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 快速跳过开屏广告\n- 适配大多数应用，具体自测\n- 插件注入 com.apple.UIKit，有冲突自行禁用\n- 已测试 App：腾讯视频、爱奇艺、优酷、中国移动、中国联通、直播吧、微博、闲鱼、小蚕惠生活、豆瓣等",
+                    "markdown": "## 快速跳过开屏广告\n- 适配大多数应用，具体自测\n- 插件注入 com.apple.UIKit，有冲突自行禁用\n- 已测试 App：腾讯视频、爱奇艺、优酷、中国移动、中国联通、直播吧、微博、闲鱼、小蚕惠生活等",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
