@@ -71,17 +71,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.5.5",
+                    "text": "3.5.9",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.3.1",
+                    "text": "iOS 15 - iOS 26.0.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 05 日",
+                    "text": "2026 年 08 月 21 日",
                     "title": "最后更新"
                 }
              ]
@@ -90,6 +90,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.5.9\n- 修复多余转表情和保存按钮 bug\n- 修复单独注入时退群监控不提示 bug\n- 修复长语音转发不成功 bug\n- 修复低版本来新消息闪退 bug\n- 优化并重构代码，提升整体稳定性\n- 新增搜索微信号或 wxid 查找好友功能\n- 新增群发助手全选群聊或好友功能\n- 新增禁用设置页面杂项功能\n- 新增禁用邀请开通账号功能\n- 优化隐藏密友功能，隐藏效果更佳\n- 优化文字转语音音色效果\n- 提供 token 注册渠道\n- 修复视频解析 bug\n- 新增保存朋友圈实况图功能\n- 新增保存朋友圈背景图功能\n- 新增语音背景播放功能\n- 新增文字转语音功能\n- 修复面容解锁闪退 bug\n- 修复群聊语音自动转文字 bug\n- 修复头像圆角 bug\n- 修复群管标识位置 bug\n- 修复账号信息检测 bug\n- 优化插件备份效果",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.5.5\n- 初始发布",
