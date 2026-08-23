@@ -79,17 +79,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-9",
+                    "text": "2.1-5",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.3.1",
+                    "text": "iOS 15 - iOS 26.0.1",
                     "title": "支持系统"
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 03 日",
+                    "text": "2026 年 08 月 21 日",
                     "title": "最后更新"
                 },
                                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1-5\n- 修复复读、图库及部分设备闪退问题\n- 优化布局、分割线、按钮图标及语音功能\n- 优化语音转换与消息发送逻辑，移除 FFmpeg 减小体积\n- 新增后台常驻、消息复读鸡及手势复读\n- 新增渐变气泡及文本颜色自定义\n- 新增通讯录列表收纳\n- 增强二维码识别，支持相册直接扫码\n- 新增朋友圈自动点赞、评论、跟圈、特别关心及转发\n- 新增定时发送消息，支持多任务多消息\n- 优化朋友圈自动化功能的频率、刷新及评论逻辑",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-9\n- 修复热更新导致的语音按钮错位\n- 新增[消息类功能]-启用显示真实未读数量\n- 修复长按面板热更新",
