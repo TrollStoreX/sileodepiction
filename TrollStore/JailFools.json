@@ -15,7 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 越狱版 TrollFools 注入工具\n- 支持将 dylib 注入到应用内",
+                    "markdown": "## 越狱版 TrollFools 注入工具\n- 支持将 dylib 注入到应用内\n- 让应用在屏蔽越狱状态下可以注入插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.3.1",
+                    "text": "Relaxin iOS 15 - iOS 17.3.1",
                     "title": "支持系统"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "title": "真皮源",
-                    "action": "https://rootless.zqbb.cf/",
+                    "action": "https://rootless.zq666.eu.org/",
                     "openExternal": 1,
                     "class": "DepictionTableButtonView"
                 }
