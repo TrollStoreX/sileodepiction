@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.0-3",
+                    "text": "5.1.0",
                     "title": "插件版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 23 日",
+                    "text": "2026 年 08 月 24 日",
                     "title": "最后更新"
                 },
                 {
@@ -91,6 +91,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 5.1.0\n- 修复了某些插件注入不生效的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 5.0-3\n- 新增左上角全部重新注入按钮，重启后点一次\n- 新增长按信任按钮"
