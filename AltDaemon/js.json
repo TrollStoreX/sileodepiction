@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.0~modern2",
+                    "text": "1.1.5",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 10 日",
+                    "text": "2026 年 08 月 24 日",
                     "title": "最后更新"
                 },
                 {
@@ -107,6 +107,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.5\n- 修复了实验性 InstallCoordination 回退方案中 iOS 26 AltServer.ServerError 2002 崩溃的问题。该回退方案现在会将旧版安装标志转换为 iOS 26 所需的 MIInstallOptions 运行时对象，而不是传递一个 NSDictionary，后者会收到异步的无法识别的选择器并终止 AltDaemon。\n- 保留 1.1.4 版本中引入的 InstallCoordination 客户端授权，并在服务复制源 IPA 时保持其完整不变。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.0~modern2\n- 初始发布"
