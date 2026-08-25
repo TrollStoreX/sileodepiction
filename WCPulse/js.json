@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.6-6",
+                    "text": "1.7-2",
                     "title": "插件版本"
                 },
                 {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 21 日",
+                    "text": "2026 年 08 月 26 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7.2\n- 恢复旧版卡包页面，还原「卡包」标题及卡包、票券、证件等旧版分类页面\n- 资料页「更多」支持移出自己邀请的群成员\n- 恢复旧公众号列表，点击公众号直接进入详情页\n- 图库自动勾选原图，默认勾选后支持单次手动取消\n- 优化编辑后发送到会话的标题文案",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }, 
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.6.6\n- 修复编辑图片发送时的闪退问题\n- 修复视频倍速下滑调档时手势冲突\n- 修复侧边会话头像并发加载导致的偶发闪退\n- 修复编辑后发送与同类插件功能冲突导致重复发送\n- 融合聊天截图 ChatCapture\n- 新增启用滑动屏幕高刷\n- 新增朋友圈去广告\n- 新增屏蔽进群申请红字\n- 新增屏蔽群聊艾特红字\n- 新增群聊详情页拍一拍\n- 新增显示详细未读数量\n- 新增“新增的功能”分组",
