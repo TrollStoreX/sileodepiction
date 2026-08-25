@@ -71,17 +71,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-3",
+                    "text": "2.1-2",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.3.1",
+                    "text": "iOS 15 - iOS 26.0.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 07 日",
+                    "text": "2026 年 08 月 26 日",
                     "title": "最后更新"
                 },
                 {
