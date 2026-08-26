@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.6.6",
+                    "text": "2.7.0",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 09 日",
+                    "text": "2026 年 08 月 26 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,6 +89,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.7.0\n- 修复使用此插件导致 fv 不能通知下拉分屏问题\n- 优化修改图标加载逻辑，减少磁盘频繁读取，降低 I/O，提升流畅度\n- 新增更多功能页内直接操作该应用 roothide 黑名单开关\n- 新增禁止应用自动熄屏功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.6.6\n- Add English\n- 更多功能新增启动应用禁音\n- 更多功能新增应用启动亮度\n- 新增应用运行指示显示，设置页开启\n- 新增注销(SB)按钮\n- 优化降级应用功能",
