@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.7.0",
+                    "text": "2.7.1",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 26 日",
+                    "text": "2026 年 08 月 27 日",
                     "title": "最后更新"
                 }
             ]
