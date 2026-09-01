@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "6.3.0",
+                    "text": "6.5.1",
                     "title": "插件版本"
                 },
                 {
@@ -81,12 +81,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 04 日",
+                    "text": "2026 年 09 月 01 日",
                     "title": "更新日期"
                 },
                 {
-                    "title":"BHTwitter Github 开源地址",
-                    "action":"https://github.com/BandarHL/BHTwitter",
+                    "title":"NeoFreeBird Github 开源地址",
+                    "action":"https://github.com/orionblur/NeoFreeBird",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
                 }
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 6.5.1\n- 新增禁用新媒体轮播的选项（切换回旧版网格视图）\n- 修复了“确认关注”功能\n- 新增了更多日语翻译\n- 将点击暂停改为使用双指而非单指（现在这样操作可以关闭媒体视图）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 4.4-1+debug\n- 修复新版本中的所有崩溃问题\n- 在隐藏页面中添加新标签页\n- 新增：稍后回放私信页面和标签\n- 新增上传4K媒体\n- 新功能：在帖子和回复中添加语音功能\n- 更新语言本地化内容\n- 移除不必要的选项",
