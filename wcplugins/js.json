@@ -1,0 +1,101 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://trollstorex.github.io/sileodepiction/repo/banner.png",
+    "tintColor": "",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text": "加入巨魔越狱交流群 Chat",
+                    "action": "https://t.me/TrollStorePro",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "markdown": "## 微信插件管理\n- 收纳第三方微信插件\n- 位于微信右下角“我”-“插件”\n- 部分微信插件不支持收纳\n- 最后更新日期 2026.09.01",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{400, 400}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://trollstorex.github.io/sileodepiction/wcplugins/pic1.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.1-7",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 26.0.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 09 月 02 日",
+                    "title": "最后更新"
+                },
+                {
+                    "title": "真皮源",
+                    "action": "https://rootless.zqbb.cf/",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.1-7\n- 修复 8.0.78 进入其它插件页面不隐藏底栏问题\n- 由于修改了包，越狱用户需要先卸载旧版再重新安装"
+                }
+            ]
+        }
+    ]
+}
