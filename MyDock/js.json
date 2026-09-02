@@ -15,7 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "markdown": "## 键盘增强\n- 键盘底部显示「全选/粘贴/撤销/隐藏键盘」按钮",
+                    "markdown": "## 键盘增强\n- 安装默认生效无设置\n- 键盘底部显示「全选/粘贴/撤销/隐藏键盘」按钮",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -43,7 +43,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://trollstorex.github.io/sileodepiction/Mydock/pic1.png"
+                            "url": "https://trollstorex.github.io/sileodepiction/MyDock/pic1.png"
                         },
                     ]
                 },
