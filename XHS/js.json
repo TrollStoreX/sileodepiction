@@ -90,7 +90,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.8",
+                    "text": "1.2.9",
                     "title": "插件版本"
                 },
                 {
@@ -100,7 +100,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 09 月 01 日",
+                    "text": "2026 年 09 月 08 日",
                     "title": "最后更新"
                 },
                 {
@@ -115,6 +115,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2.9\n- 新增图片文字识别（开启后可在原下载按钮找到识别图片文字）\n- 新增评论区视频无水印下载（开启后使用小红书自己的保存按钮即可）\n- 新增私信自动回复（点击标题可配置AI及固定词回复）\n- 修复一些问题\n- 优化一些细节",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.2.8\n- 新增商品评论保存",
