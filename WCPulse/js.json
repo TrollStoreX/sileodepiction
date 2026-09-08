@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 26 日",
+                    "text": "2026 年 09 月 08 日",
                     "title": "最后更新"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.7-3\n- 新增小程序跳广告（代码由 wahaha 提供）\n- 修复 78 版本进聊天崩溃问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.7.2\n- 恢复旧版卡包页面，还原「卡包」标题及卡包、票券、证件等旧版分类页面\n- 资料页「更多」支持移出自己邀请的群成员\n- 恢复旧公众号列表，点击公众号直接进入详情页\n- 图库自动勾选原图，默认勾选后支持单次手动取消\n- 优化编辑后发送到会话的标题文案",
