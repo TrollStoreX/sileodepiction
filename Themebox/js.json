@@ -78,17 +78,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.3",
+                    "text": "3.0.5",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.3.1",
+                    "text": "iOS 15 - iOS 26.0.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 07 日",
+                    "text": "2026 年 09 月 08 日",
                     "title": "最后更新"
                 }
 
@@ -98,6 +98,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.0.5\n- 新增首页小组件功能\n- 新增可选顶栏素材，如果主题包内有多个可以指定加载哪个素材\n- 修复8.0.76热更新后使用毛玻璃/液态玻璃导致资料页闪退问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 3.0.3\n- 修复低于 8.0.60 版本闪退问题\n- 修复顶栏图标不变色问题\n- 映射问小微图标为 xiaowei_filled",
