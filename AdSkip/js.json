@@ -45,7 +45,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1.0",
+                    "text": "3.3.0",
                     "title": "插件版本"
                 },
                 {
@@ -55,7 +55,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 19 日",
+                    "text": "2026 年 09 月 10 日",
                     "title": "最后更新"
                 },
                 {
@@ -70,6 +70,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 3.3.0\n- 重构了新代码，所有 App 不用屏蔽注入，也不会闪退了",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.1.0\n- 初始发布"
