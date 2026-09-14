@@ -71,17 +71,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "6.5.1",
+                    "text": "6.7.0",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 17.3.1",
+                    "text": "iOS 15 - iOS 26.0.1",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 09 月 01 日",
+                    "text": "2026 年 09 月 14 日",
                     "title": "更新日期"
                 },
                 {
@@ -96,6 +96,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 6.7.0\n- 将 X 更新至 12.26（新增定时推文功能，非本人作品）\n- 新增使用 Tenor GIF 替代 GIPHY 的功能\n- 新增导出和导入设置的选项（不再显示“即将推出”！）\n- 新增从媒体下载时始终下载最高质量 MP4 文件的选项\n- 新增防止 X 在长时间离开应用后失去焦点的选项\n- 修复了俄语和日语本地化问题\n- 修复了水平滚动条上主题颜色不显示的问题\n- 修复了 iPad 上左上角 Twitter 图标不跟随主题着色的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 6.5.1\n- 新增禁用新媒体轮播的选项（切换回旧版网格视图）\n- 修复了“确认关注”功能\n- 新增了更多日语翻译\n- 将点击暂停改为使用双指而非单指（现在这样操作可以关闭媒体视图）",
